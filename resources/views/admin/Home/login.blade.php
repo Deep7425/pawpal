@@ -22,7 +22,7 @@
         </div>-->
         <div class="loginBgImage12">
         <div class="loginBgImage">
-        	<div class="loginBgImage123"><img src="img/loginBgImage.png" /></div>
+        	<div class="loginBgImage123"></div>
         </div>
         <div class="container-center123">
             <div class="panel panel-bd">
@@ -71,7 +71,7 @@
             
                 <footer class="main-footers common">
                     <div class="form-control">
-                        <strong>Copyright &copy;<span id="copyright-year"></span> <a href="#">HealthGennie Patient Portal</a>.</strong> All rights reserved.
+                        <strong>Copyright &copy;<span id="copyright-year"></span> <a href="#">Pawpal</a>.</strong> All rights reserved.
                     </div>
 		        </footer>
 

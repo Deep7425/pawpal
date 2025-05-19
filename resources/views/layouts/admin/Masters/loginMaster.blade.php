@@ -3,7 +3,7 @@
 		@yield('content')
 		<footer class="main-footers common">
 			<div class="container form-control">
-				<strong>Copyright &copy; 2019-2020 <a href="#">HealthGennie Patient Portal</a>.</strong> All rights reserved.
+				<strong>Copyright &copy; 2025 <a href="#">Pawpal</a>.</strong> All rights reserved.
 			</div>
 		</footer>
     </body>

@@ -1,0 +1,7121 @@
+@media only screen and (min-width:320px) and (max-width:600px) {
+    .checkup-detail {
+    width: 223px;
+    float: none;
+    background: #fff;
+    margin: 0 auto;
+    display: table;
+}
+}
+@media only screen and (min-width:470px) and (max-width:) {
+    body .navbar-nav li.dropdown.sub-nev-tool {
+    right: 155px!important;
+}
+body .navbar.navbar-default .navbar-right .doctor {
+    right: 50px!important;
+}
+body .navbar.navbar-default .navbar-right .login {
+    right: 154px!important;
+}
+}
+@media only screen and (max-width:470px) {
+    .doctor-claim-profile form #info_tab .add-doctor-left-box.OncallStatus p.oncall_fee {
+    margin-top: 10px;
+    margin-bottom: 0;
+    padding-top: 0;
+    width: 100%!important;
+    float: right;
+}
+.add-doctor-left-box.OncallStatus.ConsultationType .ConsultationType .Consultation11 p .help-block label {
+    width: 100%!important;
+}
+.ConsultationType .Consultation11 label {
+    width: 100%!important;
+    float: left!important;
+    padding: 6px 5px 0 0!important;
+}
+}
+@media only screen and (max-width:364px) {
+    .tabsholder2 .card-tabs-stack.inset .doctors-list .tab-bot-boxes.procedures .listing .list-bottom .cal-doctor .btn: last-child {
+    margin-right: 0;
+    margin-top: 10px;
+}
+.view-profile {
+    padding: 0!important;
+}
+}
+@media only screen and (max-width:639px) {
+    .left-wrapper h2 {
+    font-weight: 500;
+}
+.top-locality-div {
+    padding: 0px !important;
+}
+.top-locality-div .containerDiv h2 {
+    padding: 0px 0px 8px 0px;
+        font-size: 15px;
+}
+.top-locality-div .containerDiv ul li {
+	width:100%;
+    padding: 0px 4px 0px 0px;
+    font-size: 13px;
+}
+.containerDiv.containerDivDeshtop {
+    display: none;
+}
+.containerDivMobile {
+   display: block !important;
+}
+
+body .detail-page .doctor-profile .cons-fees {
+    padding-right: 0!important;
+}
+body .list-bottom .cal-doctor {
+    padding-bottom: 8px;
+    margin-right: 8px;
+}
+body .list-bottom .cal-doctor a {
+    width: 135px;
+}
+.list-bottom .cal-doctor:nth-child(2n) {
+    margin-left: 0;
+    margin-right: 0;
+}
+#doctorAppointmentSlot .modal-dialog {
+    width: 95%}
+body .tcb-product-item {
+    margin-bottom: 75px;
+}
+.tcb-product-slider #carousel-example-generic .carousel-control.right {
+    position: absolute;
+    top: inherit;
+    right: -50px;
+    bottom: 0;
+    left: 0;
+}
+.generate-codeWidth {
+    width: 100%;
+    margin: 0 auto;
+    float: left;
+}
+.generate-codeWidth .btn.btn-default.generateNow {
+    width: auto;
+    float: left;
+    background: #14bef0;
+    color: #fff;
+    margin-left: 1%;
+    margin-top: 25px;
+    border: 0;
+    padding: 7px 4px;
+}
+.generate-codeWidth .form-group {
+    width: 100%;
+    float: left;
+    padding: 0 0 0;
+}
+.generate-codeWidth .form-group .form-control {
+    padding: 6px 3px;
+}
+.add-doctor-left-box.OncallStatus.ConsultationType .ConsultationType .Consultation11 p .help-block label {
+    width: 100%!important;
+}
+.doctor-claim-profile form #info_tab .add-doctor-left-box.OncallStatus p.oncall_fee {
+    margin-top: 10px;
+    margin-bottom: 0;
+    padding-top: 0;
+    width: 100%!important;
+    float: right;
+}
+.camp-appointment-form .slot-details .doctor-listtop.doctor-listtop2 {
+    padding: 5% 20px 5% 20px;
+    min-height: auto;
+}
+#coupanApply {
+    background: #ef6423;
+    color: #fff;
+    border: 0;
+    padding: 0 23px;
+    width: auto;
+    border-radius: 0;
+    margin: 0 0 0 -3px;
+    height: 28px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+#enquiryModal .modal-content {
+    background-color: #00538a;
+    margin: auto;
+    padding: 0;
+    border: 0 solid #888;
+    width: 100%;
+    display: inline-block;
+    border-radius: 0;
+}
+#enquiryModal .modal-footer .btn-default {
+    width: 120px;
+    background: #00538a;
+    border: 1px solid #fff;
+    border-radius: 0;
+    color: #fff;
+    font-weight: 600;
+}
+#enquiryModal .items-section12 .help-block label {
+    color: red;
+    font-size: 12px;
+    font-weight: 400;
+}
+.cal-doctor img {
+    margin: 2px 0 0 5px;
+}
+.call_btn_div.remove_btn {
+    width: 74px;
+    right: 1px;
+    bottom: -7px!important;
+}
+.doc-fees-appt-time .doc-fees {
+    float: left;
+    width: 100%}
+.doc-fees-appt-time .appt-dateTime {
+    float: left;
+    width: 100%;
+    margin: 0;
+}
+.Sendapp_Link button.btn.btn-default.SendLink {
+    position: absolute;
+    background: #ff5e16;
+    color: #fff;
+    top: 3.3px;
+    right: 1px;
+    padding: 7px;
+}
+.doc-fees-appt-time .appt-dateTime label, .doc-fees-appt-time .appt-dateTime p {
+    font-size: 14px!important;
+    margin-bottom: 0;
+}
+.appointmentDetails {
+    float: left;
+    width: 100%;
+    background: #fff;
+    margin-top: 0;
+    padding: 3%}
+.appointmentDetails .user-details {
+    width: 90%;
+    float: left;
+    padding: 35px 0 0 0;
+    margin-left: 0;
+}
+.user-documents {
+    width: 100%;
+    float: left;
+    margin: 0 2% 0 0;
+    border: 1px solid #efefef;
+    position: relative;
+    padding: 6px;
+}
+.user-documents img {
+    width: 100%;
+    height: 100%}
+.content--filed-wrapper .download-div .btn {
+    padding: 3px 8px;
+    font-size: 12px;
+}
+.content--filed-wrapper p {
+    font-size: 14px;
+}
+.appoint-detail .appointmentDetails .content--filed-wrapper {
+    width: 86%;
+    float: left;
+    margin-left: 8px;
+    position: relative;
+}
+.doc-fees-appt-time {
+    width: 95%}
+.doc_available p.now {
+    margin-top: 0;
+}
+.appoint-detail .appointmentDetails .user-details {
+    width: 100%;
+    float: left;
+    padding: 35px 0 0 0;
+    margin-left: 0;
+}
+#uploadPrescriptionModal .modal-dialog {
+    width: 100%;
+    margin: 30px auto;
+}
+.appointmentDetails .user-details .user-img {
+    float: left;
+    width: 10%}
+.tcb-product-slider.Top-Specialities123.mobile-case-speciality {
+    display: block;
+}
+.mobile-speciality-Block .tcb-product-item {
+    background: #fff;
+    cursor: pointer;
+    min-height: auto;
+    border-radius: 4px;
+    text-align: center;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .16);
+    margin-left: 2px;
+    margin-bottom: 10px!important;
+}
+body .mobile-speciality-Block .tcb-product-item {
+    margin-bottom: 0;
+}
+.mobile-speciality-box {
+    background: #f1f1f1;
+    padding: 20px 0 15px;
+}
+.mobile-speciality-Block .tcb-product-item .tcb-product-photo a {
+    background: 0 0;
+    float: left;
+    width: auto;
+    padding: 12px 0 0 8px;
+}
+.mobile-speciality-Block .tcb-product-info {
+    padding: 15px 15px 0 70px;
+    text-align: left;
+    min-height: 90px;
+}
+.mobile-speciality-Block .tcb-product-photo img {
+    margin: 6px 0 0 0;
+}
+.tcb-product-slider.Top-Specialities123.desktop_topSpeciality {
+    display: none;
+}
+.Top-Specialities123 h1 {
+    font-size: 15px;
+    font-weight: 600;
+    margin: 2px 0 14px;
+    padding: 0;
+}
+.Top-Specialities123 {
+    width: 100%;
+    float: left;
+    padding: 0;
+}
+.tcb-product-slider #carousel-example-generic .carousel-control.left {
+    position: absolute;
+    top: inherit;
+    left: -50px;
+    bottom: 0;
+    right: 0;
+}
+#AppointmentWrapper.slot-details .from-widget .from-widget-section.gender .help-block {
+    top: 45px;
+}
+#carousel-example-generic {
+    position: relative;
+    height: 275px;
+    overflow: hidden;
+}
+#carousel-example-generic .itemP {
+    margin-right: 15px;
+}
+#carousel-example-generic .carousel-inner .item .col-xs-6 {
+    width: 48%;
+    padding: 0 5px;
+}
+.most-visited-profile a {
+    font-size: 15px;
+}
+.tcb-product-price {
+    font-size: 13px;
+    line-height: 16px;
+}
+.tcb-product-photo img {
+    width: 55px;
+    height: 55px;
+}
+.tcb-product-title h4 {
+    margin: 0 0 6px;
+}
+.bmi-wrapper h3 {
+    padding: 0 0 8px 0!important;
+    font-size: 18px;
+    text-align: left;
+}
+.well.text-center.calculate_bmi_report_data .well h3 {
+    font-size: 15px;
+}
+.well.text-center.calculate_bmi_report_data {
+    padding: 0 0 20px!important;
+}
+.blog-content h3 {
+    font-size: 18px;
+}
+.blog-crasuseal .blog-list h2 {
+    font-size: 15px;
+}
+.bmi-wrapper form #metric {
+    padding: 20px 20px 0;
+}
+.well.text-center .text-muted {
+    text-align: center;
+}
+.collapse.navbar-collapse.main-nav-mobile.container-fluid.main-nav-mobile {
+    display: none!important;
+}
+#AppointmentWrapper.slot-details .from-widget .from-widget-section label {
+    width: 100%}
+#AppointmentWrapper.slot-details .from-widget .from-widget-section .radio-wrap label {
+    width: auto!important;
+    font-weight: 400;
+}
+#AppointmentWrapper.slot-details .from-widget .from-widget-section.gender {
+    min-height: auto;
+}
+.form-fields.form-field-mid.specialization {
+    width: 100%;
+    padding-bottom: 10px;
+}
+#AppointmentWrapper.slot-details .from-widget .from-widget-section {
+    width: 100%}
+.mob-error {
+    display: block;
+}
+.desktop-error {
+    display: none;
+}
+body .sorting.sorting_fillterTop .form-group .btn-group .multiselect-container {
+    width: 175px;
+}
+body .sorting.sorting_fillterTop .form-group .btn-group .multiselect-container li a label {
+    font-size: 13px;
+}
+body .sorting.sorting_fillterTop .form-group .input-group-btn .btn.btn-primary {
+    width: auto;
+}
+body .sorting.sorting_fillterTop {
+    width: 80%;
+    float: none;
+    margin: 0 auto;
+}
+.sorting_fillterTop .multiselect span.multiselect-selected-text {
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: block;
+}
+#doctorAppointmentSlot .tab-pane.active {
+    background: 0 0;
+    padding: 0;
+    float: none;
+    margin: 0;
+    display: inherit;
+    position: inherit;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+}
+.sorting_fillterTop .multiselect span.multiselect-selected-text {
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: block;
+}
+.sorting.sorting_fillterTop {
+    width: 250px;
+    margin: 0 auto;
+    padding: 0;
+    float: none;
+}
+#my-tab-content .login_sucess_inner {
+    background: #efef;
+    padding: 50px 0 100px 0;
+    float: none;
+    margin: auto;
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    height: 563px;
+}
+.tab-pane.active {
+    background: #efef;
+    padding: 0;
+    float: none;
+    margin: 0 auto 0 auto;
+    display: inline-block;
+    position: inherit;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+}
+.banner-section .banner-content .slider.home-slider-ss {
+    display: none;
+}
+.banner-mob {
+    display: block;
+    width: 100%;
+    padding: 0 0;
+    float: left;
+    margin-top: 0;
+}
+.banner-mob img {
+    max-width: 100%}
+body .banner-section {
+    display: block;
+    padding: 0 15px;
+    margin-top: 0;
+}
+.download-app-inner {
+    margin: 0 auto;
+    width: 80%}
+.Account-Daitale1 {
+    width: 100%}
+body .doctor-claim-profile form #info_tab .add-doctor-left-box.OncallStatus {
+    width: 100%!important;
+}
+body .viewPdfFileModal .view-file-full {
+    width: 70%!important;
+    padding: 10px!important;
+}
+.container-inner.appointment-data-div.appointmetn-list .listing .dropdown .dropdown-content {
+    top: 30px;
+}
+.modal.myModalss-billing-items {
+    margin: auto;
+}
+.mob {
+    display: block;
+}
+.banner-service-section .product-section .col-md-4 {
+    padding: 0;
+    margin: 0;
+}
+body .viewPresFileModal .view-file-full {
+    width: 95%!important;
+}
+body .viewPresFileModal .view-file-full .modal-content {
+    height: auto;
+}
+body .appointment-data-div.appointmetn-list .myModalss-billing-items .modal-body .aad-items-billable-section {
+    width: 100%}
+body .appointment-data-div.appointmetn-list .myModalss-billing-items .modal-footer {
+    padding: 0;
+}
+body .jconfirm {
+    z-index: 9999999999;
+}
+body .listing.my-priscription-head .my-priscription-tag {
+    width: 100%}
+body .listing.my-priscription-head .btn {
+    float: left;
+}
+body .dashboard-right .appointment-data-div.appointmetn-list .listing .dropdown {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    text-align: center;
+}
+.download-app img {
+    width: 100%}
+.download-app a {
+    width: 115px;
+    display: inline-block;
+    text-align: center;
+    margin-left: 2%}
+.download-app p {
+    display: inline-block;
+    margin: 6px 0 0 0;
+    padding: 0;
+    color: #fff;
+    font-size: 15px;
+    text-align: center;
+}
+.download-app {
+    display: block;
+    width: 100%;
+    float: left;
+    text-align: center;
+    background: #ef6423;
+    padding-bottom: 4px;
+    padding-top: 5px;
+}
+body .toggle-wrapper button {
+    font-size: 13px;
+}
+body .healthcare_plan .view-icon {
+    top: 105px;
+}
+.healthcare_plan:first-child .view-icon:hover #lightbox-tooltip::after {
+    right: 0;
+    left: inherit;
+    top: -7px;
+    width: 0;
+}
+.healthcare_plan:first-child #lightbox-tooltip {
+    right: 0;
+    left: inherit;
+}
+body .view-icon:hover #lightbox-tooltip {
+    width: 220px;
+}
+body .toggle-wrapper {
+    width: 100%;
+    max-height: 100%}
+body .view-icon .lab-test.Lab_Test_Details .package-box {
+    float: left;
+}
+.lab-test.lab-test-profile .lab-order-id-section .order-id {
+    padding: 0;
+    background: 0 0;
+}
+.dashboard-wrapper.dashboard-plan-wrapper #LoadLabOrders .order-id {
+    margin-top: -2px;
+}
+body .username-side {
+    width: 105px;
+}
+.orderDiv.LabOrderList .lab-order-id-section .order-id {
+    padding: 0;
+    background: 0 0;
+    margin-bottom: 5px;
+}
+.user-detail-sidebar h3 {
+    font-size: 13px;
+}
+.order-track a {
+    width: 160px;
+}
+body .dashboard-wrapper.dashboard-plan-wrapper.sideband-menu-bar .page-container {
+    width: 208px;
+}
+body .dashboard-wrapper.dashboard-plan-wrapper.sideband-menu-bar .page-container .sidebar-menu {
+    width: 208px;
+}
+body .sidebar-menu::before {
+    width: 208px;
+}
+.dashboard-wrapper.dashboard-plan-wrapper.dashboard-right .lab-order-id-section .order-id {
+    background: 0 0;
+    padding: 0;
+    border-radius: 0;
+    width: 100%;
+    float: left;
+    border: 0;
+    padding: 0!important;
+}
+.dashboard-wrapper.dashboard-plan-wrapper .lab-order-id-section .order-id h3 {
+    background: #14bef0;
+    color: #fff;
+    padding: 8px 13px;
+    width: auto;
+    border-radius: 4px;
+    border: 1px solid #fff;
+    width: 160px;
+}
+.dashboard-wrapper.dashboard-plan-wrapper .right-section.new-tabs-section.checkoutCart .row {
+    margin: 0;
+}
+.right-section.new-tabs-section.checkoutCart {
+    width: 100%;
+    padding-top: 0!important;
+    margin-top: 0;
+}
+.panel-footer.footer {
+    padding: 0 15px;
+}
+.dashboard-wrapper.dashboard-plan-wrapper .appointmetn-list .date-wrapper {
+    width: 100%}
+.dashboard-wrapper.dashboard-plan-wrapper .appointmetn-list .rating_doctor-div {
+    position: absolute;
+    right: 4%;
+    top: 56px;
+    width: auto;
+}
+body span.pending-app {
+    font-size: 12px;
+    padding: 5px 5px!important;
+}
+body span.confirm-app {
+    font-size: 12px;
+    padding: 4px 5px!important;
+}
+body span.cancel-app {
+    font-size: 12px;
+    padding: 4px 5px!important;
+}
+body .top-navbaar {
+    position: relative;
+    z-index: 99999999999;
+}
+.dashboard-plan-wrapper .dashboard-right .container-fluid .container {
+    padding: 0;
+}
+.dashboard-plan-wrapper .lab-order-section table.tab-order-detail tr td p .order-address {
+    width: 85%}
+.order-track {
+    margin-top: 0;
+    float: left;
+}
+.content-blog-details p {
+    font-size: 11.5px;
+}
+.hg-club h3 {
+    font-size: 20px;
+}
+.dashboard-plan-wrapper.dashboard-wrapper .registration-wrap.user-info.profile-exam {
+    margin-top: 0;
+}
+body .dashboard-wrapper.dashboard-plan-wrapper .container-inner {
+    width: 100%;
+    float: left;
+    padding-top: 0;
+    max-width: 100%;
+    min-height: 480px;
+}
+body .filter-section {
+    padding-top: 0;
+}
+.HG_plan_Section {
+    padding-top: 0;
+}
+#userLead .modal-body form .waitingTime p {
+    float: left;
+    margin-right: 0;
+    width: 100%}
+.dashboard-wrapper.dashboard-plan-wrapper .container-inner.my-subscription-plans .registration-wrap.user-info.profile-exam {
+    overflow-x: scroll;
+}
+body #userLead .modal-body {
+    width: 85%!important;
+}
+body #userLead .modal-dialog {
+    width: 80%;
+    margin: 0 auto;
+}
+body .sidebar-menu {
+    top: 15px;
+    position: absolute;
+}
+body .HG_plan h2 {
+    font-size: 18px;
+    letter-spacing: 0;
+}
+body .HG-details .details-blog .content-blog-details {
+    margin: 0;
+    width: 100%}
+body .registration-wrap.user-info.profile-exam .user-profile-img .image_apload22 span.help-block {
+    top: 12px;
+    left: 85px;
+    width: 155px!important;
+}
+body .subscription-header .subs-date {
+    float: left;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+body .subscription-header .subs-heading {
+    font-size: 24px;
+    width: 100%;
+    float: left;
+}
+body .subscription-header-2 .subs-date {
+    float: left;
+}
+body .subs-trans-info .subs-trans {
+    width: 100%;
+    margin-bottom: 20px;
+}
+body .subs-trans-info .subs-trans:last-child {
+    width: 100%}
+body .subscription-header-2 .subs-date {
+    float: left;
+    width: 100%}
+.subcribed-plans {
+    overflow-y: hidden;
+}
+body .details-blog {
+    width: 48%;
+    text-align: center;
+    min-height: 134px;
+    padding-top: 10px;
+}
+.HG-details .details-blog img {
+    float: none;
+}
+.dashboard-plan-wrapper.dashboard-wrapper .dashboard-right {
+    width: 77%;
+    margin-top: 15px;
+    float: left;
+    margin-left: 80px;
+}
+.healthcare_plan {
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+    float: none;
+    margin-bottom: 45px;
+    text-align: left;
+}
+.healthcare_plan:last-child {
+    margin-bottom: 0;
+    background-size: 3%}
+.hg-plan-wrapper ul li {
+    line-height: 18px;
+}
+.dashboard-plan-wrapper .profiling-section.profiling-heading1222 {
+    width: 96%;
+    margin: 20px 2% 0 2%}
+body .dashboard-plan-wrapper.dashboard-wrapper .sidebar {
+    position: inherit;
+    height: auto;
+}
+body .dashboard-left {
+    width: 100%;
+    padding-bottom: 0;
+}
+body .dashboard-plan-wrapper .dashboard-right {
+    width: 100%;
+    padding: 0;
+}
+body .dashboard-plan-wrapper .dashboard-left ul li a {
+    background-size: 18px!important;
+    padding-left: 45px;
+}
+body .dashboard-plan-wrapper .dashboard-left ul li.my-appointment a {
+    background-size: 35px!important;
+}
+body .dashboard-plan-wrapper .dashboard-left ul li.my-appointment a:hover {
+    background-size: 35px!important;
+    background-position: 6px -40px!important;
+}
+body .registration-wrap.user-info.profile-exam .user-profile-img .image_apload22 span.help-block {
+    top: 5px;
+    left: 85px;
+    width: 135px!important;
+}
+body .details-blog {
+    width: 48%}
+.dashboard-plan-wrapper.dashboard-wrapper .dashboard-right {
+    padding-left: 0;
+    min-height: 500px;
+}
+.dashboard-wrapper.dashboard-plan-wrapper.sideband-menu-bar .dashboard-right {
+    margin-top: 0!important;
+}
+.healthcare_plan {
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+    float: none;
+    margin-bottom: 45px;
+}
+.dashboard-plan-wrapper .profiling-section.profiling-heading1222 {
+    width: 96%;
+    margin: 20px 2% 0 2%}
+body .dashboard-plan-wrapper.dashboard-wrapper .sidebar {
+    position: inherit;
+    height: auto;
+}
+body .dashboard-left {
+    width: 100%;
+    padding-bottom: 0;
+}
+body .dashboard-plan-wrapper .dashboard-right {
+    width: 100%;
+    padding: 0;
+}
+body .dashboard-plan-wrapper .dashboard-left ul li a {
+    background-size: 18px!important;
+    padding-left: 45px;
+}
+body .dashboard-plan-wrapper .dashboard-left ul li.my-appointment a {
+    background-size: 35px!important;
+}
+body .dashboard-plan-wrapper .dashboard-left ul li.my-appointment a:hover {
+    background-size: 35px!important;
+    background-position: 6px -40px!important;
+}
+.call_btn_div {
+    top: inherit;
+    bottom: 0!important;
+}
+body .email-form-wrapper .alert-success {
+    width: 100%;
+    float: left;
+}
+body #myCarousel .carousel-indicators li {
+    display: none;
+}
+.email-form-wrapper .alert-success {
+    float: right;
+    width: 50%;
+    padding: 10px;
+}
+body .reset-form-wrapper.login-wrapper .registration-wrap .form-bot-field {
+    width: 40%!important;
+    margin-right: 2%}
+body .reset-form-wrapper.login-wrapper .registration-wrap .form-bot-field .form-fields.send-button {
+    width: 100%!important;
+}
+.register-form-wrapper.login-wrapper #login_tab .contnet-sec {
+    width: 100%}
+.register-form-wrapper.login-wrapper #login_tab .registration-wrap.login-div-mobile .form-fields {
+    width: 92%!important;
+}
+.register-form-wrapper.login-wrapper #login_tab .registration-wrap.login-div-mobile .form-fields:nth-child(1n) {
+    margin-right: 4%!important;
+}
+.register-form-wrapper.login-wrapper #login_tab .registration-wrap.login-div-mobile .form-bot-field {
+    width: 130px!important;
+}
+.register-form-wrapper.login-wrapper #login_tab .registration-wrap.login-div-mobile .form-fields.register-btn-div {
+    width: 130px!important;
+}
+.call_btn_div.mob-show {
+    display: block;
+    right: 50px;
+}
+.call_btn_div.mob-show.remove_btn {
+    right: 20px;
+}
+body .call_btn_div .call_btn_div_new {
+    padding: 10px 5px 10px 35px;
+}
+body .call_btn_div {
+    top: inherit!important;
+    bottom: 10%;
+    height: 105px;
+}
+body .change-pwd-wrapper .profile-exam .form-fields {
+    width: 100%!important;
+}
+body .email-form-wrapper .alert-success {
+    width: 100%;
+    float: left;
+}
+body #myCarousel .carousel-indicators li {
+    display: none;
+}
+.email-form-wrapper .alert-success {
+    float: right;
+    width: 50%;
+    padding: 10px;
+}
+body .reset-form-wrapper.login-wrapper .registration-wrap .form-bot-field {
+    width: 40%!important;
+    margin-right: 2%}
+body .reset-form-wrapper.login-wrapper .registration-wrap .form-bot-field .form-fields.send-button {
+    width: 100%!important;
+}
+.register-form-wrapper.login-wrapper #login_tab .contnet-sec {
+    width: 100%}
+.register-form-wrapper.login-wrapper #login_tab .registration-wrap.login-div-mobile .form-fields {
+    width: 92%!important;
+}
+.register-form-wrapper.login-wrapper #login_tab .registration-wrap.login-div-mobile .form-fields:nth-child(1n) {
+    margin-right: 4%!important;
+}
+.register-form-wrapper.login-wrapper #login_tab .registration-wrap.login-div-mobile .form-bot-field {
+    width: 130px!important;
+}
+.register-form-wrapper.login-wrapper #login_tab .registration-wrap.login-div-mobile .form-fields.register-btn-div {
+    width: 130px!important;
+}
+.au-marathon-mobile-banner {
+    display: block;
+}
+.registration-wrapper .btn-register {
+    width: 100%;
+    float: left;
+    padding: 7px 0 15px 0;
+}
+.broucher_dwn {
+    width: 100%;
+    float: left;
+    position: inherit;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 20px;
+    bottom: 0;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    height: auto;
+    padding: 10px 0;
+    z-index: 999;
+}
+.g-recaptcha {
+    margin-top: 30px;
+    width: 100%;
+    float: left;
+}
+.registration-wrapper.contact-wrapper .radio-wrapper {
+    width: 100%;
+    padding: 0;
+}
+.dd-wrapper {
+    box-shadow: 0 0 0 0 hsla(0, 0%, 42.7%, .14);
+}
+.bottom-errors-content {
+    width: 100%;
+    float: left;
+    padding: 0;
+    margin-right: 0;
+    text-align: left;
+}
+.bottom-errors-content ul li a {
+    width: 100%}
+.navbar-default .navbar-nav.navbar-right li.dropdown.sub-nev-tool a img {
+    width: 20px!important;
+    height: 20px!important;
+}
+li.dropdown #g-account-menu li a img {
+    height: 30px!important;
+}
+.all-offers .allProfiles .package-box h3 {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.Symptoms_section.symptons-detail button {
+    right: 6px;
+    padding: 10px 8px;
+    top: 6px;
+}
+button.btn-book-appoiontment.view_Alldoc_speciality.low-top-btn {
+    width: 100px;
+}
+.slot-details .from-widget .from-widget-section label {
+    width: 140px;
+    font-size: 14px;
+    font-weight: 600;
+    float: left;
+}
+.Symptoms_section.symptons-detail.symptons_test_lows .btn-book-appoiontment.view_Alldoc_speciality {
+    position: absolute;
+    top: 6px;
+    right: 6px;
+    width: 100px;
+    padding: 6px 0;
+    margin-bottom: 10px;
+    float: right;
+}
+.symptons_test_lows123 .btn-book-appoiontment.view_Alldoc_speciality {
+    width: 100px;
+}
+#g-account-menu.dropdown-menu li a span {
+    float: left;
+    width: 128px;
+    line-height: 19px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.Get_company_top {
+    width: 100%;
+    float: left;
+    padding-top: 15px;
+}
+.navbar.navbar-default {
+    margin-bottom: 0!important;
+    min-height: auto!important;
+}
+.lab-test.Lab_Test_Details.single-lab-detail .checkup-detail h3 {
+    white-space: inherit;
+    overflow: hidden;
+    text-overflow: inherit;
+}
+.cart-open .cart-dd {
+    display: none!important;
+}
+.cart-wrapper:hover .cart-dd {
+    display: none!important;
+}
+.LabDetailsDivLosh .checkup-detail .test-included a {
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    float: left;
+    width: 100%}
+.checkup-package.labProfiles .LabDetailsDivLosh .checkup-detail.LabProfiles {
+    min-height: 265px;
+    width: 49%;
+    display: inherit;
+    margin: 0;
+    margin-right: 2%!important;
+    margin-bottom: 10px;
+}
+.checkup-package.labProfiles .LabDetailsDivLosh .checkup-detail.LabProfiles:nth-child(2n+0) {
+    margin-right: 0!important;
+}
+#steps-uid-0-p-3.body .address-wrapper .input-wrapper:last-child {
+    width: 100%}
+.order-date.labDiv_20 {
+    width: 102px;
+}
+.doctor-detail-wrapper .latest-prod-details .review-info p {
+    float: left;
+    width: 93%;
+    text-align: justify;
+}
+.order-id {
+    padding: 8px 13px;
+}
+.order-amount.labDiv_21 {
+    width: 104px;
+}
+.widget-time-slot table tr td {
+    display: inline-flex;
+}
+body #doctorAppointmentSlot .modal-header h2 {
+    font-size: 15px;
+    font-weight: 600;
+}
+.latest-prod-details {
+    padding-left: 0;
+    width: 100%}
+.all-offers .allProfiles .package-box.item {
+    min-height: 200px!important;
+}
+.order-date.labDiv_20 {
+    width: 102px;
+}
+.lab-test.Lab_Test_Details .LabDetailsDiv .package-box_lab .lab-test-block h3 {
+    font-weight: 400;
+    font-size: 14px;
+    color: #222;
+    margin: 0;
+    padding: 5px 0 5px;
+}
+.dd.searchDoctorModalDoctor {
+    padding: 10px 0 10px;
+}
+.BMICalculatorSection .form-group.wrapper {
+    padding-left: 20px!important;
+}
+.order-id {
+    padding: 8px 13px;
+}
+.order-amount.labDiv_21 {
+    width: 104px;
+}
+.lab-test.Lab_Test_Details h2 {
+    padding-top: 15px;
+    padding-bottom: 0;
+}
+.cart-empty-msg img {
+    width: 100%}
+span.grey-text {
+    padding: 0;
+    font-size: 13px;
+    width: 100%;
+    float: left;
+}
+span.rating-by {
+    padding: 8px 0 0 0;
+    font-size: 13px;
+    width: 100%;
+    float: left;
+}
+.recommend-review p {
+    width: auto;
+    float: left;
+    padding: 4px 10px 4px 10px;
+    margin: 2px 0 8px 0!important;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+}
+#MyCartPage .actions ul li a:hover {
+    background: #fff!important;
+    border: 1px solid #14bef0!important;
+    color: #14bef0!important;
+}
+body .report-section div p {
+    font-size: 14px;
+    word-break: break-all;
+}
+.bubble {
+    width: 20px;
+    height: 20px;
+    margin-top: 5px;
+}
+body .product-details.inner .orders-track label {
+    font-size: 10px;
+}
+body .completed .bubble div {
+    position: relative;
+    z-index: 99999;
+    font-size: 13px;
+    float: left;
+    width: 100%;
+    text-align: center;
+    line-height: 20px;
+}
+.footer_block h5 {
+    padding-top: 20px;
+}
+body .tab-order-detail tr td p.info-row {
+    word-break: break-all;
+    width: 100%}
+.section-top-1 table thead tr td {
+    text-align: left!important;
+}
+.section-top-1 table tbody tr td {
+    text-align: left!important;
+}
+.address-box {
+    min-height: 100px;
+}
+body #steps-uid-0-p-3 .address-wrapper .input-wrapper {
+    width: 100%}
+body .form-address-details.divForHide.CouponBox {
+    position: relative;
+}
+body .form-address-details.divForHide.CouponBox .input-box {
+    width: 100%}
+body .form-address-details.divForHide.CouponBox .input-box input {
+    padding-right: 80px;
+}
+body .form-address-details.divForHide.CouponBox button#coupanApply {
+    position: absolute;
+    top: 11px;
+    right: 16px;
+}
+.cart-open .cart-dd {
+    border: 1px solid #ddd;
+    border-top: 1px solid #14bef0;
+    top: 29px;
+}
+.owl-carousel.owl-theme.last-crowusal.owl-loaded.owl-drag .owl-stage-outer {
+    padding-bottom: 20px;
+}
+.lab-test .checkup-detail h3 {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.LabDashboardSection .owl-carousel .owl-nav {
+    padding-bottom: 30px;
+}
+.lab-test .package-box {
+    width: 100%;
+    margin-right: inherit;
+    margin-bottom: inherit;
+    position: relative;
+    margin: 0 auto!important;
+}
+body .notify.notify-top-right {
+    right: 12px!important;
+    min-width: 287px;
+}
+.all-offers .allProfiles .package-box.item {
+    width: 49%}
+.checkup-package.labProfiles .checkup-detail.LabProfiles {
+    min-height: 265px;
+    width: 46%;
+    display: inherit;
+}
+.checkup-package.labProfiles .checkup-detail.LabProfiles a {
+    font-size: 12px;
+}
+.checkup-package.labProfiles .checkup-detail.LabProfiles .book-now a {
+    padding: 6px 10%}
+.checkup-package.labProfiles .checkup-detail.LabProfiles img {
+    margin: 10px 0 0 10px;
+}
+.collapse.main-nav-mobile-lab.container-fluid ul li {
+    width: 100%;
+    float: left;
+}
+.collapse.main-nav-mobile-lab.container-fluid ul li a {
+    width: 100%;
+    float: left;
+}
+.collapse.navbar-collapse.main-nav-mobile.container-fluid {
+    display: block!important;
+}
+#searchLabModalDoctor .navbaar-bottom-box input.labSearching {
+    width: 100%;
+    height: 38px;
+    background: url(../img/search-dd.png) no-repeat;
+    cursor: pointer;
+    font-size: 12.8px;
+    border: 1px solid #efefef;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    border-radius: 0;
+    padding: 0 20px 0 27px;
+    text-transform: capitalize;
+    background-size: 16px!important;
+    background-position: 2% 11px!important;
+}
+#searchLabModalDoctor.modal .navbaar-bottom-box2 {
+    width: 100%;
+    margin: 54px 0 0 0;
+}
+#searchLabModalDoctor .dd-wrapper.labSearchByInput {
+    box-shadow: 0 0 0!important;
+    top: 50px;
+}
+#searchLabModalDoctor .dd-wrapper.labSearchByInput i img {
+    width: 30px;
+    margin: 4px 5px 0 1px;
+}
+#searchLabModalDoctor .location-top1 h2 {
+    border-bottom: 1px solid #ddd;
+}
+#searchLabModalDoctor.modal {
+    width: 100%;
+    height: 100%;
+    padding-top: 0;
+    overflow: auto;
+    background-color: #fff;
+    background-color: #fff;
+}
+.mobile-search button.searchLabModalDoctor {
+    width: 170px!important;
+    float: right;
+}
+body .navbar-default .navbar-nav.navbar-right li a img {
+    width: 15px!important;
+    height: 18px!important;
+    padding: 0;
+    float: left;
+    margin-bottom: 0;
+    margin-right: 6px;
+    margin-top: 0;
+}
+.mob-nav-ico {
+    width: 34px;
+    float: left;
+    margin-right: 10px;
+    margin-top: 1px;
+    border: 1px solid #efefef;
+    height: 32px;
+    text-align: center;
+    padding-top: 5px;
+    border-radius: 2px;
+}
+.mob-nav-ico img {
+    width: 70%;
+    height: auto;
+}
+.collapse.main-nav-mobile-lab {
+    float: left;
+    width: 100%;
+    background: #fff;
+    margin-bottom: 5px;
+    padding-bottom: 20px;
+}
+.collapse.main-nav-mobile-lab li {
+    width: 100%;
+    float: left;
+    border-bottom: 1px solid #efefef;
+}
+.collapse.main-nav-mobile-lab li.blogs-details {
+    border: 0!important;
+}
+.collapse.main-nav-mobile-lab li a {
+    border: 0;
+    padding: 10px 5px;
+}
+.collapse.main-nav-mobile-lab li img {
+    width: 25px;
+    float: left;
+    margin-right: 10px;
+}
+.collapse.main-nav-mobile-lab li .nav-section {
+    float: left;
+    width: 87%;
+    text-align: left;
+}
+.collapse.main-nav-mobile-lab li .nav-section h2 {
+    font-size: 16px;
+    color: #222;
+    margin: 0;
+    padding: 0;
+}
+.collapse.main-nav-mobile-lab li .nav-section p {
+    float: left;
+    color: #888;
+    font-size: 13px;
+    margin: 0;
+    padding: 0;
+}
+.collapse.main-nav-mobile-lab li .nav-section h3 {
+    margin: 0;
+    padding: 0;
+    font-size: 17px;
+    color: #14bef0;
+    font-weight: 400!important;
+}
+.checkup-detail .price-offer {
+    font-size: 14px;
+}
+.checkup-detail .discount-price {
+    margin-right: 0;
+}
+.LabDashboardSection .checkup-package.owl-carousel.owl-theme.owl-loaded.owl-drag .owl-stage .owl-item {
+    background: #fff;
+    min-height: 300px;
+}
+.LabDashboardSection .checkup-package.owl-carousel.owl-theme.owl-loaded.owl-drag .owl-stage .owl-item .checkup-detail {
+    width: 100%;
+    background: 0 0;
+    display: inherit;
+}
+.checkup-detail .test-included a {
+    padding: 4px 6px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100%}
+.waitingTime .address-box .coupon-wrapper [type=radio]:checked, .waitingTime .address-box .coupon-wrapper [type=radio]:not(:checked) {
+    left: 15px!important;
+}
+body .cart-wrapper:hover .cart-dd {
+    top: 29px;
+}
+.LabDashboardSection .owl-carousel .owl-dots.disabled, .LabDashboardSection .owl-carousel .owl-nav.disabled {
+    display: block!important;
+}
+.LabDashboardSection .owl-carousel .owl-dots.disabled, .LabDashboardSection .owl-carousel .owl-nav.disabled .owl-prev.disabled {
+    display: none;
+}
+.LabDashboardSection .owl-carousel .owl-dots.disabled, .LabDashboardSection .owl-carousel .owl-nav.disabled .owl-next.disabled {
+    display: none;
+}
+.LabDashboardSection .owl-carousel.owl-theme.last-crowusal.owl-loaded.owl-drag .owl-item .package-box h3 {
+    padding: 0 0 10px 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+#steps-uid-0-p-3 .address-wrapper .input-wrapper {
+    width: 48%}
+#steps-uid-0-p-2 .addAddressDiv #addAddressForm .input-wrapper {
+    width: 100%}
+#steps-uid-0-p-1 .patient-details .input-wrapper {
+    width: 100%}
+body .radio-wrapper.waitingTime {
+    padding-top: 20px;
+}
+body .radio-wrapper.bottom label {
+    margin-right: 10px!important;
+}
+#addAddressForm #saveAddress {
+    width: auto;
+}
+#steps-uid-0-p-2 .address-box {
+    width: 95%!important;
+}
+#steps-uid-0-p-2 .address-box .coupon-wrapper input {
+    width: auto!important;
+}
+#steps-uid-0-p-2 .address-box .float {
+    padding-left: 25px!important;
+    padding-top: 7px;
+}
+#steps-uid-0-p-2 .waitingTime .address-box [type=radio]:checked+label, #steps-uid-0-p-2 .waitingTime .address-box [type=radio]:not(:checked)+label {
+    left: 13px!important;
+    top: 8px!important;
+}
+body .radio-wrapper p {
+    float: left;
+    padding: 0;
+    position: relative;
+    margin: 0;
+}
+body .form-address-details.divForHide div {
+    width: 68%;
+    float: left;
+}
+.section-top-1 table thead tr td {
+    background: #efefef;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 10px 10px 10px 0;
+    text-align: center;
+}
+.section-top-1 table tbody tr td {
+    font-size: 13px;
+    text-align: left;
+    padding: 15px 0;
+}
+.section-top-1 table tbody tr td {
+    font-size: 13px;
+    text-align: left;
+    padding: 15px 0;
+}
+.order-overview .left {
+    float: left;
+    width: 100%;
+    margin-top: 0;
+}
+.order-overview .right {
+    float: left;
+    width: 100%;
+    margin: 43px 0 0 0;
+}
+.coupon-wrapper {
+    text-transform: capitalize;
+    font-size: 13px;
+    position: relative;
+    width: auto;
+    float: left;
+}
+.waitingTime .address-box .coupon-wrapper [type=radio]:checked, .waitingTime .address-box .coupon-wrapper [type=radio]:not(:checked) {
+    left: 14px!important;
+    top: 10px!important;
+    margin: 0;
+    height: auto;
+}
+body .cart-wrapper:hover .cart-dd {
+    top: 29px;
+}
+.steps li a span.number {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 30px;
+    font-size: 15px!important;
+}
+.wizard>.steps .current a, .wizard>.steps .current a:hover, .wizard>.steps a {
+    line-height: 16px;
+    padding: 1.3em .3em;
+    font-size: 10px;
+}
+.wizard .steps a {
+    height: 60px;
+}
+body #MyCartPage {
+    padding: 25px 5px;
+}
+body .order-overview table tr td {
+    font-size: 13px;
+}
+body .order-overview table tr td span {
+    font-size: 13px;
+    width: 100%;
+    float: left;
+    margin: 0;
+}
+.wizard>.steps .disabled a, .wizard>.steps .disabled a:active, .wizard>.steps .disabled a:hover {
+    font-size: 10px;
+    padding: 1.3em .5em;
+}
+.wizard>.steps a, .wizard>.steps a:active, .wizard>.steps a:hover {
+    padding: 1.3em 1em;
+}
+.all-offers .allProfiles .package-box.item {
+    width: 49%;
+    min-height: 140px;
+    position: relative;
+    float: left;
+    margin: 0 2% 10px 0!important;
+}
+.all-offers .allProfiles {
+    width: 100%;
+    float: left;
+}
+.screening.allGroups .small-blogs.item {
+    width: 32%;
+    margin-right: 2%;
+    min-height: 108px;
+}
+.screening.allGroups .small-blogs.item img {
+    width: 60px;
+}
+.screening.allGroups .small-blogs.item:nth-child(3n+0) {
+    margin-right: 0;
+}
+.screening.allGroups .small-blogs h4 {
+    font-size: 13px;
+    font-weight: 500;
+    color: #222;
+    width: 100%;
+    float: left;
+}
+.main-banner-slider {
+    display: none;
+}
+.main-banner-slider.mobile {
+    display: block;
+}
+.main-banner-slider.mobile img {
+    width: 100%}
+.checkup-package.labProfiles .checkup-detail {
+    width: 96%;
+    float: left;
+    margin-bottom: 20px;
+    min-height: 370px;
+    overflow: hidden;
+    margin: 0 2% 5%}
+.checkup-package.labProfiles h2 {
+    margin-left: 2%;
+    width: 98%}
+.checkup-package.labProfiles .checkup-detail img {
+    width: auto;
+    height: auto;
+}
+.lab-test .package-box a {
+    padding: 10px 0 10px 0;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.allProfiles .package-box.item:nth-child(2n+0) {
+    margin-right: 0!important;
+}
+.lab-test h2 {
+    font-size: 15px;
+}
+.Sendapp_Link {
+    width: 89%;
+    float: none;
+    position: relative;
+    padding: 0;
+    margin: 7px auto 6px;
+    display: table;
+}
+.Sendapp_Link .appLinkSendSuccess {
+    bottom: -19px;
+}
+.Sendapp_Link .LinkSendMobileNo {
+    background: #fff!important;
+    border: 0;
+    width: 100%;
+    height: 36px;
+    padding: 0 2%}
+.lab-test .package-box {
+    width: 100%;
+    float: none;
+    margin-right: inherit;
+    margin-bottom: inherit;
+    position: relative;
+    margin: 0 auto!important;
+}
+.SendAppLink .Get_company_content h5 {
+    text-align: center;
+}
+.Get_company_content {
+    width: 100%;
+    float: right;
+    padding: 0;
+    text-align: center;
+}
+.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-prev {
+    left: 40%;
+    height: 30px;
+    width: 30px;
+    top: inherit;
+    bottom: 10px;
+}
+.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-next {
+    right: 38%;
+    height: 30px;
+    width: 30px;
+    top: inherit;
+    bottom: 10px;
+}
+.lab-test .container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+.package-box.item .total_count {
+    font-size: 13px;
+}
+.package-box.item b {
+    font-size: 12px;
+}
+body .product .section-1.inner {
+    width: 85%}
+body .LabDashboardSection h2 {
+    width: 80%}
+body .product .section-1 p.product-name {
+    width: 100%;
+    padding-top: 0;
+}
+body .navbar.navbar-default {
+    height: auto!important;
+}
+.product .items12 .items .section-2 h4 {
+    padding: 0;
+    text-align: left;
+}
+.filter-section .filters a {
+    margin: 0 1% 8px 0;
+    font-size: 12px;
+    padding: 5px 6px;
+}
+.order-date {
+    font-size: 12px;
+    width: 100%;
+    text-align: center;
+}
+.order-amount {
+    font-size: 12px;
+    width: 100%}
+.checkup-package.owl-carousel.owl-theme.owl-loaded.owl-drag .owl-item .checkup-detail img {
+    margin: 10px 0 0 10px;
+}
+.lab-test.Lab_Test_Details .LabDetailsDiv .package-box_lab .lab-test-block {
+    width: 85%}
+.lab-test.Lab_Test_Details .LabDetailsDiv .package-box {
+    width: 100%;
+    margin-bottom: 5px!important;
+    float: left;
+}
+.single-lab-detail .LabDetailsDiv .package-box {
+    width: 100%;
+    float: left;
+}
+.all-offers .checkup-package.allOffers .checkup-detail.item {
+    width: 49%;
+    display: inherit;
+    float: left;
+    margin-bottom: 20px;
+    overflow: hidden;
+    min-height: 256px;
+    margin-right: 2%}
+.all-offers .checkup-package.allOffers .checkup-detail.item:nth-child(2n+0) {
+    margin-right: 0;
+}
+.all-offers .checkup-package.allOffers .checkup-detail.item.checkup-detail img {
+    max-width: 92px;
+    height: auto;
+    margin: 10px 0 0 8px;
+}
+.all-offers .checkup-package.allOffers .checkup-detail.item .book-now a {
+    padding: 10px 15%}
+.all-offers .checkup-package.allOffers .blog-wrapper-content {
+    padding: 8px;
+}
+.all-offers .checkup-package.allOffers .checkup-detail .test-included a {
+    padding: 4px 9px;
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    float: left;
+    width: 100%}
+.all-offers .checkup-package.allOffers .checkup-detail h3 {
+    padding: 0 8px;
+}
+.all-offers .checkup-package.allOffers .certification {
+    padding: 5px 8px 10px 8px;
+}
+.lab-test.Lab_Test_Details .LabDetailsDiv .checkup-package {
+    width: 100%;
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+.lab-test.Lab_Test_Details .LabDetailsDiv .package-box_lab {
+    width: 100%;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #efefef;
+    margin-top: 0;
+}
+.checkup-package h2 {
+    font-size: 22px;
+}
+.screening.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-next {
+    right: 38%;
+    width: 30px;
+    height: 30px;
+    top: inherit;
+}
+.screening.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-prev {
+    left: 35%!important;
+    top: inherit;
+    width: 30px;
+    height: 30px;
+}
+.checkup-package.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-next {
+    right: 35%!important;
+    top: inherit;
+    width: 30px;
+    height: 30px;
+}
+.checkup-package.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-prev {
+    left: 40%;
+    top: inherit;
+    width: 30px;
+    height: 30px;
+}
+.screening.owl-carousel.owl-theme.owl-loaded.owl-drag .owl-item img {
+    width: 85px!important;
+}
+.repor-download {
+    width: 100%;
+    padding-top: 25px;
+}
+.navbar-nav li.dropdown.sub-nev-tool {
+    right: 155px!important;
+}
+body .navbar.navbar-default .navbar-right .doctor {
+    right: 55px;
+    width: auto!important;
+}
+body header .navbar.navbar-default .navbar-collapse ul li.medicine.cart-wrapper a img {
+    float: none;
+    margin: 0 0 5px 0;
+    width: 20px;
+    height: auto!important;
+}
+body header .navbar.navbar-default .navbar-collapse ul li.medicine.cart-wrapper a p span.cartTotal {
+    position: absolute;
+    left: 13px;
+    top: -6px;
+}
+body header .navbar.navbar-default .navbar-collapse ul li.medicine.cart-wrapper a {
+    padding: 0;
+    background: 0 0;
+    border: 0;
+    box-shadow: 0 0 0;
+}
+body header .navbar.navbar-default .navbar-collapse ul li.medicine.cart-wrapper {
+    display: block!important;
+    position: absolute;
+    top: 16px;
+    right: 28px;
+}
+.doctor-co2.timing p {
+    width: 100%;
+    margin-right: 0;
+}
+#RescheduleWreppar .profile-detail.auto {
+    width: 73%!important;
+    float: left;
+}
+#RescheduleWreppar .profile-detail.auto h2 {
+    font-size: 16px;
+}
+#RescheduleWreppar .date-formet-top {
+    width: 300px;
+    float: none;
+    margin: 10px auto 0 auto;
+    display: table;
+}
+body #RescheduleWreppar .reschedule-app-page ul li {
+    width: auto;
+    float: left;
+}
+body #RescheduleWreppar .reschedule-app-page ul li a {
+    padding: 12px 6px;
+}
+body #RescheduleWreppar .reschedule-app-page ul li a img {
+    width: 15px!important;
+    height: 15px!important;
+}
+body #RescheduleWreppar .reschedule-app-page .widget-time-slot tr td {
+    width: auto!important;
+    margin-right: 3px;
+}
+body #RescheduleWreppar .reschedule-app-page .widget-time-slot tr td a {
+    margin-right: 0!important;
+    width: 85px;
+    padding: 5px 8px!important;
+}
+#doctorAppointmentSlot .nav-tabs li {
+    width: 32%;
+    text-align: center;
+}
+#doctorAppointmentSlot .nav-tabs li a img {
+    width: 12px;
+    height: auto;
+    padding-right: 3px;
+}
+.tab-title h2 {
+    width: 100%;
+    text-align: center;
+}
+.form-fields.form-field-mid.pad-r1.form-group .waitingTime.form-control p {
+    width: 50%}
+.navbar-default .navbar-nav.navbar-right li a.dropdown-toggle {
+    padding: 6px 4px 6px 6px;
+}
+.navbar-default .navbar-nav.navbar-right li.doctor a button {
+    padding: 6px 5px!important;
+}
+.doctor-claim-profile .tabsholder1 #clinic_details_tab .registration-wrap.doc-register .form-fields input {
+    padding: 0 26% 0 3%}
+#register-form .registration-wrap .form-fields i.btn-reset-clinic {
+    top: 25px;
+}
+body .appointment-popup-block .input-age-group select {
+    width: 44px;
+}
+body .right-con-wrapper .rating_doctor-div {
+    width: 120px;
+    left: 0;
+    top: 19px;
+}
+body .right-con-wrapper {
+    width: 76%;
+    padding-bottom: 10px;
+}
+.listing.detail-page .list-bottom .cal-doctor a {
+    padding: 9px 16px;
+    width: 170px;
+    margin-bottom: 8px;
+}
+.listing.detail-page .list-bottom .cal-doctor {
+    position: inherit;
+    margin-bottom: 15px;
+    margin-right: 15px;
+}
+#userProfileInfoData .registration-wrap.user-info.profile-exam #fileselector label {
+    width: 70px;
+}
+#userProfileInfoData .registration-wrap.user-info.profile-exam #fileselector {
+    bottom: 0;
+}
+.doctor-claim-profile .doctor-info .form-fields #country {
+    font-size: 11px;
+}
+.hospital-detail-page .listing.detail-page .list-bottom .cal-doctor {
+    position: inherit;
+    width: 150px;
+    float: left;
+}
+.hospital-detail-page .listing.detail-page .list-bottom .cal-doctor a {
+    width: 100%;
+    float: left;
+}
+.hospital-detail-page .listing.detail-page .list-bottom .cal-doctor a img {
+    display: none;
+}
+.suggestion-wrapper .content-wrapper-not-found p {
+    text-align: center;
+}
+#clinic_details_tab .suggesstion-box ul li .detail-clinic {
+    float: left;
+    font-size: 14px;
+    width: 82%}
+.right-content.suggested-width {
+    width: 100%;
+    float: left;
+    margin-left: 0;
+}
+.listing-right-wrapper .right-small {
+    width: 100%;
+    float: right;
+    margin-bottom: 30px;
+}
+body div.list-bottom.sponsered-btn a {
+    font-size: 12px;
+    padding: 0 4px;
+}
+body div.list-bottom.sponsered-btn {
+    width: 100%;
+    float: right;
+    padding: 0;
+}
+body .listing-right-wrapper .listing .doc-img .rating_doctor-div {
+    width: auto;
+    left: 24%;
+    top: 12%}
+.suggestion-wrapper.no-result-found h2 {
+    text-align: center;
+    width: 100%}
+.suggestion-wrapper.no-result-found h2 strong {
+    float: none;
+}
+.suggestion-wrapper.no-result-found .doctorRegistrationDiv {
+    position: inherit;
+    margin: 10px auto;
+    float: none;
+    display: inline-block;
+}
+.suggestion-wrapper.no-result-found a.btn.btn-success.view_information {
+    position: inherit;
+    top: 0;
+    right: 0;
+    padding: 0;
+    left: 0;
+    MARGIN: 0;
+}
+body .btn-profile-wrapper .view-profile a {
+    float: none;
+    margin-right: 0!important;
+    width: 200px;
+    margin-bottom: 10px!important;
+    padding: 6px 0!important;
+}
+body #myModalLabOrderPP .close {
+    width: 25px;
+    height: 25px;
+    font-size: 24px;
+    top: -3px;
+    right: -4px;
+    background: 0 0;
+    text-shadow: 0 0 0;
+    color: #222;
+}
+body .aad-items-billable {
+    top: 0;
+}
+.top-header-blog p:first-child {
+    background: #14bef0;
+    color: #fff;
+    border-radius: 3px;
+    padding: 0 10px;
+}
+body .dd-wrapper .search-data .seeAllInfo {
+    padding: 0!important;
+}
+body .dd-wrapper .search-data .seeAllInfo h3 {
+    padding: 8px 2% 8px 3%}
+body .dd-wrapper h3 {
+    padding: 8px 2% 8px 4%}
+.similar-blog-list h4 {
+    font-size: 13px;
+    font-weight: 700;
+}
+body p.first-para {
+    font-size: 16px!important;
+    line-height: 20px;
+    text-align: justify;
+    font-weight: 600;
+}
+.blog-detail p {
+    text-align: justify;
+    letter-spacing: -.5;
+}
+.blog-detail h1 {
+    font-weight: 800;
+    font-size: 21px;
+}
+.new-tabs-section.checkoutCart .col-xs-8.col-sm-12 {
+    width: 100%;
+    float: left;
+}
+.new-tabs-section.checkoutCart .panel-title h5 {
+    padding-left: 15%!important;
+}
+.new-tabs-section.checkoutCart .scartPart {
+    width: 100%;
+    float: left;
+    margin: 0;
+}
+.new-tabs-section.checkoutCart .panel-footer.footer .pull-left {
+    width: 100%;
+    float: left;
+    padding: 8px 5%!important;
+}
+.new-tabs-section.checkoutCart .panel-footer.footer .pull-left h4 {
+    font-size: 15px;
+}
+.footer_bottom_block p {
+    font-size: 13px;
+}
+body .nav.navbar-nav {
+    display: none;
+}
+body .nav.navbar-nav.navbar-right {
+    display: block;
+    border-bottom: 0;
+}
+.mobile-top {
+    display: block;
+}
+.destop-top {
+    display: none;
+}
+#register-form h3.checkbox-divOpd {
+    width: 100%}
+body .navbar-default .dropdown.sub-nev-tool a.dropdown-toggle {
+    background: #fff;
+    padding: 4px 6px 5px 6px!important;
+    border-radius: 3px;
+    border: 1px solid #14bef0;
+    width: auto;
+    float: right;
+    margin: 3px 4px 0 0;
+}
+body .navbar-default .dropdown.sub-nev-tool a.dropdown-toggle .user-nametop {
+    display: none;
+}
+body .navbar-default ul#g-account-menu::after {
+    top: -11px;
+    left: 0;
+    margin-left: 0;
+    content: "";
+    border-bottom-color: #fff!important;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-top-color: transparent;
+    border-style: solid;
+    border-width: 5px;
+}
+.navbar-nav li.dropdown.sub-nev-tool {
+    width: 125px;
+}
+span.user-nametop {
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 75px;
+    float: left;
+    line-height: 15px;
+    font-size: 13px;
+}
+.navbar-nav li.dropdown.sub-nev-tool.open a.dropdown-toggle {
+    background: #14bef0;
+}
+.navbar-nav li.dropdown.sub-nev-tool.open a i, .navbar-nav li.dropdown.sub-nev-tool.open a span.caret {
+    color: #fff;
+}
+.navbar-nav li.dropdown.sub-nev-tool .dropdown-toggle .fa.fa-user-circle-o {
+    float: left;
+    padding-right: 2px;
+    font-size: 12px;
+    margin: 2px 0 0 0;
+}
+.navbar-nav li.dropdown.sub-nev-tool .dropdown-toggle span.caret {
+    margin-top: -1px;
+}
+.navbar-nav li.dropdown #g-account-menu li:first-child a {
+    font-weight: 600;
+    line-height: 29px;
+}
+.main-div-schedule .pop-up-detail .sessions-div .set_error {
+    float: left;
+    width: 49%;
+    margin-bottom: 7px;
+    margin-right: 2%}
+.schedulingTop {
+    width: 100%;
+    float: left;
+}
+.main-div-schedule .pop-up-detail .sessions-div .set_error:nth-child(2n+0) {
+    margin-right: 0;
+}
+.main-div-schedule .pop-up-detail .sessions-div .set_error select {
+    width: 100%}
+#profileAlertModel.eventModel.profileAlertModel .modal-dialog {
+    width: 100%}
+.navbar-header {
+    background: #efefef;
+}
+#AppointmentWrapper.slot-details .from-widget .from-widget-section {
+    min-height: 85px;
+}
+#AppointmentWrapper.slot-details .help-block {
+    line-height: 11px;
+}
+.form-fields.form-field-mid.specialization {
+    margin-top: 10px!important;
+}
+div#searchDoctorModalArea {
+    top: 0;
+    padding: 0;
+    background: #fff;
+}
+.location-top {
+    width: 100%;
+    float: left;
+    padding: 0;
+    position: relative;
+}
+.location-top h2 {
+    width: 100%;
+    float: left;
+    padding: 17px 0 17px 0;
+    margin: 0;
+    color: #000;
+    font-size: 18px;
+    text-align: center;
+}
+div#searchDoctorModalArea .star-rating-div {
+    right: -34px;
+}
+div#searchDoctorModalDoctor .dd {
+    padding: 13px 0;
+    position: relative;
+}
+div#searchDoctorModalDoctor .dd span.text {
+    width: 90%}
+#doctorAppointmentSlot .modal-content {
+    padding: 7px;
+}
+.location-top .btn-primary {
+    width: auto;
+    float: left;
+    padding: 0;
+    position: absolute;
+    top: 16px;
+    right: 20px;
+    background: 0 0;
+    color: #333;
+    border: 0;
+    font-size: 20px;
+    font-weight: 300;
+}
+div#searchDoctorModalArea .navbaar-bottom-block {
+    width: 100%;
+    padding: 0;
+}
+div#searchDoctorModalArea .navbaar-bottom-section {
+    width: 100%;
+    padding: 3px 10px 0 10px;
+}
+div#searchDoctorModalArea .dd {
+    width: 100%;
+    float: left;
+    background: #fff;
+    padding: 7px 10px;
+    border-bottom: 1px solid #efefef;
+    cursor: pointer;
+}
+div#searchDoctorModalArea .navbaar-bottom-block.local-area-search .form-control:focus {
+    border-color: #ccc;
+    outline: 0;
+    -webkit-box-shadow: inset 0 0 0 rgba(0, 0, 0, .075), 0 0 0 rgba(102, 175, 233, .6);
+    box-shadow: inset 0 0 0 rgba(0, 0, 0, .075), 0 0 0 rgba(102, 175, 233, .6);
+}
+body div#searchDoctorModalArea .dd i {
+    margin: 0 11px 0 1px;
+}
+body div#searchDoctorModalArea .dd i img {
+    height: auto;
+    margin-top: 4px;
+}
+div#searchDoctorModalArea .container {
+    width: 100%;
+    float: left;
+    padding: 0;
+}
+.doctor-claim-profile .registration-wrap.doc-register .form-fields.doctor-img .image_apload22 .image_apload span.help-block {
+    bottom: -20px;
+    color: red;
+}
+.opd-timings-slot {
+    float: left;
+}
+body .filer-bar {
+    padding: 15px 0 10px 0;
+}
+div#searchDoctorModalDoctor {
+    width: 100%;
+    float: left;
+    padding: 0;
+    background: #fff;
+}
+div#searchDoctorModalDoctor .star-rating-div {
+    right: 2px;
+}
+div#searchDoctorModalDoctor .detail {
+    position: initial;
+}
+div#searchDoctorModalDoctor .container {
+    width: 100%;
+    float: left;
+    padding: 0 6px 0 6px;
+}
+div#searchDoctorModalDoctor .navbaar-bottom-box2 {
+    width: 100%;
+    margin: 0 0 0 -1px;
+}
+div#searchDoctorModalDoctor .navbaar-bottom-box input {
+    background-position: 97% 10px!important;
+    background-size: 16px!important;
+    border: 1px solid #ccc;
+}
+div#searchDoctorModalDoctor .navbaar-bottom-box .btn-default {
+    width: auto;
+    position: absolute;
+    right: 10px;
+    top: 1px;
+    color: #fff!important;
+    background: 0 0;
+    border-radius: 0;
+    border: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 35px;
+    background: #fff;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+div#searchDoctorModalDoctor .dd-wrapper .search-data {
+    overflow: hidden;
+    overflow-y: auto;
+    max-height: 100%;
+    background: #fff;
+}
+div#searchDoctorModalDoctor .navbaar-bottom-section {
+    width: 100%;
+    padding: 57px 0 0 0;
+}
+div#searchDoctorModalArea .navbaar-bottom-section {
+    width: 100%;
+    padding: 57px 6px 0 6px;
+}
+div#searchDoctorModalArea .navbaar-bottom-block.local-area-search .form-control input {
+    border: 1px solid #ccc;
+}
+div#searchDoctorModalArea .dd-wrapper .search-data {
+    overflow: hidden;
+    overflow-y: auto;
+    max-height: 100%;
+    background: #fff;
+}
+div#searchDoctorModalArea .dd {
+    width: 100%;
+    float: left;
+    background: #fff;
+    padding: 7px 10px;
+    border-bottom: 1px solid #efefef;
+    cursor: pointer;
+    position: relative;
+}
+div#searchDoctorModalArea .dd .city-name-span {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 12px;
+    color: #c2c2c2;
+}
+div#searchDoctorModalArea .detail {
+    position: initial;
+}
+body div#searchDoctorModalDoctor .dd i {
+    margin: 0 10px 0 8px;
+    width: 30PX;
+    height: auto;
+}
+.location-top1 {
+    width: 100%;
+    float: left;
+    position: fixed;
+    z-index: 999999999999;
+    left: 0;
+    right: 0;
+    background: #fff;
+}
+#myModalLabOrderPP {
+    padding-top: 200px;
+}
+li.dropdown #g-account-menu li a img {
+    margin-top: 5px;
+}
+body .navbar-default ul.navbar-right ul#g-account-menu {
+    height: auto!important;
+    padding: 0!important;
+}
+ul.navbar-right ul#g-account-menu li:last-child {
+    width: 100%}
+.navbar-nav li.dropdown.sub-nev-tool {
+    position: absolute;
+    top: 0;
+    right: 108px;
+    width: auto;
+}
+.no-result-found a {
+    border: 0;
+}
+.mobile-search button:hover {
+    background: #efefef;
+    border: 1px solid #efefef;
+}
+.mobile-search button {
+    width: 49%;
+    float: left;
+    font-weight: 600;
+    padding: 6px 5px;
+    margin: 0;
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-weight: 500;
+}
+.mobile-search button:last-child {
+    margin-left: 2%}
+.mobile-search button i {
+    margin-right: 6px;
+}
+div#searchDoctorModalArea .dd.select_area_by:last-child {
+    margin-bottom: 200px;
+}
+.modal.eventModel.profileAlertModel {
+    padding-top: 200px;
+}
+.modal.eventModel.profileAlertModel .modal-content {
+    width: 300px;
+    padding: 10px;
+    float: none;
+    margin: 0 auto;
+}
+.modal.eventModel.profileAlertModel .modal-content img {
+    width: 50%}
+.eventModel.profileAlertModel .modal-dialog h2 {
+    font-size: 14px;
+    font-weight: 600;
+}
+.appointment-popup-block .input-group.date span {
+    border-left: 0;
+}
+#userProfileInfoData .registration-wrap.user-info.profile-exam {
+    padding: 5%}
+#userProfileInfoData .registration-wrap.user-info.profile-exam .form-title {
+    padding-bottom: 15px;
+}
+#userProfileInfoData .registration-wrap.user-info.profile-exam .form-title h2 {
+    margin-bottom: 0;
+    padding-bottom: 5px;
+}
+#userProfileInfoData .registration-wrap.user-info.profile-exam .form-title p {
+    width: 100%;
+    float: left;
+    font-size: 13px;
+    letter-spacing: 0;
+}
+.contact-wrapper h2:after {
+    width: 20%}
+.contact-detail-wrapper p {
+    width: 100%}
+.contact-wrapper .form-fields {
+    margin-right: 0!important;
+    width: 100%;
+    float: left;
+}
+.search-data-icon img {
+    width: 12px!important;
+    margin: 4px 3px 0 0;
+}
+.star-rating-div {
+    right: 0;
+}
+.label-success {
+    background-color: #fff!important;
+    color: #222;
+}
+.label-danger {
+    background-color: #fff!important;
+    color: #222;
+}
+.banner-service-section {
+    padding: 0;
+}
+body .collapse.navbar-collapse.main-nav-mobile {
+    display: block!important;
+    width: 100%;
+    float: left;
+}
+body .collapse.navbar-collapse .main-nav-desktop {
+    display: none!important;
+}
+body .nav.navbar-nav {
+    margin-bottom: 0!important;
+    border-bottom: 1px solid #efefef;
+}
+.btn-default {
+    background-color: #fff;
+    border-color: #efefef;
+}
+.main-nav-mobile ul.navbar-nav li.apoointment {
+    width: 49%;
+    float: left;
+    margin-right: 2%;
+    margin-top: 7.5px;
+}
+.main-nav-mobile ul.navbar-nav li a {
+    border: 0;
+}
+.main-nav-mobile ul.navbar-nav li.medicine {
+    width: 49%;
+    float: left;
+    margin-top: 7.5px;
+}
+.main-nav-mobile ul.navbar-nav li.lab-test {
+    margin-top: 5px;
+    width: 49%;
+    margin-right: 2%}
+.navbar-nav {
+    margin: 0 -15px!important;
+}
+.main-nav-mobile ul.navbar-nav li.blogs-details {
+    margin-top: 5px;
+    width: 49%}
+.main-nav-mobile ul.navbar-nav li.blogs-details img {
+    width: 30px;
+    margin: 10px 0 13px 0;
+}
+.main-nav-mobile ul.navbar-nav li.blogs-details a {
+    min-height: 113px;
+}
+.main-nav-mobile ul.navbar-nav li.lab-test a {
+    width: 100%;
+    float: left;
+    padding: 10px;
+}
+.main-nav-mobile ul.navbar-nav li {
+    border: 1px solid #efefef;
+    border-radius: 3px;
+    text-align: center;
+}
+.main-nav-mobile ul.navbar-nav li img {
+    margin-bottom: 8px;
+    width: 45px;
+}
+.main-nav-mobile ul.navbar-nav li .nav-section h2 {
+    font-size: 17px;
+    color: #222;
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+}
+.main-nav-mobile ul.navbar-nav li .nav-section p {
+    font-size: 11px;
+    color: #888;
+    font-weight: 600;
+}
+.dd-wrapper.doctorSearchByInput .search-data .dd.view_information i.icon-ic_gps_system img {
+    margin-top: 4px;
+}
+.navbar-default .navbar-nav.navbar-right li a .nav-section h3 {
+    font-size: 17px;
+    font-weight: 500;
+    letter-spacing: 0;
+}
+.bmi-wrapper form .form-group.wrapper {
+    background: 0 0;
+    padding: 0;
+}
+.bmi-wrapper form .form-group.wrapper .radio:first-child {
+    padding-top: 0;
+    margin-right: 16px;
+    margin-bottom: 0;
+}
+.bmi-wrapper form .form-group.wrapper .radio {
+    width: auto;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+.bmi-wrapper form .form-group.wrapper span {
+    border-radius: 0;
+}
+header .navbar.navbar-default .navbar-collapse ul li.lab-test {
+    text-align: center;
+}
+.navbar-default .navbar-nav.navbar-right li a {
+    width: 100%}
+header .navbar.navbar-default .navbar-collapse ul li.medicine {
+    text-align: center;
+}
+.navbar-default .navbar-nav.navbar-right li.apoointment a, .navbar-default .navbar-nav.navbar-right li.lab-test a, .navbar-default .navbar-nav.navbar-right li.medicine a {
+    float: left;
+    border: 0;
+    background: #fff;
+    box-shadow: 0 1px 3px #ddd;
+    color: #222;
+    padding: 14px 10px;
+    border-radius: 4px;
+    border: 1px solid #efefef;
+}
+.navbar-default .navbar-nav.navbar-right li a img {
+    float: none;
+    margin: 0 0 5px 0;
+}
+header .navbar.navbar-default .navbar-collapse ul li.apoointment {
+    text-align: center;
+}
+.navbar-default .navbar-nav.navbar-right li a .nav-section {
+    width: 100%;
+    text-align: center;
+}
+.btn-detect {
+    width: auto;
+}
+body .dd i {
+    margin: 0 2px 0 1px;
+    width: auto;
+    height: auto;
+}
+body .dd span.text {
+    font-size: 14px;
+    font-weight: 500;
+}
+body .dd span.spec {
+    margin: -2px 0 0 0!important;
+}
+.mobile-search .container {
+    padding: 0;
+}
+body .detail {
+    width: 75%;
+    float: left;
+}
+.dd span.text {
+    width: 100%}
+.mobile-search {
+    display: block;
+    padding: 0;
+    margin: 6px 0!important;
+    float: left;
+}
+.desktop-search {
+    display: none;
+}
+.banner-section {
+    display: none;
+}
+.navbar.navbar-default .navbar-collapse {
+    display: block!important;
+}
+.navbar.navbar-default .navbar-header button {
+    display: none;
+}
+.navbar.navbar-default .navbar-right .login {
+    position: absolute;
+    top: 8px;
+    right: 172px;
+    width: auto;
+}
+.navbar-default .navbar-nav.navbar-right li.login a {
+    padding-right: 0;
+}
+.navbar.navbar-default .navbar-right .login .login-btn-top button {
+    padding: 0 4px!important;
+}
+.navbar.navbar-default .navbar-right .doctor {
+    position: absolute;
+    top: 8px;
+    right: 15px;
+}
+.navbar.navbar-default .navbar-right .doctor a, .navbar.navbar-default .navbar-right .login a {
+    padding: 0;
+    margin: 0;
+}
+body .navbar-brand>img {
+    display: block;
+    width: 50%}
+.navbar-default .navbar-nav.navbar-right li a {
+    padding: 6px 10px;
+}
+.doctor-claim-profile .registration-wrap.doc-register .form-fields span.help-block {
+    bottom: 0;
+    margin-bottom: 0!important;
+}
+.btn-book-appoiontment {
+    width: 138px;
+}
+.doctor-info h2 {
+    margin: 15px 0;
+    font-size: 18px;
+}
+.btn-header a {
+    padding: 0 12px;
+}
+.btn-header {
+    float: left;
+    position: absolute;
+    top: -43px;
+    left: 44%}
+.registration-wrap.doc-register .f-name-field input {
+    width: 70%!important;
+    margin-left: -1px;
+}
+.slot-details .from-widget-top {
+    padding: 20% 20px 4% 20px;
+}
+body #AppointmentWrapper .appoint-confirm-wrapper.no-bg.confirmation_div img {
+    float: none;
+}
+body #AppointmentWrapper .appoint-confirm-wrapper.no-bg.confirmation_div {
+    min-height: inherit;
+    padding-top: 7%;
+    width: 100%;
+    margin: 0 auto;
+    display: inline-block;
+    float: none;
+    text-align: center;
+    padding: 6% 6%}
+body #AppointmentWrapper .text-wrapper {
+    width: 100%!important;
+    margin: 0!important;
+    text-align: center;
+}
+body #AppointmentWrapper .text-wrapper p {
+    text-align: center!important;
+}
+body #AppointmentWrapper h1 {
+    padding: 0;
+    font-weight: 600;
+    font-size: 23px;
+    color: #222;
+    text-transform: capitalize;
+    float: left;
+    text-align: center;
+    width: 100%;
+    margin: 10px 0 0 0;
+}
+.appointment-popup-block .input-age-group input {
+    width: 58%!important;
+}
+.appointment-popup-block22 .appointment-popup-block2 .appointment-popup-block .input-age-group.fromDateModal input {
+    width: 48%!important;
+}
+.profile-pic-wrap {
+    width: 100%;
+    float: left;
+}
+.dp-exiting {
+    width: 100%;
+    float: left;
+}
+.bmi-wrapper .container {
+    margin: 0;
+    padding: 0;
+}
+.bmi-wrapper .row {
+    margin: 0;
+    padding: 0;
+}
+.bmi-wrapper form .form-group.wrapper {
+    width: 100%;
+    margin-bottom: 0;
+    min-height: auto!important;
+}
+.bmi-wrapper form #metric {
+    width: 100%;
+    min-height: auto!important;
+}
+.bmi-wrapper {
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-bottom: 0;
+}
+.nav-tabs li a {
+    font-size: 13px;
+}
+.well.text-center.calculate_bmi_report_data {
+    padding: 20px 0;
+    min-height: auto;
+    width: 100%}
+#myModalLabOrderPP .modal-body {
+    width: 91%;
+    margin: auto;
+    padding: 0;
+    display: table;
+}
+#myModalLabOrderPP .modal-dialog {
+    width: 100%!important;
+    background: 0 0!important;
+    border: 0!important;
+    box-shadow: 0 0 0!important;
+    border-radius: 0!important;
+    overflow: inherit!important;
+    margin: 0;
+}
+#myModalLabOrderPP .modal-content img {
+    width: 100%;
+    height: auto;
+}
+.modal-for-share-patient-experience .modal-body .form-fields {
+    padding: 0 4px;
+}
+.about-wrapper h1 {
+    font-size: 20px;
+}
+.blogs-wraper {
+    width: 100%;
+    margin: 0 0 30px 0;
+    padding: 40px 30px;
+}
+.about-wrapper h4 {
+    font-size: 19px;
+}
+.ppt-video-image {
+    width: 95%}
+.ppt-video-image iframe {
+    border: 10px solid #000;
+    width: 100%;
+    height: 100%}
+body .price-range-block {
+    margin: 10%}
+.contact-wrapper form {
+    width: 100%}
+.contact-detail-wrapper {
+    width: 100%;
+    float: left;
+}
+.appointment-data-div .view-profile .btn-warning {
+    margin-bottom: 10px;
+}
+.Get {
+    width: 100%}
+.dd-wrapper {
+    z-index: 999999999;
+}
+body .login-wrapper .registration-wrap .form-bot-field .form-fields.send-button {
+    width: 38%!important;
+}
+body .login-wrapper .registration-wrap .form-bot-field .form-fields.send-button button {
+    width: 100%!important;
+}
+.registration-wrap .form-fields.send-button button {
+    font-size: 13px;
+    padding: 0 5%!important;
+    border-radius: 3px;
+}
+.registration-wrap .form-fields.send-button button:hover {
+    background: #fff;
+    border: 1px solid #14bef0;
+    border-radius: 3px;
+    color: #14bef0;
+}
+#AppointmentWrapper .from-widget .from-widget-section:nth-child(2n) {
+    margin-right: 0!important;
+    width: 100%}
+#AppointmentWrapper .from-widget .appointment-popup-block22 select {
+    width: 50%}
+.similar-blog-list .content {
+    float: left;
+    width: 70%}
+.date-wrapper {
+    width: 60%;
+    float: left;
+}
+.appointment-data-div .listing .date-wrapper .schedule-date {
+    width: auto;
+}
+.appointment-data-div .profile-detail ul li img {
+    margin-top: 0;
+    padding-top: 4px;
+    width: 12px;
+}
+.eventModel.profileAlertModel .modal-dialog {
+    margin: 0 auto;
+}
+body .navbar-default ul#g-account-menu {
+    position: absolute;
+    width: 175px;
+    height: 163px;
+    top: 46px;
+    background: #fff;
+    padding: 0 10px!important;
+    left: 0;
+    box-shadow: 0 1px 4px 0 #c1c0c0;
+}
+ul.navbar-right ul#g-account-menu li:nth-child(4n) {
+    width: 100%}
+.navbar-nav li.dropdown #g-account-menu li:first-child a {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.navbar-nav li.dropdown #g-account-menu li a {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    width: 100%!important;
+    border-bottom: 1px solid #efefef;
+    font-size: 13px;
+}
+body .slider .slides li .caption {
+    left: 3%}
+body .pageHeader {
+    width: 100%!important;
+}
+body .pageHeader label {
+    width: 100%;
+    float: left;
+    letter-spacing: -.5;
+    font-size: 12px;
+}
+body .top-strip-wrtapper button {
+    top: 3px;
+    right: -10px;
+}
+.bmi-wrapper .checkbox label, .radio label {
+    padding-left: 0;
+}
+.bmi-wrapper form .form-group.wrapper span {
+    margin-left: 0;
+}
+body #userProfileInfoData .registration-wrap .form-fields {
+    width: 100%!important;
+    float: left;
+    min-height: auto;
+    max-height: inherit;
+}
+body #userProfileInfoData .registration-wrap .image_apload {
+    width: 70px;
+}
+body #userProfileInfoData .registration-wrap.user-info.profile-exam #fileselector {
+    width: 65%}
+body #userProfileInfoData .registration-wrap .form-fields input.s-input.verifyPatData {
+    width: 68%!important;
+}
+body .slider {
+    height: auto;
+}
+.banner-section h3 {
+    font-size: 30px;
+}
+body .slider .slides {
+    height: 240px;
+}
+.slider .slides li .caption {
+    width: 95%!important;
+}
+.navbaar-bottom-box input {
+    white-space: nowrap;
+    overflow: hidden!important;
+    text-overflow: ellipsis;
+    width: 100%;
+    background-position: 94% 12px!important;
+    background-size: 8%!important;
+}
+#msg {
+    bottom: 40px;
+    margin-bottom: 0;
+}
+.add-more-session.schedule {
+    position: absolute;
+    bottom: 30px;
+    right: 3%}
+.doctor-claim-profile ul.nav.nav-tabs li {
+    width: auto!important;
+}
+.doctor-claim-profile ul.nav.nav-tabs li a {
+    padding: 12px 13px;
+    font-size: 13px;
+}
+body .slot-details .doctor-listtop-content.doctor-listtop-content2 {
+    width: 100%!important;
+}
+body .slot-details .from-widget .from-widget-section {
+    width: 100%;
+    margin-right: 0;
+}
+body .appointment-popup-block {
+    width: 100%!important;
+}
+body .slot-details .from-widget .appointment-popup-block22 .from-widget-section-top2 {
+    width: 100%!important;
+}
+.blog-content h3 {
+    text-align: center;
+}
+.blog-content p {
+    text-align: center;
+}
+.DataFilterBySorting {
+    -moz-appearance: none;
+    border-radius: 0;
+    -webkit-appearance: none;
+    height: auto;
+}
+.footer_bottom_box p {
+    text-align: center;
+}
+.footer_bottom_block {
+    text-align: center;
+}
+ul.navbar-right li:nth-child(4n) {
+    width: auto;
+}
+ul.navbar-right li:last-child {
+    width: auto;
+}
+ul.nav li {
+    width: 100%;
+    float: left;
+}
+.product-section .dd {
+    background: 0 0!important;
+}
+.owl-pagination {
+    margin-top: 0!important;
+}
+.most-visited-profile p {
+    position: inherit;
+    line-height: inherit;
+    bottom: inherit;
+}
+body .most-visited-profile .dr-profile img {
+    position: relative;
+}
+body .most-visited-profile .FAQ .container .dr-profile:nth-child(3) img {
+    width: 30%}
+body {
+    padding-top: 0;
+    border-top: 0 solid #14bef0;
+}
+.nav-tabs li a {
+    padding: 12px 18px;
+}
+.login-wrapper {
+    width: 90%}
+body .profile-detil .registration-wrap #opd_timing_tab .form-fields {
+    width: auto!important;
+}
+body .profile-detil .registration-wrap .form-fields {
+    width: 100%!important;
+}
+body .form-fields.send-button.doc-profile {
+    width: 100%!important;
+}
+body .form-fields.send-button.doc-profile.final-form-submit {
+    width: auto!important;
+}
+body .form-fields.send-button.doc-profile.final-form-submit .formSubmit {
+    padding-left: 16px!important;
+    padding-right: 16px!important;
+    height: 32px;
+    line-height: 32px;
+}
+.doctor-claim-profile .registration-wrap.doc-register .form-fields {
+    margin-bottom: 0!important;
+    padding-bottom: 20px!important;
+}
+.doctor-claim-profile .registration-wrap.doc-register .form-fields label {
+    margin-bottom: 0!important;
+}
+body .profile-detil .registration-wrap .form-fields {
+    padding-bottom: 0!important;
+    margin: 0 0 15px 0;
+}
+body .profile-detil .registration-wrap .form-fields.gender {
+    min-height: auto;
+}
+.registration-wrap .form-fields input.s-input.verifyDocData {
+    width: 70%!important;
+    float: left;
+}
+.registration-wrap select {
+    width: 30%;
+    padding: 6px;
+}
+.doctor-img #fileselector .btn-default {
+    padding: 11px 20px 11px 20px;
+}
+.doctor-img.form-fields .image_apload {
+    width: 60px;
+    height: 60px;
+}
+.login-wrapper #login_tab .contnet-sec {
+    width: 100%}
+.registration-wrap {
+    width: 100%!important;
+}
+.blog-detail .container-inner {
+    width: 100%}
+.blog-detail .continer-right {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+.contnet-sec h2 {
+    font-size: 22px;
+}
+.blog-inner .blog-crasuseal .blog-list {
+    width: 100%;
+    min-height: auto;
+    padding-bottom: 20px;
+}
+.blog-inner .blog-crasuseal {
+    width: 100%}
+.blog-wrapper-section .continer-right {
+    width: 100%}
+.blog-content {
+    width: 100%;
+    text-align: center;
+}
+.blog-crasuseal {
+    width: 100%;
+    float: left;
+}
+.blog-crasuseal .blog-list {
+    width: 100%;
+    float: left;
+    margin-bottom: 15px;
+    margin-right: 0;
+}
+.blog-wrapper {
+    position: relative;
+    padding-bottom: 70px;
+}
+.blog-content a button {
+    background: #14bef0;
+    border: 0;
+    border-radius: 3px;
+    color: #fff;
+    position: absolute;
+    padding: 10px 20px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    z-index: 9999999;
+    margin-bottom: 20px;
+    width: 150px;
+}
+.modal-for-share-patient-experience .modal-body .form-fields .star-rate-div {
+    width: 100%;
+    float: left;
+}
+.profile-detail p.completePclaimed {
+    margin-left: 0;
+}
+body .right-content.suggested-width .rating_doctor-div {
+    right: inherit;
+    top: 34px;
+}
+body .right-content.suggested-width .profile-detail ul {
+    margin-top: 20px;
+}
+.rating_doctor-div {
+    width: auto;
+    right: 10px;
+}
+.detail-page .cal-doctor-feedback-pat a {
+    padding: 8px 20px;
+    width: 170px;
+}
+.health_experts_content h2, .health_experts_content h3, .health_experts_content p, .health_experts_content span {
+    width: 94%;
+    padding-right: 3%!important;
+    padding-left: 3%!important;
+}
+.health_experts_content .btn-default {
+    margin: 20px 0 0 11px;
+}
+.testimonial .testimonial-title {
+    margin-top: 0;
+}
+.Find_Doctors_heading {
+    width: 100%}
+.Find_Doctors_heading h2 {
+    padding-bottom: 10px;
+    font-size: 22px;
+    text-align: center;
+}
+.Find_Doctors_btn .btn-default {
+    float: left;
+}
+.Get_company_img {
+    display: none;
+}
+.most-visited-profile .dr-profile {
+    float: none;
+    border: 0;
+    width: 100%;
+    margin: 0 auto 15px auto;
+    min-height: auto;
+    PADDING: 8% 0;
+}
+.most-visited-profile .FAQ .container {
+    width: 100%;
+    float: left;
+    padding: 0;
+}
+.pageHeader label {
+    font-size: 12px;
+}
+.pageHeader a:hover {
+    color: #fff!important;
+}
+.pageHeader a {
+    margin: 6px 0 4px 8px;
+    display: inline-block;
+    padding: 4px 2%;
+    font-size: 12px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.slot-details .doctor-listtop.doctor-listtop2 .doctor-listtop-img {
+    float: none;
+    margin: 0 auto;
+}
+.slot-details .doctor-listtop.doctor-listtop2 {
+    width: 100%;
+    float: left;
+    min-height: auto;
+    margin-bottom: 15px;
+}
+.slot-details .from-widget-top {
+    width: 100%;
+    float: left;
+}
+.slot-details .doctor-listtop-img {
+    width: 70px;
+}
+.slot-details .doctor-listtop-img img {
+    max-width: 100%;
+    height: auto;
+}
+.slot-details .doctor-listtop-content span {
+    font-size: 14px;
+}
+.doctor-listtop-content.doctor-listtop-content2 {
+    padding-right: 0!important;
+    width: 60%!important;
+    font-size: 12px;
+}
+.doctor-listtop-content h2 {
+    font-size: 20px;
+    word-break: break-all;
+}
+.widget-time-slot table tr td a {
+    font-size: 13px;
+}
+.widget-time-slot table tr td {
+    width: 100px;
+    margin: 0 5px 12px 0;
+    float: left;
+}
+.appoint-confirm-wrapper .patient-name label {
+    width: 130px;
+}
+body .appoint-confirm-wrapper h1 {
+    height: auto;
+    padding-left: 0;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+body .text-wrapper {
+    padding-top: 0;
+}
+.appoint-confirm-wrapper p:first-child {
+    padding-top: 0;
+    text-align: center;
+}
+.appoint-confirm-wrapper button {
+    float: left;
+}
+.appoint-confirm-wrapper.no-bg.confirmation_div .text-wrapper p {
+    text-align: left;
+}
+.decline-wrapper h1 {
+    height: auto;
+    margin-bottom: 10px;
+    font-size: 20px;
+    padding-left: 0;
+}
+.decline-wrapper p:first-child {
+    padding-top: 0;
+    text-align: center;
+}
+.appoint-confirm-wrapper .patient-name {
+    width: 100%;
+    text-align: left;
+}
+.appoint-confirm-wrapper p {
+    text-align: left;
+}
+.appoint-confirm-wrapper.no-bg h1 {
+    text-align: left;
+    padding-left: 0;
+}
+.breadcrume ul li {
+    font-size: 12px;
+    padding: 0 2px;
+    float: none;
+    display: inline-block;
+}
+.breadcrume ul li a {
+    font-size: 13px;
+}
+.navbaar-bottom-block input {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border-radius: 0;
+    padding: 0 75px 0 30px;
+}
+.searching-keyword h1 {
+    display: none;
+}
+body .profile-detail {
+    width: 100%;
+    float: left;
+    margin-left: 0;
+    padding: 0;
+}
+body .profile-detail h3 {
+    font-size: 13px;
+    text-align: left;
+    font-weight: 600;
+    padding-top: 0;
+}
+body .profile-detail ul li img {
+    float: left;
+    padding: 0;
+    margin: 4px 4px 0 0;
+    width: 13px;
+}
+body .profile-detail h4 {
+    margin: 5px 0 10px 0;
+}
+body .doctor-address {
+    width: 100%;
+    float: right;
+    padding: 10px 0 0 0;
+}
+body .listing {
+    padding: 3%}
+body .location {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+body .timing {
+    width: 100%;
+    float: left;
+    margin-top: 0;
+}
+body .fees {
+    font-weight: 600;
+    width: 100%;
+    float: left;
+}
+body .list-bottom {
+    padding: 15px 0;
+    width: 100%;
+    float: left;
+    margin-top: 0;
+}
+body .cal-doctor a {
+    font-size: 12px;
+    padding: 5px 3px 5px;
+}
+.view-profile {
+    padding: 8px 0 0 5%}
+.doctor-address {
+    width: 100%;
+    float: left;
+}
+.list-bottom {
+    padding-left: 0;
+}
+.left-wrapper h2 {
+    position: relative;
+    font-weight: 600;
+    padding: 12px 18px;
+    width: 100%;
+    float: left;
+    line-height: normal;
+}
+.left-wrapper h2.accordion:after {
+    position: absolute;
+    top: 16px;
+    right: 15px;
+    content: "";
+    width: 15px;
+    height: 15px;
+    background: url(../img/down-arrow.png) no-repeat 0 0;
+    background-size: auto auto;
+    background-size: 100%}
+.view-profile a {
+    font-size: 12px;
+    padding: 5px 4px 6px;
+}
+.sorting label {
+    margin: 8px auto;
+    display: table;
+    float: none;
+}
+.left-wrapper {
+    display: block;
+}
+.left-content.desktop {
+    display: none;
+}
+.left-wrapper {
+    width: 100%;
+    margin-bottom: 30px;
+}
+body .example.profile-detil .card-tabs-bar a {
+    width: auto;
+}
+.profile-detail.auto .title-wrap h3 {
+    width: 100%;
+    float: left;
+}
+.profile-detail.auto .title-wrap a {
+    position: inherit;
+}
+.profile-detail.auto {
+    width: 78%!important;
+    margin: 0;
+    float: right;
+}
+.doc-img {
+    width: 20%;
+    float: left;
+}
+.profile-detail .multi-specility ul {
+    background: 0 0;
+}
+.profile-detail ul {
+    margin: 12px 0;
+    padding: 4px 2%;
+    background: #efefef;
+}
+.profile-detail ul li {
+    float: left;
+    font-size: 13px;
+}
+.listing-right-wrapper .profile-detail .dgree-top li.Dgree-section p {
+    margin: 0 0;
+}
+.hospital-detail-page .right-content-hospital .multi-specility ul {
+    margin: 0;
+}
+.hospital-detail-page .right-content-hospital .multi-specility ul li {
+    margin-top: 10px;
+}
+.profile-detail ul li img {
+    padding: 3px 5px 0 0;
+}
+.profile-detail p {
+    float: left;
+    width: 100%}
+body .example.profile-detil div.card-tabs-bar a {
+    padding: 8px 5px!important;
+}
+.doctor-co2, .doctor-co3, .doctor-col {
+    width: 100%;
+    margin: 0;
+}
+.breadcrume {
+    text-align: center;
+    padding: 0 0 10px 0;
+    width: 100%;
+    float: left;
+}
+.breadcrume ul {
+    text-align: center;
+    width: 100%;
+    float: left;
+}
+.searching-keyword {
+    height: auto;
+    padding-top: 15px;
+}
+.sorting .select {
+    color: #222!important;
+    width: 100%}
+.sorting {
+    width: 100%;
+    float: left;
+    text-align: center;
+    padding-top: 0;
+}
+.left-content {
+    width: 100%}
+.right-content {
+    width: 100%}
+.profile-detail h4 {
+    font-size: 13px;
+}
+.profile-detail h3 {
+    font-size: 18px;
+}
+.location {
+    font-size: 13px;
+}
+.cal-doctor a {
+    font-size: 13px;
+    padding: 4px 5px;
+}
+.cal-doctor img {
+    width: 12px;
+}
+.view-profile {
+    padding: 0;
+}
+.location a {
+    width: 100%;
+    float: left;
+}
+.searching-keyword {
+    padding-top: 0;
+}
+.searching-keyword h1 {
+    width: 100%;
+    text-align: center;
+    line-height: normal;
+    height: auto;
+    font-size: 14px;
+    font-weight: 300;
+}
+.searhc-result {
+    font-size: 13px;
+    display: none;
+    text-transform: capitalize;
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+.opd-timings-schedule {
+    top: -5px;
+    right: -3px;
+}
+.opd-timings-schedule button {
+    background: 0 0;
+    padding: 0;
+    width: auto;
+    height: auto;
+    border: 0;
+}
+.sessions-div {
+    width: 100%}
+.registration-wrap .form-fields.send-button {
+    width: 30%}
+.set_error {
+    float: left;
+    width: 100%;
+    margin-bottom: 7px;
+}
+.example.profile-detil div.card-tabs-bar a {
+    font-size: 13px;
+    font-weight: 600;
+}
+.registration-wrap .form-fields.send-button button {
+    width: auto!important;
+}
+body .registration-wrap .form-fields {
+    width: 100%}
+.registration-wrap .form-fields.send-button button {
+    padding: 0 10%}
+.registration-wrap .form-fields .s-input {
+    width: 70%}
+.navbaar-bottom-section {
+    width: 100%;
+    padding: 3px 0 0 0;
+}
+.banner-content-section h2 {
+    font-size: 18px;
+}
+.banner-content-section p {
+    font-size: 13.3px;
+    margin: 0;
+}
+.banner-content-section .btn-default {
+    padding: 4px 33px;
+}
+.banner-content-section {
+    width: 100%;
+    float: left;
+    padding: 11% 0 0 0;
+}
+.product-section {
+    padding: 0;
+    margin-top: 30px;
+}
+.li-section {
+    padding: 8% 0 0 0;
+}
+.health_experts_img {
+    width: 100%}
+.health_experts_content {
+    padding: 50px 0 100px 15px;
+    width: 100%}
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    position: relative;
+    min-height: 0;
+    padding-right: 0;
+    padding-left: 0;
+}
+.product-block {
+    width: 100%;
+    float: left;
+    padding: 0;
+    background: #fff;
+    position: relative;
+    margin-bottom: 30px;
+}
+.product-image img {
+    width: auto;
+}
+.Patient_Portal_section {
+    width: 100%;
+    padding: 70px 0 50px 0;
+}
+.Patient_Portal_section h3 {
+    font-size: 20.5px;
+}
+.Patient_Portal_section h2 {
+    font-size: 45px;
+}
+.better_health_block img {
+    width: 100%}
+.better_health_block {
+    padding: 0 0 30px 0;
+}
+.navbaar-bottom-block {
+    width: 48%;
+    padding: 0;
+}
+.navbaar-bottom-box2 {
+    width: 52%;
+    margin: 0 0 0 -1px;
+}
+.navbar-toggle {
+    margin-top: 15px;
+}
+.footer_section {
+    padding: 0;
+}
+.footer_block h5 {
+    width: 100%;
+    float: left;
+    padding: 15px 0 5px;
+    margin: 0;
+    font-size: 18px;
+    color: #333e47;
+    text-transform: uppercase;
+}
+.health_experts_content h2 {
+    font-size: 35px;
+}
+.health_experts_content h3 {
+    font-size: 28px;
+}
+.Get_company_content h5 {
+    padding: 0 0 10px 0;
+    font-size: 16px;
+    text-align: left;
+}
+.Get_company_content p {
+    padding: 0 0 0 12px;
+}
+.Get_company {
+    padding: 0 0 10px 0;
+}
+.nev_topStrip_box ul {
+    width: 115px;
+}
+.nev_topStrip_box ul li a {
+    font-size: 11px;
+}
+.nev_topStrip_block a {
+    font-size: 11px;
+}
+.nev_topStrip_block {
+    padding: 3px 0 0 0;
+}
+.doctor-co2 {
+    padding: 20px 0!important;
+}
+}
+@media only screen and (min-width:640px) and (max-width:767px) {
+    body .detail-page .cal-doctor-feedback-pat a {
+    width: 153px;
+    padding: 5px 0;
+}
+.containerDiv h2 {
+    padding: 0px 0px 5px 0px !important;
+    font-size: 13px !important; 
+}
+.top-locality-div .containerDiv ul li {
+    padding: 0px 6px 0px 0px;
+    font-size: 11px;
+}
+body .list-bottom .cal-doctor {
+    padding-bottom: 8px;
+    margin-right: 8px;
+    width: 100%}
+body .list-bottom .cal-doctor a {
+    width: 155px;
+}
+.list-bottom .cal-doctor:nth-child(2n) {
+    margin-left: 0;
+    margin-right: 0;
+}
+#doctorAppointmentSlot .modal-dialog {
+    width: 95%}
+body .tcb-product-item {
+    margin-bottom: 75px;
+}
+.tcb-product-slider #carousel-example-generic .carousel-control.right {
+    position: absolute;
+    top: inherit;
+    right: -50px;
+    bottom: 0;
+    left: 0;
+}
+.add-doctor-left-box.OncallStatus.ConsultationType .ConsultationType .Consultation11 p .help-block label {
+    width: 100%!important;
+}
+.ConsultationType .Consultation11 label {
+    width: 100%!important;
+    float: left!important;
+    padding: 6px 5px 0 0!important;
+}
+.detail-page .cal-doctor {
+    position: inherit;
+    right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.profile-detail ul li img {
+    float: left;
+    padding: 0;
+    margin: 2px 3px 0 0;
+    width: 16px;
+}
+.doctor-claim-profile form #info_tab .add-doctor-left-box.OncallStatus p.oncall_fee {
+    margin-top: 0;
+    margin-bottom: 15px;
+    padding-top: 0;
+    width: 100%!important;
+    float: right;
+}
+.camp-appointment-form .slot-details .doctor-listtop.doctor-listtop2 {
+    padding: 5% 20px 5% 20px;
+    min-height: auto;
+}
+.Top-Specialities123.desktop_topSpeciality .col-sm-3 {
+    width: 24.6%;
+    padding: 3px;
+}
+.most-visited-profile a {
+    color: #0b3a7e;
+    border-radius: 0;
+    display: inline-block;
+    padding: 0;
+    font-size: 15px;
+    margin: 0;
+    font-weight: 700;
+}
+.tcb-product-price {
+    color: #222;
+    font-size: 12px;
+    line-height: normal;
+}
+.tcb-product-title h4 {
+    margin-bottom: 5px;
+}
+.tcb-product-slider #carousel-example-generic .carousel-control.left {
+    position: absolute;
+    top: inherit;
+    left: -50px;
+    bottom: 0;
+    right: 0;
+}
+#carousel-example-generic {
+    position: relative;
+    height: 275px;
+    overflow: hidden;
+}
+.sorting.sorting_fillterTop .form-group .btn-group .multiselect-container li a label {
+    text-align: left;
+}
+body .sorting.sorting_fillterTop {
+    width: 65%;
+    float: none;
+    margin: 0 auto;
+}
+.sorting_fillterTop .multiselect span.multiselect-selected-text {
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: block;
+}
+#uploadPrescriptionModal .modal-dialog {
+    width: 70%;
+    margin: 0 auto!important;
+}
+body .viewPresFileModal .view-file-full {
+    width: 70%!important;
+}
+body .listing.my-priscription-head .my-priscription-tag {
+    width: 50%}
+body .healthcare_plan .view-icon {
+    top: 105px;
+}
+.healthcare_plan:first-child .view-icon:hover #lightbox-tooltip::after {
+    right: 0;
+    left: inherit;
+    top: -7px;
+    width: 0;
+}
+.healthcare_plan:first-child #lightbox-tooltip {
+    right: 0;
+    left: inherit;
+}
+body .hg-plan-wrapper ul li.labPkgDet {
+    width: 81%}
+body .toggle-wrapper button {
+    font-size: 13px;
+}
+body .view-icon:hover #lightbox-tooltip {
+    width: 225px;
+    right: 0;
+}
+body .toggle-wrapper {
+    width: 100%;
+    max-height: 100%}
+body .view-icon .lab-test.Lab_Test_Details .package-box {
+    float: left;
+}
+body .filter-section {
+    padding-top: 0;
+}
+body .username-side {
+    width: 105px;
+}
+body .filter-section .filters a {
+    padding: 2px 8px;
+}
+body .sidebar-menuHight::before {
+    z-index: 999999999;
+}
+body a.sidebar-icon {
+    z-index: 99999999;
+}
+body .HG-details .details-blog img {
+    width: 34px;
+    margin: 10% 0 0 0;
+}
+body .HG-details .details-blog:nth-child(3) img {
+    width: 28px;
+}
+body .HG-details .details-blog .content-blog-details {
+    margin: 0 0 0 5px;
+}
+body .details-blog strong {
+    font-size: 16px;
+}
+body .details-blog p {
+    font-size: 13px;
+    letter-spacing: -.5px;
+}
+body .sidebar-menu .logo a {
+    margin-right: 10px;
+}
+body .dashboard-wrapper.dashboard-plan-wrapper.sideband-menu-bar .page-container {
+    width: 208px;
+}
+body .dashboard-wrapper.dashboard-plan-wrapper.sideband-menu-bar .page-container .sidebar-menu {
+    width: 208px;
+}
+body .sidebar-menu::before {
+    width: 208px;
+}
+body .dashboard-wrapper.dashboard-plan-wrapper.sideband-menu-bar .healthcare_plan {
+    width: 98%}
+.dashboard-wrapper.dashboard-plan-wrapper .right-section.new-tabs-section.checkoutCart .row {
+    margin: 0;
+}
+.right-section.new-tabs-section.checkoutCart {
+    width: 100%;
+    padding-top: 0!important;
+    margin-top: 0;
+}
+.panel-footer.footer {
+    padding: 0 15px;
+}
+body .order-overview .right {
+    width: 44%;
+    margin-top: 0;
+}
+body .dashboard-plan-wrapper .appointment-data-div.appointmetn-list {
+    padding-top: 0!important;
+}
+.dashboard-plan-wrapper.dashboard-wrapper .registration-wrap.user-info.profile-exam {
+    margin-top: 0!important;
+}
+.page-container.sidebar-collapsed-back {
+    width: 33%}
+body .page-container.sidebar-collapsed-back .sidebar-menu {
+    width: 100%}
+.dashboard-wrapper.dashboard-plan-wrapper .container-inner.my-subscription-plans .registration-wrap.user-info.profile-exam {
+    overflow-x: scroll;
+}
+body .registration-wrap.user-info.profile-exam .user-profile-img .image_apload22 span.help-block {
+    top: 15px;
+    width: 244px!important;
+}
+.subcribed-plans {
+    overflow-y: hidden;
+}
+body .healthcare_plan {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 40px;
+}
+body .hg-plan-wrapper ul li {
+    width: 100%;
+    background-size: 4%;
+    background-position: 8px 4px;
+}
+body .details-blog p {
+    font-size: 13px;
+}
+body .details-blog {
+    width: 46%}
+body .dashboard-plan-wrapper.dashboard-wrapper .dashboard-right {
+    padding-left: 0;
+    width: 88%;
+    margin-top: 15px;
+}
+body .sideband-menu-bar.dashboard-plan-wrapper.dashboard-wrapper .dashboard-right {
+    padding-left: 0;
+    width: 65%;
+    margin-top: 15px;
+}
+.HG_plan_Section {
+    padding-top: 0;
+}
+body .dashboard-plan-wrapper .profiling-section.profiling-heading1222 {
+    margin: 15px 2%}
+.sidebar-menu::before {
+    position: absolute;
+    height: 99.4%;
+    bottom: 0;
+    background: #fff;
+    top: 15px;
+    left: 0;
+    content: "";
+    width: 33%;
+    z-index: 0;
+    transition: all .4s ease 0s;
+}
+body .dashboard-plan-wrapper.dashboard-wrapper .sidebar {
+    position: inherit;
+    height: auto;
+}
+body .dashboard-plan-wrapper .dashboard-right {
+    width: 100%;
+    padding: 0;
+}
+body .dashboard-left {
+    width: 100%;
+    padding-bottom: 0!important;
+}
+body .dashboard-plan-wrapper .dashboard-left ul li a {
+    background-size: 18px!important;
+    padding-left: 45px;
+}
+body .dashboard-plan-wrapper .dashboard-left ul li.my-appointment a {
+    background-size: 35px!important;
+}
+body .dashboard-plan-wrapper .dashboard-left ul li.my-appointment a:hover {
+    background-size: 35px!important;
+    background-position: 6px -40px!important;
+}
+body .registration-wrap.user-info.profile-exam .user-profile-img .image_apload22 span.help-block {
+    top: 9px;
+    width: 160px!important;
+}
+body .healthcare_plan {
+    width: 46%}
+body .details-blog p {
+    font-size: 13px;
+}
+body .details-blog {
+    width: 46%;
+    min-height: 135px;
+}
+body .dashboard-plan-wrapper.dashboard-wrapper .dashboard-right {
+    width: 86%;
+    float: left;
+    margin-left: 10px;
+}
+body .dashboard-plan-wrapper .profiling-section.profiling-heading1222 {
+    margin: 15px 2%}
+body .dashboard-plan-wrapper.dashboard-wrapper .sidebar {
+    position: inherit;
+    height: auto;
+}
+body .dashboard-plan-wrapper .dashboard-right {
+    width: 100%;
+    padding: 0;
+}
+body .dashboard-left {
+    width: 100%;
+    padding-bottom: 0!important;
+}
+body .dashboard-plan-wrapper .dashboard-left ul li a {
+    background-size: 18px!important;
+    padding-left: 45px;
+}
+body .dashboard-plan-wrapper .dashboard-left ul li.my-appointment a {
+    background-size: 35px!important;
+}
+body .dashboard-plan-wrapper .dashboard-left ul li.my-appointment a:hover {
+    background-size: 35px!important;
+    background-position: 6px -40px!important;
+}
+body .reset-form-wrapper.login-wrapper .registration-wrap .form-bot-field {
+    width: 51%!important;
+    margin-right: 2%}
+body .reset-form-wrapper.login-wrapper .registration-wrap .form-bot-field .form-fields.send-button {
+    width: 100%!important;
+}
+body .reset-form-wrapper.login-wrapper .registration-wrap .form-bot-field .form-fields.send-button button {
+    width: 100%!important;
+}
+.register-form-wrapper.login-wrapper #login_tab .registration-wrap.login-div-mobile {
+    width: 100%}
+body #myCarousel .carousel-indicators li {
+    display: none;
+}
+body .registration-wrap .form-fields.send-button button.login_btn {
+    width: 100%!important;
+}
+.register-form-wrapper.login-wrapper #login_tab .contnet-sec {
+    width: 100%}
+.register-form-wrapper.login-wrapper #login_tab .registration-wrap.login-div-mobile .form-fields {
+    width: 92%!important;
+}
+.register-form-wrapper.login-wrapper #login_tab .registration-wrap.login-div-mobile .form-fields:nth-child(1n) {
+    margin-right: 4%!important;
+}
+.register-form-wrapper.login-wrapper #login_tab .registration-wrap.login-div-mobile .form-bot-field {
+    width: 130px!important;
+}
+.register-form-wrapper.login-wrapper #login_tab .registration-wrap.login-div-mobile .form-fields.register-btn-div {
+    width: 130px!important;
+}
+body .email-form-wrapper .alert-success {
+    float: right;
+    width: 50%;
+    padding: 10px;
+}
+.call_btn_div.mob-show {
+    display: block;
+    right: 50px;
+    top: inherit;
+    bottom: 10%!important;
+}
+.call_btn_div.mob-show.remove_btn {
+    right: 20px;
+}
+body .reset-form-wrapper.login-wrapper .registration-wrap .form-bot-field {
+    width: 51%!important;
+    margin-right: 2%}
+body .reset-form-wrapper.login-wrapper .registration-wrap .form-bot-field .form-fields.send-button {
+    width: 100%!important;
+}
+body .reset-form-wrapper.login-wrapper .registration-wrap .form-bot-field .form-fields.send-button button {
+    width: 100%!important;
+}
+.register-form-wrapper.login-wrapper #login_tab .registration-wrap.login-div-mobile {
+    width: 100%}
+body #myCarousel .carousel-indicators li {
+    display: none;
+}
+body .registration-wrap .form-fields.send-button button.login_btn {
+    width: 100%!important;
+}
+.register-form-wrapper.login-wrapper #login_tab .contnet-sec {
+    width: 100%}
+.register-form-wrapper.login-wrapper #login_tab .registration-wrap.login-div-mobile .form-fields {
+    width: 92%!important;
+}
+.register-form-wrapper.login-wrapper #login_tab .registration-wrap.login-div-mobile .form-fields:nth-child(1n) {
+    margin-right: 4%!important;
+}
+.register-form-wrapper.login-wrapper #login_tab .registration-wrap.login-div-mobile .form-bot-field {
+    width: 130px!important;
+}
+.register-form-wrapper.login-wrapper #login_tab .registration-wrap.login-div-mobile .form-fields.register-btn-div {
+    width: 130px!important;
+}
+body .email-form-wrapper .alert-success {
+    float: right;
+    width: 50%;
+    padding: 10px;
+}
+.au-marathon-mobile-banner {
+    display: block;
+}
+.registration-wrapper.contact-wrapper .radio-wrapper {
+    width: 100%;
+    padding: 0;
+}
+.dd-wrapper {
+    box-shadow: 0 0 0 0 hsla(0, 0%, 42.7%, .14);
+}
+.latest-prod-details {
+    padding-left: 0;
+    width: 100%}
+.navbar-nav li.dropdown #g-account-menu li:first-child a {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.registration-wrapper .btn-register {
+    width: 100%;
+    float: left;
+    padding: 7px 0 15px 0;
+}
+.broucher_dwn {
+    width: 400px;
+    float: left;
+    position: inherit;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 7px;
+    bottom: 0;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    height: 91px;
+    padding: 10px 0;
+    z-index: 999;
+}
+.g-recaptcha {
+    margin-top: 30px;
+    width: 100%;
+    float: left;
+}
+.bottom-errors-content {
+    width: 100%;
+    float: left;
+    padding: 0;
+    margin-right: 0;
+    text-align: left;
+}
+.bottom-errors-content ul li a {
+    width: 100%;
+    background-position: 2px 5px;
+}
+#g-account-menu.dropdown-menu li a span {
+    float: left;
+    width: 133px;
+    line-height: 31px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+body .form-address-details.divForHide.CouponBox {
+    position: relative;
+}
+body .form-address-details.divForHide.CouponBox .input-box {
+    width: 100%}
+body .form-address-details.divForHide.CouponBox .input-box input {
+    padding-right: 80px;
+}
+body .form-address-details.divForHide.CouponBox button#coupanApply {
+    position: absolute;
+    top: 12px;
+    right: 16px;
+}
+.dd.searchDoctorModalDoctor {
+    padding: 10px 0 10px;
+}
+.lab-test.lab-test-profile .container {
+    padding: 0;
+}
+.doctor-detail-wrapper .latest-prod-details .review-info p {
+    text-align: justify;
+}
+.lab-test.Lab_Test_Details.single-lab-detail .checkup-detail h3 {
+    white-space: inherit;
+    overflow: hidden;
+    text-overflow: inherit;
+}
+.cart-open .cart-dd {
+    display: none!important;
+}
+.cart-wrapper:hover .cart-dd {
+    display: none!important;
+}
+.checkup-package.labProfiles .LabDetailsDivLosh .checkup-detail.LabProfiles {
+    margin-right: 2%!important;
+    width: 32%}
+.checkup-package.labProfiles .LabDetailsDivLosh .checkup-detail.LabProfiles:nth-child(3n+0) {
+    margin-right: 0!important;
+}
+#steps-uid-0-p-3.body .address-wrapper .input-wrapper:last-child {
+    width: 55%}
+.checkup-package.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-prev {
+    left: 43%!important;
+    top: inherit;
+    width: 30px;
+    height: 30px;
+}
+.checkup-package.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-next {
+    right: 43%!important;
+    top: inherit;
+    width: 30px;
+    height: 30px;
+}
+.LabDashboardSection .owl-carousel .owl-nav {
+    padding-bottom: 3px;
+}
+.address-box {
+    min-height: 110px;
+}
+body .navbar-default .navbar-nav.navbar-right li.cart-wrapper a {
+    padding-bottom: 20px;
+}
+.lab-test .checkup-detail .book-now a.removeCart:hover {
+    color: #ff6a13;
+    border: 1px solid #ff6a13;
+    background: #fff;
+}
+.navbar.navbar-default .navbar-collapse {
+    display: block!important;
+}
+body .collapse.navbar-collapse .main-nav-desktop {
+    display: none!important;
+}
+ul.nav li {
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid #f0f0f0;
+}
+.checkup-package.owl-carousel.owl-theme.owl-loaded.owl-drag .owl-item .checkup-detail img {
+    margin: 10px 0 0 10px;
+}
+.all-offers .allProfiles .package-box.item {
+    min-height: 215px!important;
+}
+.checkup-package.labProfiles .checkup-detail.LabProfiles {
+    min-height: 280px;
+    width: 31%}
+.labProfiles .checkup-detail.LabProfiles {
+    min-height: 265px;
+}
+.labProfiles .checkup-detail.LabProfiles img {
+    margin: 10px 0 0 10px;
+}
+#searchLabModalDoctor.modal .navbaar-bottom-box2 {
+    width: 100%;
+    margin: 54px 0 0 0;
+}
+.mobile-search button {
+    width: 48%;
+    float: left;
+    font-weight: 600;
+    text-align: left;
+    padding: 6px 5px;
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-weight: 500;
+}
+.mobile-search button:last-child {
+    margin-left: 3%}
+.collapse.main-nav-mobile-lab.container-fluid ul li {
+    width: 100%;
+    float: left;
+}
+.collapse.main-nav-mobile-lab.container-fluid ul li a {
+    width: 100%;
+    float: left;
+}
+body .mobile-search button.searchLabModalDoctor {
+    float: right;
+    width: 220px;
+    text-align: left;
+}
+#searchLabModalDoctor .dd-wrapper.labSearchByInput {
+    box-shadow: 0 0 0!important;
+    top: 50px;
+}
+#searchLabModalDoctor .dd-wrapper.labSearchByInput i img {
+    width: 30px;
+    margin: 4px 5px 0 1px;
+}
+#searchLabModalDoctor .location-top1 h2 {
+    border-bottom: 1px solid #ddd;
+}
+#searchLabModalDoctor.modal {
+    width: 100%;
+    height: 100%;
+    padding-top: 0;
+    overflow: auto;
+    background-color: #fff;
+    background-color: #fff;
+}
+.collapse.navbar-collapse.main-nav-mobile.container-fluid {
+    display: block!important;
+}
+.desktop-search {
+    display: none;
+}
+.collapse.main-nav-mobile-lab {
+    float: left;
+    width: 100%;
+    background: #fff;
+    margin-bottom: 5px;
+}
+.collapse.main-nav-mobile-lab li {
+    width: 100%;
+    float: left;
+    border-bottom: 1px solid #efefef;
+}
+.collapse.main-nav-mobile-lab li.blogs-details {
+    border: 0!important;
+}
+.collapse.main-nav-mobile-lab li a {
+    border: 0;
+    padding: 10px 5px;
+}
+.collapse.main-nav-mobile-lab li img {
+    width: 25px;
+    float: left;
+    margin-right: 10px;
+}
+.collapse.main-nav-mobile-lab li .nav-section {
+    float: left;
+    width: 88%;
+    text-align: left;
+}
+.collapse.main-nav-mobile-lab li .nav-section h2 {
+    font-size: 16px;
+    color: #222;
+    margin: 0;
+    padding: 0;
+}
+.collapse.main-nav-mobile-lab li .nav-section p {
+    float: left;
+    color: #888;
+    font-size: 13px;
+    margin: 0;
+    padding: 0;
+}
+body .navbar.navbar-default {
+    height: auto!important;
+}
+.mobile-search {
+    display: block;
+    padding: 0;
+    margin: 6px 0;
+}
+.mob-nav-ico {
+    width: 34px;
+    float: left;
+    margin-right: 10px;
+    margin-top: 1px;
+    border: 1px solid #efefef;
+    height: 32px;
+    text-align: center;
+    padding-top: 8px;
+    border-radius: 2px;
+}
+.mob-nav-ico img {
+    width: 70%;
+    height: auto;
+}
+.LabDashboardSection .owl-carousel .owl-dots.disabled, .LabDashboardSection .owl-carousel .owl-nav.disabled {
+    display: block;
+}
+body .cartTotal {
+    width: 12px;
+    height: 12px;
+    line-height: 12px;
+    font-size: 8px;
+    right: 0;
+    top: 0;
+    left: inherit;
+}
+body header .navbar.navbar-default .navbar-collapse ul li.medicine.cart-wrapper {
+    display: block!important;
+    position: absolute;
+    top: 16px;
+    right: 15px;
+}
+body .cart-wrapper:hover .cart-dd {
+    top: 29px;
+}
+ul.navbar-right li:last-child {
+    width: auto;
+}
+body .navbar.navbar-default .navbar-right .doctor {
+    right: 45px;
+}
+.order-overview .left {
+    width: 100%;
+    margin-top: 0;
+}
+.order-overview .RIGHT {
+    width: 100%}
+body #MyCartPage {
+    padding: 25px 6px;
+}
+body .wizard>.content select {
+    height: 36px;
+}
+.right-block.last-box.alreadyAdded p {
+    padding: 10px 0;
+}
+.order-overview .right .right-block {
+    background: #fff;
+    box-shadow: 0 0 9px #ddd;
+    padding: 0;
+    float: left;
+    width: 100%}
+.screening.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-prev {
+    left: 0;
+}
+.screening.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-next {
+    right: 0;
+}
+.checkup-package.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-next {
+    right: -9px;
+}
+.checkup-package.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-prev {
+    left: -9px;
+}
+.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-next {
+    right: -9px;
+}
+.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-prev {
+    left: -9px;
+}
+body .navbar-default .dropdown.sub-nev-tool a.dropdown-toggle {
+    background: #fff;
+    padding: 2px 6px 2px 6px;
+    border-radius: 3px;
+    border: 1px solid #14bef0;
+}
+.navbar-nav li.dropdown.sub-nev-tool .dropdown-toggle .fa.fa-user-circle-o {
+    float: left;
+    padding-right: 2px;
+    font-size: 12px;
+    margin: 2px 0 0 0;
+}
+body .navbar-default .dropdown.sub-nev-tool a.dropdown-toggle .user-nametop {
+    display: none;
+}
+.navbar-nav li.dropdown.sub-nev-tool .dropdown-toggle span.caret {
+    margin-top: 6px;
+}
+.navbar-nav li.dropdown.sub-nev-tool.open a.dropdown-toggle {
+    background: #14bef0;
+}
+.navbar-nav li.dropdown.sub-nev-tool.open a i, .navbar-nav li.dropdown.sub-nev-tool.open a span.caret {
+    color: #fff;
+}
+body .cart-wrapper:hover .cart-dd {
+    top: 40px;
+}
+#MyCartPage {
+    padding: 25px 10px;
+}
+.lab-test .allProfiles .package-box.item {
+    width: 32.5%;
+    min-height: 124px;
+    position: relative;
+}
+.screening.allGroups .small-blogs.item {
+    width: 25%}
+.Sendapp_Link {
+    width: 310px;
+    float: none;
+    position: relative;
+    padding: 10px 0 20px 0;
+    margin: 0 auto;
+}
+.Get_company .Get_company_content h5 {
+    text-align: center;
+}
+.Get_company .Get_company_content {
+    width: 100%;
+    text-align: center;
+}
+.Sendapp_Link .LinkSendMobileNo {
+    width: 71%}
+.main-banner-slider {
+    display: none;
+}
+.main-banner-slider.mobile {
+    display: block;
+}
+.main-banner-slider.mobile img {
+    width: 100%}
+.all-offers .checkup-package.allOffers .checkup-detail.item {
+    width: 32%;
+    float: left;
+    margin-bottom: 20px;
+    overflow: hidden;
+    min-height: 288px;
+    margin-right: 2%}
+.all-offers .checkup-package.allOffers .checkup-detail.item:nth-child(3n+0) {
+    margin-right: 0;
+}
+.all-offers .checkup-package.allOffers .checkup-detail.item.checkup-detail img {
+    max-width: 92px;
+    height: auto;
+    margin: 10px 0 0 8px;
+}
+.all-offers .checkup-package.allOffers .checkup-detail.item .book-now a {
+    padding: 10px 6%}
+.all-offers .checkup-package.allOffers .blog-wrapper-content {
+    padding: 8px;
+}
+.all-offers .checkup-package.allOffers .checkup-detail .test-included a {
+    padding: 4px 9px;
+}
+.all-offers .checkup-package.allOffers .checkup-detail h3 {
+    padding: 0 8px;
+    white-space: nowrap;
+    overflow: hidden!important;
+    text-overflow: ellipsis;
+}
+.all-offers .checkup-package.allOffers .certification {
+    padding: 5px 8px 10px 8px;
+}
+.checkup-package.labProfiles .checkup-detail {
+    width: 32%;
+    float: left;
+    margin-bottom: 20px;
+    min-height: 370px;
+    overflow: hidden;
+}
+.checkup-package.labProfiles .checkup-detail:nth-child(4n+0) {
+    margin-right: 0;
+}
+.lab-test.Lab_Test_Details .LabDetailsDiv .package-box {
+    width: 100%;
+    margin-bottom: 5px;
+}
+.package-box.item a {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.lab-test .package-box a {
+    padding: 10px 0;
+}
+.lab-test .allProfiles .package-box.item:nth-child(3n+0) {
+    margin-right: 0;
+}
+.lab-test h3 {
+    font-size: 15px;
+}
+.package-box.item .total_count {
+    font-size: 13px;
+}
+.package-box.item b {
+    font-size: 13px;
+}
+.lab-test.Lab_Test_Details .LabDetailsDiv .checkup-package {
+    width: 39%;
+    float: left;
+}
+.lab-test.Lab_Test_Details .LabDetailsDiv .package-box_lab {
+    width: 56%}
+.lab-test.Lab_Test_Details .LabDetailsDiv .package-box_lab .lab-test-block h3 {
+    font-size: 14px;
+    margin: 0;
+    padding: 5px 0 5px;
+}
+body .report-section div p {
+    font-size: 14px;
+    overflow-wrap: break-word;
+}
+.lab-test.Lab_Test_Details .LabDetailsDiv .package-box_lab .lab-test-block {
+    width: 79%;
+    padding: 4px 0 0 3px;
+}
+body #RescheduleWreppar .reschedule-app-page ul li {
+    width: auto;
+    float: left;
+}
+body .tabsholder1 #login_tab .otp-div-login .form-bot-field button {
+    width: 130px!important;
+}
+body .right-con-wrapper {
+    width: 78%;
+    padding-bottom: 35px;
+    position: relative;
+    float: right;
+    margin-left: 2%}
+body #clinic_details_tab .suggesstion-box ul li .detail-clinic {
+    width: 78%}
+.appointment-data-div.appointmetn-list .rating_doctor-div {
+    position: absolute;
+    right: 0;
+    top: 20px;
+    width: 97%;
+    text-align: right;
+}
+.doctor-claim-profile .tabsholder1 #clinic_details_tab .registration-wrap.doc-register .form-fields input {
+    padding: 0 26% 0 3%}
+.doctor-claim-profile .doctor-info .form-fields #country {
+    font-size: 11px;
+    padding: 6px 1px;
+}
+.view-profile a {
+    padding: 6px 8px 5px;
+}
+body {
+    border-top: 0 solid #14bef0;
+}
+.profile-detail .multi-specility ul {
+    background: 0 0;
+    padding: 0;
+}
+.suggestion-wrapper .content-wrapper-not-found p {
+    text-align: center;
+}
+.listing-right-wrapper .right-small {
+    width: 65%;
+    float: right;
+    margin-bottom: 30px;
+}
+.right-content.suggested-width {
+    width: 64%;
+    float: left;
+    margin-left: 2%}
+body div.list-bottom.sponsered-btn {
+    width: 100%;
+    float: right;
+}
+body div.list-bottom.sponsered-btn a {
+    font-size: 12px;
+    padding: 0 4px;
+}
+.suggestion-wrapper.no-result-found h2 {
+    text-align: center;
+    width: 100%}
+.suggestion-wrapper.no-result-found h2 strong {
+    float: none;
+}
+.suggestion-wrapper.no-result-found .doctorRegistrationDiv {
+    display: inline-block;
+    position: inherit;
+    margin: 15px auto;
+    float: none;
+}
+.suggestion-wrapper.no-result-found a.btn.btn-success.view_information {
+    position: inherit;
+    top: 0;
+    right: 0;
+    padding: 0;
+    left: 0;
+    margin: 0;
+}
+#myModalLabOrderPP .modal-content {
+    height: auto!important;
+}
+body .appointment-data-div .breadcrume {
+    width: auto!important;
+    padding-bottom: 0;
+}
+body .appointment-data-div .sorting {
+    width: auto!important;
+    float: right;
+}
+body .appointment-data-div .no-result-found {
+    width: 100%}
+body .dd-wrapper .search-data .seeAllInfo {
+    padding: 0!important;
+}
+body .dd-wrapper .search-data .seeAllInfo h3 {
+    padding: 8px 2% 8px 3%}
+body .dd-wrapper h3 {
+    padding: 8px 2% 8px 4%}
+.main-nav-mobile ul.navbar-nav li img {
+    margin-bottom: 8px;
+    width: 45px;
+}
+.new-tabs-section.checkoutCart .col-xs-8.col-sm-12 {
+    width: 100%;
+    float: left;
+    padding: 0;
+}
+.new-tabs-section.checkoutCart .panel-title h5 {
+    padding-left: 10%!important;
+}
+.new-tabs-section.checkoutCart .scartPart {
+    width: 100%;
+    float: left;
+    margin: 0;
+}
+.new-tabs-section.checkoutCart .panel-footer.footer .pull-left {
+    width: 100%;
+    float: left;
+    padding: 8px 5%!important;
+}
+.new-tabs-section.checkoutCart .panel-footer.footer .pull-left h4 {
+    font-size: 15px;
+}
+body.main-body-w-app {
+    margin: 0;
+    padding: 0;
+}
+.doctor-claim-profile .registration-wrap.doc-register .form-fields span.help-block {
+    bottom: 0;
+}
+.slider .slides li .caption {
+    left: 4%!important;
+}
+li.dropdown.sub-nev-tool {
+    position: absolute;
+    top: 9px;
+    right: 171px;
+    border-bottom: 0;
+}
+div#searchDoctorModalArea {
+    top: 0;
+    padding: 0;
+    background: #fff;
+}
+.location-top {
+    width: 100%;
+    float: left;
+    padding: 0;
+    position: relative;
+}
+.location-top1 {
+    width: 100%;
+    float: left;
+    position: fixed;
+    z-index: 999999999999;
+    left: 0;
+    right: 0;
+    background: #fff;
+}
+.location-top h2 {
+    width: 100%;
+    float: left;
+    padding: 17px 0 17px 0;
+    margin: 0;
+    color: #000;
+    font-size: 18px;
+    text-align: center;
+}
+.location-top .btn-primary {
+    width: auto;
+    float: left;
+    padding: 0;
+    position: absolute;
+    top: 16px;
+    right: 20px;
+    background: 0 0;
+    color: #333;
+    border: 0;
+    font-size: 20px;
+    font-weight: 300;
+}
+div#searchDoctorModalArea .navbaar-bottom-section {
+    width: 100%;
+    padding: 57px 6px 0 6px;
+}
+div#searchDoctorModalArea .navbaar-bottom-block {
+    width: 100%;
+    padding: 0;
+}
+div#searchDoctorModalArea .dd-wrapper .search-data {
+    overflow: hidden;
+    overflow-y: auto;
+    max-height: 100%;
+    background: #fff;
+}
+div#searchDoctorModalArea .dd {
+    width: 100%;
+    float: left;
+    background: #fff;
+    padding: 7px 10px;
+    border-bottom: 1px solid #efefef;
+    cursor: pointer;
+}
+div#searchDoctorModalDoctor {
+    width: 100%;
+    float: left;
+    padding: 0;
+    background: #fff;
+}
+div#searchDoctorModalDoctor .container {
+    width: 100%;
+    float: left;
+    padding: 0 6px 0 6px;
+}
+div#searchDoctorModalDoctor .navbaar-bottom-section {
+    width: 100%;
+    padding: 57px 0 0 0;
+}
+div#searchDoctorModalDoctor .navbaar-bottom-box2 {
+    width: 100%;
+    margin: 0 0 0 -1px;
+}
+div#searchDoctorModalDoctor .navbaar-bottom-box input {
+    background-position: 97% 10px!important;
+    background-size: 16px!important;
+    border: 1px solid #ccc;
+}
+div#searchDoctorModalDoctor .dd-wrapper .search-data {
+    overflow: hidden;
+    overflow-y: auto;
+    max-height: 100%;
+    background: #fff;
+}
+div#searchDoctorModalDoctor .dd {
+    padding: 13px 0;
+}
+body div#searchDoctorModalDoctor .dd i {
+    margin: 0 10px 0 8px;
+    width: auto;
+    height: auto;
+}
+div#searchDoctorModalDoctor .dd span.text {
+    width: 90%}
+div#searchDoctorModalDoctor .navbaar-bottom-box .btn-default {
+    width: auto;
+    position: absolute;
+    right: 10px;
+    top: 1px;
+    color: #fff!important;
+    background: 0 0;
+    border-radius: 0;
+    border: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 35px;
+    background: #fff;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.dd-wrapper.doctorSearchByInput .search-data .dd.view_information i.icon-ic_gps_system img {
+    width: 15px;
+    margin-top: 4px;
+}
+div#searchDoctorModalDoctor .dd-wrapper h3 {
+    padding: 8px 2% 8px 6%}
+.schedulingTop {
+    width: 100%;
+    float: left;
+    padding: 0;
+}
+.schedulingTop .set_error {
+    width: 49%;
+    float: left;
+    margin-right: 2%}
+.schedulingTop .set_error:nth-child(2n+0) {
+    margin-right: 0;
+}
+.schedulingTop .set_error select {
+    width: 100%}
+.navbar.navbar-default .navbar-collapse {
+    display: block!important;
+}
+.mobile-search {
+    display: none;
+}
+.desktop-search {
+    display: block!important;
+}
+.navbar.navbar-default .navbar-header button {
+    display: none;
+}
+body .collapse.navbar-collapse .main-nav-desktop {
+    display: none!important;
+}
+body .collapse.navbar-collapse.main-nav-mobile {
+    display: block!important;
+    width: 100%;
+    float: left;
+}
+.navbar.navbar-default .navbar-right .login {
+    position: absolute;
+    top: 10px;
+    right: 166px;
+    border-bottom: 0;
+}
+.navbar.navbar-default .navbar-right .doctor {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    border-bottom: 0;
+    width: auto;
+}
+.docSearching {
+    background-size: 5%!important;
+    background-position: 97% 12px!important;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border: 0 solid #e7e7e7;
+}
+.navbar-default .navbar-collapse .nav.navbar-nav {
+    margin: 0;
+}
+ul.navbar-right li:last-child {
+    width: auto;
+}
+ul.navbar-right li:nth-child(4n) {
+    width: auto;
+}
+.main-nav-mobile ul.navbar-nav Li.apoointment {
+    width: 49%;
+    float: left;
+    margin-right: 2%}
+.navbar-default .navbar-nav.navbar-right li a .btn-default {
+    width: 100%!important;
+    float: left!important;
+    background: #fff!important;
+    border-radius: 0;
+    color: #14bef0!important;
+    height: 31px!important;
+    line-height: 19px!important;
+    font-size: 15px!important;
+    border: 1px solid #14bef0!important;
+    padding: 6px 12px!important;
+    font-weight: 600;
+}
+.doctor_btn_Hg {
+    background: #fff!important;
+    height: 31px!important;
+    border-radius: 3px!important;
+    border: 0!important;
+    color: #14bef0!important;
+    border: 1px solid #14bef0!important;
+    line-height: 19px!important;
+    font-size: 15px!important;
+    margin: 0!important;
+}
+.main-nav-mobile ul.navbar-nav li {
+    border: 1px solid #efefef;
+    border-radius: 3px;
+    text-align: center;
+}
+.main-nav-mobile ul.navbar-nav li.medicine {
+    width: 49%;
+    float: left;
+}
+.main-nav-mobile ul.navbar-nav li.lab-test {
+    margin-top: 5px;
+    width: 49%;
+    margin-right: 2%}
+.main-nav-mobile ul.navbar-nav li.blogs-details img {
+    width: 35px;
+}
+.main-nav-mobile ul.navbar-nav li.blogs-details a {
+    min-height: 115px;
+}
+.main-nav-mobile ul.navbar-nav li.lab-test a {
+    min-height: 115px;
+}
+.main-nav-mobile ul.navbar-nav li .nav-section h2 {
+    font-size: 17px;
+    color: #222;
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+}
+.main-nav-mobile ul.navbar-nav li .nav-section p {
+    font-size: 14px;
+    color: #888;
+    font-weight: 500;
+}
+.main-nav-mobile ul.navbar-nav li img {
+    margin-bottom: 8px;
+}
+.main-nav-mobile ul.navbar-nav li.blogs-details {
+    margin-top: 5px;
+    width: 49%}
+.doctor-claim-profile form .tabsholder1 ul li {
+    width: auto!important;
+}
+.registration-wrap.doc-register .f-name-field input {
+    width: 75%!important;
+    margin-left: -1px;
+}
+#AppointmentWrapper .appoint-confirm-wrapper.no-bg.confirmation_div {
+    padding: 6%;
+    min-height: 155px;
+}
+#AppointmentWrapper h1 {
+    font-size: 30px;
+}
+.appointment-popup-block .input-age-group input {
+    width: 46%}
+body .registration-wrap .form-fields label {
+    font-size: 13px;
+}
+body #profile-form .appointment-popup-block {
+    padding: 0!important;
+}
+#profile-form .registration-wrap .dp-exiting .form-fields {
+    width: 100%!important;
+}
+.searching-keyword h1 {
+    display: none;
+}
+.searhc-result {
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+.breadcrume {
+    width: 100%;
+    float: left;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.breadcrume ul {
+    width: 100%;
+    float: left;
+}
+.breadcrume ul li {
+    float: none;
+    display: inline-block;
+}
+#testimonial-slider .owl-pagination {
+    margin-top: 0!important;
+}
+.date-wrapper {
+    width: 45%;
+    float: left;
+}
+.bmi-wrapper .checkbox label, .radio label {
+    padding-left: 0;
+}
+.bmi-wrapper form .form-group.wrapper span {
+    margin-left: 0;
+}
+.ppt-video-image {
+    width: 95%}
+.ppt-video-image iframe {
+    border: 10px solid #000;
+    width: 100%;
+    height: 100%}
+.blogs-wraper {
+    width: 30.53%;
+    float: left;
+    box-shadow: 1px 5px 30px .5px rgba(216, 216, 216, .5);
+    margin: 0 10px 0 0;
+    padding: 40px 8px;
+}
+.blogs-wraper h3 {
+    font-size: 15px;
+}
+.blogs-wraper img {
+    margin-bottom: 10px;
+    width: 130px;
+}
+.bmi-wrapper form .form-group.wrapper {
+    width: 36%}
+.bmi-wrapper .row {
+    margin: 0!important;
+}
+.Get_company_content h5 {
+    text-align: left;
+}
+.similar-blog-list .content {
+    float: left;
+    width: 70%}
+.eventModel.profileAlertModel .modal-dialog {
+    margin: 0 auto;
+}
+body .Patient_Portal_section h3 {
+    font-size: 22px;
+}
+.form-control {
+    padding: 6px 6px;
+}
+.registration-wrap .form-fields input[type=text] {
+    padding: 0 6px;
+}
+.registration-wrap select {
+    padding: 0 6px;
+    width: 25%}
+body .pageHeader {
+    width: 100%}
+body .login-wrapper #login_tab .contnet-sec {
+    width: 45%}
+body .login-wrapper #login_tab .registration-wrap {
+    width: 50%}
+body #userProfileInfoData .registration-wrap.user-info.profile-exam #fileselector {
+    width: 52%;
+    margin-top: 0;
+}
+body #userProfileInfoData .registration-wrap .form-fields input.s-input.verifyPatData {
+    width: 68%!important;
+}
+body .banner-section h3 {
+    font-size: 35px;
+}
+body .slider .slides {
+    height: 240px;
+}
+body .slider {
+    height: auto;
+}
+.banner-section {
+    padding: 0 15px;
+}
+.navbaar-bottom-box input {
+    white-space: nowrap;
+    overflow: hidden!important;
+    text-overflow: ellipsis;
+}
+body .navbar-default .navbar-nav.navbar-right li.cart-wrapper a img {
+    width: 20px!important;
+}
+body .navbar-default .navbar-nav.navbar-right li a img {
+    float: none;
+    margin: 0 0 5px 0;
+    width: 15px!important;
+    height: auto;
+}
+body .navbar-default .navbar-nav.navbar-right li a .nav-section {
+    width: auto;
+    float: left;
+    padding: 0;
+}
+body .navbar-default .navbar-nav.navbar-right li a .nav-section h3 {
+    font-size: 14px;
+    margin: 0;
+    padding: 0 0 5px;
+    color: #1e282f;
+}
+body .navbar-default .navbar-nav.navbar-right li a .nav-section p {
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+    color: #9d9d9d;
+    line-height: 14px;
+}
+body .navbar-default .navbar-nav.navbar-right li a .btn-default {
+    height: 30px;
+    padding-left: 0;
+    line-height: 30px;
+    font-size: 12px;
+    padding: 0 18px 0 0;
+    font-weight: 600;
+}
+body .doctor_btn_Hg {
+    background: #ef6423;
+    height: 30px;
+    border-radius: 0;
+    border: 0;
+    font-size: 12px;
+}
+body .navbar-default .navbar-nav.navbar-right li a .btn-default .fa-pencil-square-o {
+    height: 30px;
+    width: 30px;
+    padding-top: 9px;
+}
+ul.nav li {
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid #f0f0f0;
+}
+body .navbar-default ul#g-account-menu {
+    position: absolute;
+    width: 175px;
+    height: 163px;
+    top: 58px;
+    background: #fff;
+    padding: 0 10px!important;
+    left: 10px;
+    box-shadow: 0 1px 4px 0 #c1c0c0;
+}
+body .navbar-default ul#g-account-menu::after {
+    top: -11px;
+    left: 83px;
+    margin-left: 0;
+    content: "";
+    border-bottom-color: #fff!important;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-top-color: transparent;
+    border-style: solid;
+    border-width: 5px;
+}
+.navbar-header {
+    background: #efefef;
+}
+ul.navbar-right ul#g-account-menu li:nth-child(4n) {
+    width: 100%}
+ul.navbar-right ul#g-account-menu li:last-child {
+    width: 100%}
+body .navbar-default ul.navbar-right ul#g-account-menu {
+    height: auto!important;
+    padding: 0!important;
+}
+li.dropdown #g-account-menu li a img {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+li.dropdown #g-account-menu li a img {
+    width: 30px!important;
+    height: 30px!important;
+    margin-left: 0;
+    border-radius: 30px;
+    border: 1px solid #efefef;
+    margin-right: 10px;
+}
+.navbar-toggle {
+    margin-top: 15px;
+}
+.navbar-nav li.dropdown #g-account-menu li:first-child a {
+    font-weight: 600;
+    line-height: 30px;
+}
+.navbar-nav li.dropdown #g-account-menu li a {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: 0;
+}
+body .navbar-default .navbar-nav.navbar-right li a {
+    padding: 4px;
+}
+.login-wrapper #login_tab .contnet-sec h2 {
+    font-size: 21px;
+}
+.blog-detail .container-inner {
+    width: 100%}
+.blog-detail .continer-right {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+body .login-wrapper .registration-wrap .form-bot-field .form-fields.send-button {
+    width: auto!important;
+}
+body .registration-wrap #login-form .form-fields.send-button button {
+    width: 100px!important;
+}
+body .registration-wrap #login-form .form-fields span.help-block {
+    bottom: -20px;
+    left: 4%;
+    width: 100%}
+body .registration-wrap .form-fields.send-button button {
+    width: auto!important;
+}
+.doc-register .form-fields {
+    margin-bottom: 0!important;
+}
+.profile-detil .registration-wrap .form-fields input.s-input.verifyDocData {
+    width: 75%!important;
+    float: left;
+}
+.profile-detil .registration-wrap .form-fields.form-field-mid.pad-r0.gender {
+    min-height: auto;
+}
+.blog-inner .blog-crasuseal {
+    width: 100%}
+.blog-wrapper-section .continer-right {
+    width: 100%}
+.blog-inner .blog-wrapper-section .blog-crasuseal .blog-list {
+    width: 49%!important;
+    min-height: 275px;
+}
+.blog-inner .blog-wrapper-section .blog-crasuseal .blog-list:nth-child(2n) {
+    margin-right: 0!important;
+}
+.subscription input {
+    width: 100%}
+.blog-crasuseal .blog-list {
+    width: 32%!important;
+}
+.blog-crasuseal .blog-list h2 {
+    font-size: 14px;
+    width: 65%}
+.date-post {
+    font-size: 10px;
+    margin: 0;
+}
+.blog-crasuseal .blog-list p {
+    margin-bottom: 5px;
+    font-size: 12px;
+}
+.profile-detail p.completePclaimed {
+    margin-left: 0;
+}
+.doctor-co2 {
+    padding: 20px 0!important;
+}
+.rating_doctor-div {
+    width: auto;
+    left: 0;
+    top: 21px;
+    right: inherit;
+}
+.most-visited-profile .FAQ {
+    text-align: center;
+}
+.better_health_block img {
+    max-width: 100%;
+    width: 100%}
+.banner-content-section h2 {
+    font-size: 43px;
+}
+.better_health_block {
+    width: 24%;
+    float: left;
+    margin-right: 1%}
+.better_health_top h2 {
+    font-size: 16px;
+    font-weight: 600;
+}
+.better_health_content h2 {
+    font-size: 15px;
+}
+.better_health_content p {
+    font-size: 12px;
+}
+.Get_company_img {
+    display: none;
+}
+.footer_bottom_block {
+    float: left;
+    width: auto;
+    margin: 0 15px 0 0;
+}
+.footer_bottom_box {
+    float: left;
+    width: auto;
+}
+.Patient_Portal_section h2 {
+    font-size: 40px;
+}
+.health_experts_img img {
+    width: auto;
+}
+.health_experts {
+    position: relative;
+}
+.health_experts_content {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 90px 0 125px 20px;
+    height: 100%}
+.navbaar-bottom-section {
+    width: 100%!important;
+}
+.navbaar-bottom-block {
+    width: 50%}
+.navbaar-bottom-box2 {
+    width: 50%}
+.slot-details .doctor-listtop.doctor-listtop2 {
+    width: 100%;
+    float: left;
+    min-height: auto;
+    margin-bottom: 15px;
+}
+.slot-details .from-widget-top {
+    width: 100%;
+    float: left;
+}
+.slot-details .doctor-listtop-img {
+    width: 70px;
+    margin: 0 auto;
+}
+.slot-details .doctor-listtop-img img {
+    max-width: 100%;
+    height: auto;
+}
+.doctor-listtop-content h2 {
+    font-size: 20px;
+}
+.slot-details .doctor-listtop-content span {
+    font-size: 14px;
+}
+body .appoint-confirm-wrapper h1 {
+    height: auto;
+    padding-left: 0;
+    margin-bottom: 10px;
+}
+body .text-wrapper {
+    padding-top: 0;
+}
+.appoint-confirm-wrapper p:first-child {
+    padding-top: 0;
+    text-align: center;
+}
+.appoint-confirm-wrapper button {
+    float: left;
+}
+.appoint-confirm-wrapper.no-bg.confirmation_div .text-wrapper p {
+    text-align: left;
+}
+.decline-wrapper h1 {
+    height: auto;
+    margin-bottom: 10px;
+    padding-left: 0;
+}
+.decline-wrapper p:first-child {
+    padding-top: 0;
+    text-align: center;
+}
+.appoint-confirm-wrapper .patient-name {
+    width: 100%;
+    text-align: left;
+}
+.appoint-confirm-wrapper p {
+    text-align: left;
+}
+.appoint-confirm-wrapper.no-bg h1 {
+    text-align: left;
+    padding-left: 0;
+}
+body .profile-detail h4 {
+    margin: 5px 0 10px 0;
+}
+body .listing {
+    padding: 3%}
+body .location {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+body .timing {
+    width: auto;
+    float: left;
+}
+body .fees {
+    font-weight: 600;
+    width: 100%;
+    float: left;
+}
+body .list-bottom {
+    padding: 15px 0;
+    width: 100%;
+    float: left;
+}
+body .cal-doctor a {
+    font-size: 13px;
+    padding: 2px 10px;
+}
+.view-profile {
+    padding: 8px 0 0 5%}
+.doctor-address {
+    width: 100%;
+    float: left;
+}
+.product-section .col-md-4 {
+    float: left;
+    width: 33%}
+.product-section .col-md-4 .product-block {
+    width: 100%}
+.product-section .col-md-4 .dd {
+    padding: 0;
+}
+.most-visited-profile .FAQ .container {
+    padding-right: 0;
+}
+.most-visited-profile .dr-profile {
+    width: 24%;
+    float: left;
+    min-height: 200px;
+}
+.most-visited-profile .dr-profile h3 {
+    font-size: 13px;
+}
+.most-visited-profile .dr-profile img {
+    width: 40%;
+    height: auto;
+}
+body .most-visited-profile .FAQ .container .dr-profile:nth-child(3) img {
+    width: 50%;
+    margin: 5px 0 0 0;
+}
+body .most-visited-profile p {
+    font-size: 15px;
+}
+.banner-section img {
+    width: 100%;
+    height: auto;
+}
+.right-content .right-content {
+    width: 100%}
+.product-section {
+    margin-top: 0;
+    padding: 40px 0 0 0;
+}
+.product-block {
+    width: 30%;
+    margin: 0 3% 0 0;
+}
+.product-block::after {
+    height: 100%}
+.veiw-block {
+    width: 31%;
+    margin-right: 2%}
+.veiw-content h2 {
+    font-size: 13px;
+}
+.veiw-content p {
+    font-size: 12px;
+}
+.veiw-icon {
+    width: 35px;
+    height: 35px;
+    top: 0;
+}
+.veiw-icon img {
+    top: 10px!important;
+}
+body .example.profile-detil .card-tabs-bar a {
+    width: auto;
+}
+.profile-detail.auto .title-wrap h3 {
+    width: 100%;
+    float: left;
+}
+.profile-detail.auto .title-wrap a {
+    position: inherit;
+}
+.profile-detail.auto {
+    width: 78%!important;
+    margin: 0;
+    float: left;
+}
+.doc-img {
+    width: 20%}
+body .profile-detail {
+    width: 100%;
+    margin-left: 0;
+    padding-top: 0;
+    float: right;
+}
+body .doctor-address {
+    width: 100%;
+    float: right;
+    padding-top: 10px;
+}
+body .list-bottom {
+    padding-left: 0;
+    padding: 0;
+    margin-top: 0;
+}
+body .example.profile-detil div.card-tabs-bar a {
+    padding: 8px!important;
+}
+.profile-detail ul {
+    margin: 12px 0;
+    padding: 5px 2%;
+    background: #efefef;
+}
+.profile-detail ul li {
+    float: left;
+    font-size: 13px;
+}
+.profile-detail ul li img {
+    padding: 3px 5px 0 0;
+}
+.profile-detail p {
+    float: left;
+    width: 100%}
+.doctor-co2, .doctor-co3, .doctor-col {
+    width: 100%;
+    margin: 0;
+}
+.registration-wrap .form-fields.send-button {
+    width: 100%}
+.registration-wrap .form-fields.send-button button {
+    width: 20%!important;
+}
+.registration-wrap .form-fields textarea {
+    height: 42px;
+    min-height: 42px;
+}
+.add-more-session.schedule {
+    margin-top: 40px;
+}
+.breadcrume ul li a {
+    font-size: 13px;
+}
+.breadcrume ul li {
+    padding: 0;
+    font-size: 12px;
+}
+.sorting label {
+    margin: 0 4px 0 0;
+}
+.sorting .select {
+    font-size: 13px;
+}
+.timing {
+    font-size: 14px;
+}
+.fees {
+    font-size: 14px;
+}
+.sorting {
+    width: 345px;
+    float: none;
+    padding-top: 8px;
+    margin: 0 auto;
+}
+.sorting .select {
+    margin-top: -10px;
+}
+.searching-keyword h1 {
+    font-size: 12px;
+}
+.searhc-result strong {
+    padding-left: 4px;
+}
+.left-content {
+    width: 33%}
+.right-content {
+    width: 64%;
+    margin-left: 2%}
+.profile-detail h3 {
+    font-weight: 600;
+}
+.location {
+    font-size: 14px;
+}
+.profile-detail h4 {
+    font-size: 14px;
+}
+.cal-doctor a {
+    padding: 4px 5px;
+    font-size: 13px;
+}
+.cal-doctor img {
+    width: 12px;
+}
+.view-profile {
+    padding: 0 0 0 5%}
+.left-content .chck-container {
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 4px;
+}
+.chck-container input:checked~.checkmark {
+    width: 14px;
+    height: 14px;
+}
+.chck-container .checkmark:after {
+    left: 4px;
+    top: 1px;
+    width: 7px;
+    height: 10px;
+}
+.sorting label {
+    float: none;
+    font-size: 12px;
+    width: 100%;
+    text-align: center;
+}
+.sorting .switchTeleConsultation label {
+    float: left;
+    font-size: 14px;
+    color: #1b1b1b;
+    margin: -7px 0 0 6px;
+    font-weight: 100;
+}
+.sorting .select {
+    font-size: 12px;
+    width: 190px;
+}
+.sorting .select .DataFilterBySorting {
+    width: 100%;
+    padding: 10px 10px;
+}
+
+}
+@media only screen and (min-width:768px) and (max-width:1024px) {
+    body .list-bottom .cal-doctor {
+    padding-bottom: 8px;
+    margin-right: 8px;
+}
+.top-locality-div .containerDiv ul li {
+    font-size: 11px;
+}
+.top-locality-div .containerDiv h2 {
+    padding: 0px 0px 6px 0px;
+    font-size: 14px;
+}
+body .list-bottom .cal-doctor a {
+    width: 160px;
+}
+.list-bottom .cal-doctor:nth-child(2n) {
+    margin-left: 0;
+    margin-right: 0;
+}
+body .right-content .listing .list-bottom {
+    width: 100%}
+#doctorAppointmentSlot .modal-dialog {
+    width: 95%}
+body .tcb-product-item {
+    margin-bottom: 75px;
+}
+.tcb-product-slider #carousel-example-generic .carousel-control.right {
+    position: absolute;
+    top: inherit;
+    right: -50px;
+    bottom: 0;
+    left: 0;
+}
+.doctor-claim-profile form #info_tab .add-doctor-left-box.OncallStatus p.oncall_fee {
+    width: 100%!important;
+    margin-top: 0;
+}
+.add-doctor-left-box.OncallStatus.ConsultationType .ConsultationType .Consultation11 p .help-block label {
+    width: 100%!important;
+}
+.camp-appointment-form .slot-details .doctor-listtop.doctor-listtop2 {
+    padding: 5% 20px 5% 20px;
+    min-height: auto;
+}
+.Top-Specialities123.desktop_topSpeciality .col-sm-3 {
+    width: 24.6%;
+    padding: 3px;
+}
+.tcb-product-slider #carousel-example-generic .carousel-control.left {
+    position: absolute;
+    top: inherit;
+    left: -50px;
+    bottom: 0;
+    right: 0;
+}
+body .slot-details .doctor-listtop.doctor-listtop2 {
+    width: 100%}
+.wrapper-appoint #AppointmentWrapper .from-widget-top {
+    width: 100%}
+#AppointmentWrapper.slot-details .from-widget .from-widget-section .radio-wrap label {
+    width: auto!important;
+    font-weight: 400;
+    font-size: 14px;
+}
+body .container.listing-right-wrapper.live_doctors .container-inner .right-content .rating_doctor-div {
+    right: 0;
+    top: 0;
+}
+body .sorting.sorting_fillterTop {
+    width: 60%}
+body .viewPresFileModal .view-file-full {
+    width: 60%!important;
+}
+body .toggle-wrapper button {
+    font-size: 13px;
+}
+body .hg-plan-wrapper ul li.labPkgDet {
+    width: 76%}
+body .healthcare_plan .view-icon {
+    right: 5px;
+    top: 110px;
+}
+body .view-icon:hover #lightbox-tooltip {
+    width: 450px;
+}
+body .toggle-wrapper {
+    width: 48%;
+    max-height: 100%}
+body .view-icon .lab-test.Lab_Test_Details .package-box {
+    float: left;
+}
+body .filter-section {
+    padding-top: 0;
+}
+.dashboard-wrapper.dashboard-plan-wrapper.sideband-menu-bar .page-container {
+    width: 28%}
+body .dashboard-wrapper.dashboard-plan-wrapper.sideband-menu-bar .page-container .sidebar-menu {
+    width: 100%}
+body .sidebar-menu::before {
+    width: 28%}
+body .registration-wrap.user-info.profile-exam .user-profile-img .image_apload22 span.help-block {
+    top: 8px;
+    width: 200px!important;
+}
+.dashboard-wrapper.dashboard-plan-wrapper.sideband-menu-bar .right-section.new-tabs-section.checkoutCart {
+    margin-top: 0PX!important;
+}
+body .dashboard-plan-wrapper .appointment-data-div.appointmetn-list {
+    padding-top: 0;
+}
+.dashboard-plan-wrapper.dashboard-wrapper .registration-wrap.user-info.profile-exam {
+    margin-top: 0!important;
+}
+.page-container.sidebar-collapsed-back {
+    width: 27%}
+body .page-container.sidebar-collapsed-back .sidebar-menu {
+    width: 100%}
+.sideband-menu-bar.dashboard-plan-wrapper.dashboard-wrapper .dashboard-right {
+    width: 71%;
+    margin-top: 15px;
+    float: right;
+}
+.sidebar-menu::before {
+    position: absolute;
+    height: 99.2%;
+    bottom: 0;
+    background: #fff;
+    top: 15px;
+    left: 0;
+    content: "";
+    width: 27%;
+    z-index: 0;
+    transition: all .4s ease 0s;
+}
+body .dashboard-plan-wrapper.dashboard-wrapper .dashboard-right {
+    padding-left: 0;
+    width: 90%;
+    margin-top: 15px;
+}
+.HG_plan_Section {
+    padding-top: 0;
+}
+body .healthcare_plan {
+    text-align: left;
+}
+body .healthcare_plan ul li {
+    line-height: 14px;
+    font-size: 14px;
+    background-size: 5%}
+body .dashboard-wrapper.dashboard-plan-wrapper.sideband-menu-bar .healthcare_plan {
+    width: 47%;
+    margin-bottom: 30px;
+}
+body.details-blog {
+    text-align: center;
+}
+body .HG-details .details-blog .content-blog-details {
+    width: 100%;
+    text-align: center;
+    margin-left: 0;
+}
+body .HG-details .details-blog .content-blog-details p {
+    letter-spacing: -1px;
+}
+body .details-blog {
+    text-align: center;
+    min-height: 149px;
+}
+.HG-details .details-blog img {
+    float: none;
+    width: 45px;
+    padding-top: 12px;
+}
+.dashboard-plan-wrapper .dashboard-left ul li.my-plan a {
+    background-size: 7%;
+    background-position: 8px 15px;
+}
+.dashboard-plan-wrapper .dashboard-left ul li.my-plan a:hover {
+    background-size: 7%;
+    background-position: 8px 15px;
+}
+.dashboard-plan-wrapper .dashboard-left ul li.my-profile a {
+    background-size: 7%;
+    background-position: 9px 15px;
+}
+.dashboard-plan-wrapper .dashboard-left ul li.my-profile a:hover {
+    background-size: 7%;
+    background-position: 9px 15px;
+}
+.dashboard-plan-wrapper .dashboard-left ul li.change-pass a {
+    background-size: 7%;
+    background-position: 9px 14px;
+}
+.dashboard-plan-wrapper .dashboard-left ul li.change-pass a:hover {
+    background-size: 7%;
+    background-position: 9px 14px;
+}
+.dashboard-plan-wrapper .dashboard-left ul li.my-appointment a {
+    background-size: 25px;
+    background-position: 3px 10px;
+}
+.dashboard-plan-wrapper .dashboard-left ul li.my-appointment a:hover {
+    background-size: 25px;
+    background-position: 3px 10px;
+}
+.dashboard-plan-wrapper .dashboard-left ul li.my-orders a {
+    background-size: 7%;
+    background-position: 8px 12px;
+}
+.dashboard-plan-wrapper .dashboard-left ul li.my-orders a:hover {
+    background-size: 7%;
+    background-position: 8px 12px;
+}
+.dashboard-plan-wrapper .dashboard-left ul li.articles a {
+    background-size: 7%;
+    background-position: 8px 15px;
+}
+.dashboard-plan-wrapper .dashboard-left ul li.articles a:hover {
+    background-size: 7%;
+    background-position: 8px 15px;
+}
+body .reset-form-wrapper.login-wrapper .registration-wrap .form-bot-field {
+    width: 51%!important;
+    margin-right: 2%}
+body .reset-form-wrapper.login-wrapper .registration-wrap .form-bot-field .form-fields.send-button {
+    width: 100%!important;
+}
+body .reset-form-wrapper.login-wrapper .registration-wrap .form-bot-field .form-fields.send-button button {
+    width: 100%!important;
+}
+.registration-wrapper.contact-wrapper .radio-wrapper {
+    width: 100%}
+#AppointmentWrapper.slot-details .from-widget .appointment-popup-block22 .appointment-popup-block select {
+    width: 28%}
+.broucher_dwn {
+    left: inherit;
+    right: 0;
+    position: inherit;
+    top: 9px;
+}
+.bottom-errors-content ul li a {
+    width: 100%;
+    background-position: 5px 9px;
+    font-size: 10.9px;
+}
+.bottom-errors-404 .bottom-errors-content h2 {
+    color: #14bef0;
+    font-weight: 600;
+    position: relative;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+.lab-test.Lab_Test_Details .LabDetailsDiv .package-box_lab .lab-test-block h3 {
+    font-weight: 400;
+    font-size: 14px;
+    color: #222;
+    margin: 0;
+    padding: 4px 0 4px;
+}
+.lab-test.Lab_Test_Details .LabDetailsDiv .package-box {
+    margin-bottom: 5px;
+}
+.navbar-nav li.dropdown #g-account-menu li:first-child a {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.lab-test .checkup-detail h3 {
+    width: 100%;
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    float: left;
+    padding: 0 10px;
+    margin: 0;
+}
+.certification {
+    padding: 5px 10px 10px 10px;
+}
+.lab-test .checkup-detail h3 {
+    padding: 0 10px;
+}
+.lab-test .blog-wrapper-content {
+    padding: 10px;
+}
+.slot-details .from-widget .from-widget-section label {
+    width: 100%;
+    font-size: 13px;
+    font-weight: 600;
+}
+#g-account-menu.dropdown-menu li a span {
+    float: left;
+    width: 124px;
+    line-height: 30px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.right-block ul li .new_nir {
+    width: 100%;
+    float: left;
+}
+.address-box {
+    min-height: 110px;
+}
+.lab-test.Lab_Test_Details.single-lab-detail .checkup-detail h3 {
+    white-space: inherit;
+    overflow: hidden;
+    text-overflow: inherit;
+}
+.checkup-package.labProfiles .LabDetailsDivLosh .checkup-detail.LabProfiles {
+    margin-right: 2%!important;
+    width: 23%}
+.checkup-package.labProfiles .LabDetailsDivLosh .checkup-detail.LabProfiles:nth-child(4n+0) {
+    margin-right: 0!important;
+}
+.latest-prod-details {
+    padding-left: 0;
+    width: 100%}
+body .lab-order-section table.tab-order-detail tr td p .order-address {
+    width: 90%}
+span.user-nametop {
+    width: 100px;
+    float: left;
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+ul.navbar-right li.medicine.main-nav-desktop.cart-wrapper {
+    margin-top: 7px;
+}
+.navbar-nav li.dropdown.sub-nev-tool .dropdown-toggle span.caret {
+    margin-top: 1px;
+    margin-right: 5px;
+}
+.navbar-right li.doctor a button {
+    padding: 6px 10px!important;
+}
+body .order-overview .right {
+    margin-top: 0;
+}
+.order-overview .left {
+    margin-top: 0;
+}
+.checkup-package.owl-carousel.owl-theme.owl-loaded.owl-drag .owl-item .checkup-detail img {
+    margin: 10px 0 0 10px;
+}
+.all-offers .allProfiles .package-box.item {
+    min-height: 215px!important;
+}
+.checkup-package.labProfiles .checkup-detail.LabProfiles {
+    min-height: 280px;
+    width: 23%}
+.SendAppLink .Get_company {
+    padding-top: 7px;
+}
+body .navbar-collapse.collapse.main-nav-mobile-lab {
+    display: none!important;
+}
+#steps-uid-0-p-3 .address-wrapper .input-wrapper {
+    width: 40%}
+.waitingTime .address-box .coupon-wrapper [type=radio]:checked, .waitingTime .address-box .coupon-wrapper [type=radio]:not(:checked) {
+    left: 5px!important;
+}
+.screening.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-prev {
+    left: 0;
+}
+.screening.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-next {
+    right: 0;
+}
+.checkup-package.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-next {
+    right: -9px;
+}
+.checkup-package.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-prev {
+    left: -9px;
+}
+.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-next {
+    right: -9px;
+}
+.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-prev {
+    left: -9px;
+}
+.LabDashboardSection .owl-carousel .owl-dots.disabled, .LabDashboardSection .owl-carousel .owl-nav.disabled {
+    display: block;
+}
+#steps-uid-0-p-2 .address-box .coupon-wrapper input {
+    width: auto!important;
+}
+#steps-uid-0-p-2 .address-box .float {
+    padding-left: 15px!important;
+}
+#steps-uid-0-p-2 .waitingTime .address-box [type=radio]:checked+label, #steps-uid-0-p-2 .waitingTime .address-box [type=radio]:not(:checked)+label {
+    left: -2px!important;
+}
+#steps-uid-0-p-1 .radio-wrapper label {
+    margin-right: 0;
+}
+#steps-uid-0-p-1 .radio-wrapper p {
+    padding: 6px 0 0 0;
+}
+body .form-address-details.divForHide {
+    padding: 12px 8px!important;
+}
+body .Get_company {
+    padding: 8px 0 0 0;
+}
+body .tabs-cart .right-block ul li {
+    padding: 6px 10px;
+}
+.form-address-details.divForHide div {
+    width: 68%;
+    float: left;
+}
+#coupanApply {
+    padding: 0 10px;
+    height: 30px;
+}
+body .cartTotal {
+    left: 12px;
+}
+#steps-uid-0-p-3 .address-wrapper .input-wrapper {
+    width: 40%}
+.waitingTime .address-box .coupon-wrapper [type=radio]:checked, .waitingTime .address-box .coupon-wrapper [type=radio]:not(:checked) {
+    left: 5px!important;
+}
+.screening.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-prev {
+    left: 0;
+}
+.screening.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-next {
+    right: 0;
+}
+.checkup-package.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-next {
+    right: -9px;
+}
+.checkup-package.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-prev {
+    left: -9px;
+}
+.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-next {
+    right: -9px;
+}
+.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-prev {
+    left: -9px;
+}
+body #MyCartPage {
+    padding: 25px 5px;
+}
+.wizard>.steps a, .wizard>.steps a:active, .wizard>.steps a:hover {
+    margin: 0!important;
+    padding: 0!important;
+}
+body .steps li a:after, body .steps li a:before {
+    top: -20px;
+}
+.order-overview .right .right-block.save-block P {
+    font-size: 12px;
+}
+.lab-test .allProfiles .package-box.item {
+    width: 32.5%;
+    min-height: 124px;
+    position: relative;
+}
+.screening.allGroups .small-blogs.item {
+    width: 20%}
+.SendAppLink .col-md-6:first-child {
+    width: 40%;
+    float: left;
+}
+.SendAppLink .Get_company_content h5 {
+    width: 100%;
+    float: left;
+    font-family: Karla, sans-serif!important;
+    padding: 5px 0 5px 0;
+    margin: 7px 0 0;
+    color: #222;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.Sendapp_Link {
+    padding: 10px 0 10px 0;
+}
+.SendAppLink .col-md-6 {
+    width: 60%;
+    float: left;
+}
+.main-banner-slider {
+    display: block;
+}
+.main-banner-slider.mobile {
+    display: none;
+}
+.main-banner-slider.mobile img {
+    width: 100%}
+.all-offers .checkup-package.allOffers .checkup-detail.item {
+    width: 32%;
+    float: left;
+    margin-bottom: 20px;
+    overflow: hidden;
+    min-height: 288px;
+    margin-right: 2%}
+.all-offers .checkup-package.allOffers .checkup-detail.item:nth-child(3n+0) {
+    margin-right: 0;
+}
+.all-offers .checkup-package.allOffers .checkup-detail.item.checkup-detail img {
+    max-width: 92px;
+    height: auto;
+    margin: 10px 0 0 8px;
+}
+.all-offers .checkup-package.allOffers .checkup-detail.item .book-now a {
+    padding: 10px 6%}
+.all-offers .checkup-package.allOffers .blog-wrapper-content {
+    padding: 8px;
+}
+.all-offers .checkup-package.allOffers .checkup-detail .test-included a {
+    padding: 4px 9px;
+}
+.all-offers .checkup-package.allOffers .checkup-detail h3 {
+    padding: 0 8px;
+}
+.all-offers .checkup-package.allOffers .certification {
+    padding: 5px 8px 10px 8px;
+}
+.checkup-package.labProfiles .checkup-detail {
+    width: 23.5%;
+    float: left;
+    margin-bottom: 20px;
+    min-height: 370px;
+    overflow: hidden;
+}
+.checkup-package.labProfiles .checkup-detail:nth-child(5n+0) {
+    margin-right: 0;
+}
+.package-box.item a {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.lab-test .package-box a {
+    padding: 10px 0;
+}
+.lab-test .allProfiles .package-box.item:nth-child(3n+0) {
+    margin-right: 0;
+}
+.lab-test h3 {
+    font-size: 15px;
+}
+.package-box.item .total_count {
+    font-size: 13px;
+}
+.package-box.item b {
+    font-size: 13px;
+}
+.lab-test.Lab_Test_Details .LabDetailsDiv .package-box_lab .lab-test-block {
+    width: 85%}
+.doctor-claim-profile .doctor-info .form-fields #country {
+    font-size: 11px;
+    padding: 6px 1px;
+}
+body #clinic_details_tab .suggesstion-box ul li .detail-clinic {
+    width: 85%}
+.doctor-claim-profile .tabsholder1 #clinic_details_tab .registration-wrap.doc-register .form-fields input {
+    padding: 0 26% 0 3%}
+.checkmark {
+    top: 3px!important;
+}
+body .right-con-wrapper {
+    width: 78%;
+    position: relative;
+    padding-bottom: 35px;
+    float: right;
+    margin-left: 2%}
+.appointment-popup-block .input-age-group select {
+    width: 48px;
+}
+body .right-content.suggested-width .profile-detail h3 {
+    padding-bottom: 0;
+}
+body .right-content.suggested-width .rating_doctor-div {
+    right: 8px;
+}
+.view-profile a {
+    padding: 6px 8px 5px;
+}
+.suggestion-wrapper .content-wrapper-not-found p {
+    text-align: center;
+}
+.right-content.suggested-width {
+    width: 65%;
+    float: left;
+    margin-left: 2%}
+.listing-right-wrapper .right-small {
+    width: 65%;
+    float: right;
+    margin-bottom: 30px;
+}
+body .listing-right-wrapper .listing .doc-img .rating_doctor-div {
+    width: auto;
+    left: inherit;
+    right: 16px;
+    top: 11px;
+}
+body div.list-bottom.sponsered-btn {
+    width: 100%;
+    float: right;
+    margin-top: 0;
+}
+body div.list-bottom.sponsered-btn a {
+    font-size: 12px;
+    padding: 0 4px;
+}
+body .container.listing-right-wrapper .listing .timing {
+    float: left;
+    width: 70%;
+    margin-top: 5px;
+}
+body .container.listing-right-wrapper .listing .fees {
+    width: 100%;
+    float: left;
+    margin-top: 12px;
+}
+body .suggestion-wrapper.no-result-found .doctorRegistrationDiv {
+    position: inherit;
+    margin: 10px auto;
+    float: none;
+    display: inline-block;
+}
+.contnet-sec h2 {
+    font-size: 16px;
+}
+.suggestion-wrapper.no-result-found h2 {
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+.suggestion-wrapper.no-result-found h2 strong {
+    font-size: 17px;
+    width: 100%;
+    float: none;
+    text-align: center;
+}
+body .btn-profile-wrapper {
+    width: 100%!important;
+    float: left!important;
+}
+#myModalLabOrderPP .modal-content {
+    height: auto!important;
+}
+body .appointment-data-div .no-result-found {
+    width: 100%}
+body .registration-wrap #login-form .form-fields.send-button button {
+    width: 100px!important;
+}
+.navbar-default .navbar-nav.navbar-right li.apoointment.main-nav-desktop a img {
+    width: 15px;
+}
+body .blog-inner .blog-crasuseal .blog-list {
+    min-height: 265px;
+}
+.new-tabs-section.checkoutCart .panel-title h5 {
+    padding-left: 5%!important;
+}
+.doctor-claim-profile .registration-wrap.doc-register .form-fields span.help-block {
+    bottom: 0;
+    margin-bottom: 0!important;
+}
+.registration-wrap select {
+    width: 25%}
+.schedulingTop {
+    width: 100%;
+    float: left;
+    padding: 0;
+}
+.schedulingTop .set_error {
+    width: 49%;
+    float: left;
+    margin-right: 2%}
+.schedulingTop .set_error:nth-child(2n+0) {
+    margin-right: 0;
+}
+.schedulingTop .set_error select {
+    width: 100%}
+.slider .slides li .caption {
+    left: 4%!important;
+}
+.registration-wrap.doc-register .f-name-field input {
+    width: 75%!important;
+    margin-left: -1px;
+}
+#AppointmentWrapper .appoint-confirm-wrapper.no-bg.confirmation_div {
+    padding: 6%;
+    min-height: inherit;
+    display: inline-block;
+}
+body .subscription input {
+    font-size: 12px!important;
+}
+body .doctor_btn_Hg {
+    font-size: 12px;
+}
+.most-visited-profile .FAQ .container {
+    width: 100%}
+.date-wrapper {
+    width: 45%;
+    float: left;
+}
+.ppt-video-image {
+    width: 95%}
+.ppt-video-image iframe {
+    border: 10px solid #000;
+    width: 100%;
+    height: 100%}
+.blogs-wraper {
+    width: 31.85%;
+    float: left;
+    box-shadow: 1px 5px 30px .5px rgba(216, 216, 216, .5);
+    margin: 0 10px 0 0;
+    padding: 40px 8px;
+}
+.blogs-wraper h3 {
+    font-size: 18px;
+}
+.blogs-wraper img {
+    margin-bottom: 10px;
+    width: 130px;
+}
+.bmi-wrapper form .form-group.wrapper {
+    width: 36%}
+.bmi-wrapper .row {
+    margin: 0!important;
+}
+.continer-right {
+    width: 35%}
+.blog-detail .container-inner {
+    width: 60%}
+body .pageHeader {
+    width: 100%}
+body .top-strip-wrtapper button {
+    top: 6px;
+    right: 90px;
+}
+body .banner-section h3 {
+    font-size: 40px;
+}
+body .slider .slides {
+    height: 300px;
+}
+body .blog-inner .blog-crasuseal {
+    width: 70%}
+.blog-wrapper-section .continer-right {
+    width: 30%;
+    padding: 20px 10px;
+}
+.navbaar-bottom-box input {
+    white-space: nowrap;
+    overflow: hidden!important;
+    text-overflow: ellipsis;
+}
+.navbaar-bottom #searchDocInfo .dd.view_information {
+    padding: 7px 0;
+}
+.better_health_content {
+    padding: 10px 5px;
+}
+.better_health_content h2 {
+    font-size: 15px;
+}
+.better_health_content p {
+    font-size: 12px;
+}
+.better_health_section {
+    padding: 0 0 40px 0;
+}
+.Find_Doctors_section2 {
+    padding: 30px 0 30px 0;
+}
+.price-range-field {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+}
+.profile-detil.doctor-claim-profile ul.nav li a {
+    padding: 7px 15px;
+}
+body .registration-wrap.user-info.profile-exam #fileselector {
+    width: 50%;
+    margin-top: 0;
+}
+.footer_bottom_box p {
+    text-align: center;
+    font-size: 13px;
+}
+.footer_bottom_block {
+    text-align: center;
+}
+.user-profile-detail .form-fields input.s-input.verifyPatData {
+    width: 70%!important;
+}
+body .appointment-popup-block .input-age-group input {
+    width: 60%!important;
+}
+body #profile-form .appointment-popup-block {
+    padding: 0!important;
+}
+body ul.navbar-right li:nth-child(4n).dropdown.sub-nev-tool {
+    float: left;
+    padding: 15px 0 0 0;
+}
+body ul.navbar-right li:nth-child(4n).dropdown.sub-nev-tool a {
+    padding-top: 5px;
+}
+.modal-for-share-patient-experience .modal-body .form-control label input {
+    margin-top: 5px;
+}
+.blog-crasuseal .blog-list h2 {
+    font-size: 15px;
+}
+.modal-for-share-patient-experience .modal-body .form-fields .star-rate-div label {
+    margin: -7px 0 0 0;
+    font-size: 17px;
+}
+body .navbar-brand img {
+    width: 100%}
+body .navbar-default .navbar-brand {
+    padding-right: 0;
+    padding-left: 0;
+}
+body .navbar-default .navbar-nav.navbar-right li a img {
+    width: 15px;
+    height: 15px;
+    padding: 0;
+    float: left;
+    margin-right: 4px;
+    margin-top: 2px;
+}
+body .navbar-default .navbar-nav.navbar-right li a .nav-section {
+    width: auto;
+    float: left;
+    padding: 0;
+}
+body .navbar-default .navbar-nav.navbar-right li a .nav-section h3 {
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    color: #1e282f;
+}
+body .navbar-default .navbar-nav.navbar-right li a .nav-section p {
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+    color: #9d9d9d;
+    line-height: 14px;
+}
+ul.nav #g-account-menu li {
+    width: 100%}
+ul.nav #g-account-menu li:last-child {
+    padding-bottom: 0;
+}
+ul.nav #g-account-menu li a {
+    padding: 8px 2%}
+ul.nav li {
+    width: auto;
+    float: left;
+}
+ul.nav li a {
+    padding: 7px 4px;
+}
+.doc-register .form-fields {
+    margin-bottom: 0!important;
+}
+.profile-detil .registration-wrap .form-fields input.s-input.verifyDocData {
+    width: 75%!important;
+    float: left;
+}
+.profile-detil .registration-wrap .form-fields.form-field-mid.pad-r0.gender {
+    min-height: auto;
+}
+body .login-wrapper .registration-wrap .form-bot-field .form-fields.send-button {
+    width: auto!important;
+}
+body .registration-wrap .form-fields.send-button button {
+    width: auto!important;
+}
+.similar-blog-list img {
+    width: 100%;
+    height: auto;
+}
+.similar-blog-list .content {
+    width: 100%;
+    padding: 13px 0 0 0;
+}
+.similar-blog-list {
+    margin-bottom: 10px;
+}
+.doctor-co2 {
+    padding: 20px 0!important;
+}
+.detail-page .cal-doctor-feedback-pat {
+    padding-top: 0;
+}
+.rating_doctor-div {
+    position: absolute;
+    right: 0;
+    top: 25px;
+    width: auto;
+}
+.profile-detail {
+    width: 100%}
+.doctor-address {
+    float: right;
+    padding-top: 6px;
+    width: 100%}
+.list-bottom {
+    padding-top: 0;
+    width: 76%;
+    float: left;
+    padding-left: 0;
+}
+.health_experts_img img {
+    width: auto;
+}
+.health_experts {
+    position: relative;
+}
+.health_experts_content {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 90px 0 125px 20px;
+    height: 100%}
+.better_health_section .col-md-3 {
+    width: 25%;
+    float: left;
+}
+.better_health_section .col-md-3 img {
+    width: 100%}
+.better_health_top h2 {
+    font-size: 17px;
+}
+.health_experts_img img {
+    width: auto;
+}
+.most-visited-profile .dr-profile {
+    min-height: 212px;
+}
+.product-section .col-md-4 {
+    float: left;
+    width: 33%}
+.banner-content-section h2 {
+    font-size: 40px;
+}
+.banner-content-section {
+    padding: 30px 0 0 0;
+}
+.product-section {
+    margin-top: 40px;
+}
+.most-visited-profile .dr-profile h3 {
+    font-size: 15px;
+}
+.slot-details .doctor-listtop.doctor-listtop2 {
+    min-height: 400px;
+}
+.most-visited-profile .FAQ .container .dr-profile:nth-child(3) img {
+    margin: 12px 0 0 0;
+    height: 50px;
+}
+.right-content .right-content {
+    width: 100%}
+.appoint-confirm-wrapper .patient-name label {
+    width: 120px;
+    font-size: 14px;
+}
+.appoint-confirm-wrapper .patient-name h3 {
+    font-size: 14px;
+}
+.doc-img {
+    width: 20%}
+.profile-detail.auto {
+    width: 75%!important;
+}
+.example.profile-detil div.card-tabs-bar a {
+    padding: 12px 15px!important;
+    font-size: 15px;
+    width: auto;
+}
+.doctor-co2, .doctor-co3, .doctor-col {
+    width: 100%;
+    margin: 0;
+}
+.navbar-header {
+    width: 9%}
+#bs-example-navbar-collapse-1 {
+    width: 90%;
+    float: left;
+}
+.navbar-default .navbar-nav.navbar-right li a img {
+    width: 22px;
+    float: left;
+    padding: 0;
+    margin-right: 10px;
+    height: 22px;
+    margin: 4px 8px 0 0;
+}
+.navbar-right li:last-child {
+    float: right;
+    padding-bottom: 15px;
+}
+.navbar-default .navbar-nav.navbar-right li a {
+    padding: 13px 2px 0 2px;
+    font-size: 12px;
+}
+.navbaar-bottom-section {
+    width: 90%}
+.navbar-default .navbar-nav.navbar-right li a .nav-section p {
+    font-size: 12px;
+}
+#msg {
+    position: absolute;
+    bottom: -8px;
+    left: 30%}
+.breadcrume ul li a {
+    font-size: 13px;
+}
+.breadcrume ul li {
+    padding: 0;
+    font-size: 12px;
+}
+.sorting label {
+    margin: 9px 4px 0 0;
+}
+.sorting .select {
+    font-size: 13px;
+}
+.timing {
+    font-size: 14px;
+}
+.fees {
+    font-size: 14px;
+}
+.sorting {
+    width: auto;
+    float: right;
+}
+.searching-keyword h1 {
+    font-size: 14px;
+}
+.searhc-result strong {
+    padding-left: 4px;
+}
+.left-content {
+    width: 33%}
+.right-content {
+    width: 62%}
+.profile-detail h3 {
+    font-size: 17px;
+}
+.profile-detail h4 {
+    font-size: 14px;
+}
+.location {
+    font-size: 14px;
+}
+.cal-doctor a {
+    padding: 4px 5px;
+    font-size: 13px;
+}
+.cal-doctor img {
+    width: 12px;
+}
+.view-profile {
+    padding: 0 0 0 5%}
+.left-content .chck-container {
+    font-size: 13px;
+    line-height: 10px;
+}
+.chck-container input:checked~.checkmark {
+    width: 14px;
+    height: 14px;
+}
+.chck-container .checkmark:after {
+    left: 5px;
+    top: 2px;
+    width: 5px;
+    height: 9px;
+}
+.registration-wrap .form-fields.send-button {
+    width: 60%}
+.registration-wrap .form-fields.send-button button {
+    width: 20%!important;
+}
+.image_apload {
+    width: 60px;
+}
+}
+@media only screen and (min-width:1025px) and (max-width:1200px) {
+    #AppointmentWrapper.slot-details .from-widget .from-widget-section input[type=radio] {
+    margin-right: 0!important;
+}
+#AppointmentWrapper .from-widget .from-widget-section .radio-wrap label {
+    width: auto!important;
+    font-weight: 400;
+    margin-left: 4px;
+    margin-top: 2px;
+}
+body .view-icon:hover #lightbox-tooltip {
+    top: 30px;
+    right: 0;
+    width: 595px;
+}
+body .toggle-wrapper button {
+    font-size: 13px;
+    letter-spacing: -.7px;
+}
+body .toggle-wrapper {
+    width: 32%;
+    margin-right: 0;
+}
+body .filter-section {
+    padding-top: 15px;
+}
+.dashboard-wrapper.dashboard-plan-wrapper.sideband-menu-bar .page-container {
+    width: 23%}
+.page-container.sidebar-collapsed-back {
+    width: 23%}
+body .page-container.sidebar-collapsed-back .sidebar-menu {
+    width: 100%}
+.sidebar-menu::before {
+    position: absolute;
+    height: 100%;
+    bottom: 0;
+    background: #fff;
+    top: 15px;
+    left: 0;
+    content: "";
+    width: 209px;
+    z-index: 0;
+    transition: all .4s ease 0s;
+}
+.sideband-menu-bar.dashboard-plan-wrapper.dashboard-wrapper .dashboard-right {
+    width: 77%}
+.HG_plan_Section {
+    padding-top: 0;
+    margin-top: 15px;
+}
+.hg-plan-wrapper ul li {
+    line-height: 15px;
+    background-size: 6%}
+body .appointment-popup-block .input-age-group input {
+    width: 75%}
+body .HG-details .details-blog {
+    margin-right: 1%;
+    width: 24%;
+    text-align: center;
+    min-height: 115px;
+}
+body .HG-details .details-blog .content-blog-details {
+    margin-left: 1px;
+}
+body .HG-details .details-blog img {
+    width: 35px;
+    float: none;
+}
+body .HG-details .details-blog .content-blog-details {
+    font-size: 13px;
+    text-align: center;
+    width: 100%}
+body .HG-details .details-blog p {
+    margin-bottom: 0;
+}
+body .dashboard-plan-wrapper.dashboard-wrapper .dashboard-right {
+    padding-left: 0;
+    width: 92%}
+.registration-wrapper.contact-wrapper .radio-wrapper {
+    width: 100%}
+.latest-prod-details {
+    padding-left: 0;
+    width: 100%}
+.checkup-package.owl-carousel.owl-theme.owl-loaded.owl-drag .owl-item .checkup-detail.item {
+    min-height: 300px;
+}
+.slot-details .from-widget .from-widget-section label {
+    width: 100%;
+    font-size: 13px;
+    font-weight: 600;
+}
+.bottom-errors-content ul li a {
+    width: 100%}
+.lab-test .checkup-detail h3 {
+    width: 100%;
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    float: left;
+    padding: 0 10px;
+    margin: 0;
+}
+.certification {
+    padding: 5px 10px 10px 10px;
+}
+.lab-test .checkup-detail h3 {
+    padding: 0 10px;
+}
+.lab-test .blog-wrapper-content {
+    padding: 10px;
+}
+body .order-overview .right {
+    margin-top: 15px;
+}
+.all-offers .allProfiles .package-box.item {
+    min-height: 215px!important;
+}
+.lab-test.Lab_Test_Details.single-lab-detail .checkup-detail h3 {
+    white-space: inherit;
+    overflow: hidden;
+    text-overflow: inherit;
+}
+.address-box {
+    min-height: 110px;
+}
+.checkup-package.owl-carousel.owl-theme.owl-loaded.owl-drag .owl-item .checkup-detail img {
+    margin: 10px 0 0 10px;
+}
+.checkup-package.labProfiles .LabDetailsDivLosh .checkup-detail.LabProfiles {
+    margin-right: 2%!important;
+    width: 18.4%}
+.LabDetailsDivLosh .checkup-detail .test-included a {
+    background: #efefef;
+    color: #222;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 13px;
+    border: 1px solid #ddd;
+    border-radius: 90px;
+    float: left;
+    text-align: center;
+    padding: 4px 10px;
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    float: left;
+    width: 100%}
+.checkup-package.labProfiles .LabDetailsDivLosh .checkup-detail.LabProfiles:nth-child(5n+0) {
+    margin-right: 0!important;
+}
+body .navbar-collapse.collapse.main-nav-mobile-lab {
+    display: none!important;
+}
+body .form-address-details.divForHide div {
+    width: 61%;
+    float: left;
+}
+.screening.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-prev {
+    left: -9px;
+}
+.screening.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-next {
+    right: -9px;
+}
+.checkup-package.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-next {
+    right: -20px;
+}
+.checkup-package.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-prev {
+    left: -20px;
+}
+.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-next {
+    right: -16px;
+}
+.owl-carousel.owl-theme.owl-loaded.owl-drag button.owl-prev {
+    left: -16px;
+}
+.lab-test .allProfiles .package-box.item {
+    width: 32.5%;
+    min-height: 145px;
+    position: relative;
+}
+.screening.allGroups .small-blogs.item {
+    width: 15%}
+.main-banner-slider.mobile {
+    display: none!important;
+}
+.main-banner-slider {
+    display: block!important;
+}
+.all-offers .checkup-package.allOffers .checkup-detail.item {
+    width: 23.5%;
+    float: left;
+    margin-bottom: 20px;
+    overflow: hidden;
+    min-height: 288px;
+    margin-right: 2%}
+.all-offers .checkup-package.allOffers .checkup-detail.item:nth-child(4n+0) {
+    margin-right: 0;
+}
+.package-box.item a {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.lab-test .package-box a {
+    padding: 10px 0;
+}
+.lab-test .allProfiles .package-box.item:nth-child(3n+0) {
+    margin-right: 0;
+}
+.lab-test h3 {
+    font-size: 16px;
+}
+.package-box.item .total_count {
+    font-size: 15px;
+}
+.package-box.item b {
+    font-size: 15px;
+}
+body .right-con-wrapper {
+    width: 83%}
+body .registration-wrap .form-fields input.verifyPatData {
+    width: 78%!important;
+}
+body .appointment-popup-block .input-age-group select {
+    width: 43px;
+}
+body .registration-wrap .form-fields.email-wrapper input.verifyPatData {
+    width: 100%!important;
+}
+.right-content.suggested-width .rating_doctor-div {
+    right: 76px;
+    top: 14px;
+}
+.rating_doctor-div {
+    right: 90px;
+}
+#myModalLabOrderPP .modal-content {
+    height: auto;
+}
+body .appointment-data-div .no-result-found {
+    width: 100%}
+body .registration-wrap .form-fields input.s-input.verifyDocData {
+    width: 81%!important;
+}
+.slider .slides li .caption {
+    left: 4%!important;
+}
+.schedulingTop {
+    width: 100%;
+    float: left;
+    padding: 0;
+}
+.contnet-sec h2 {
+    font-size: 22px;
+}
+.schedulingTop .set_error {
+    width: 49%;
+    float: left;
+    margin-right: 2%}
+.schedulingTop .set_error:nth-child(2n+0) {
+    margin-right: 0;
+}
+.schedulingTop .set_error select {
+    width: 100%}
+.registration-wrap.doc-register .f-name-field input {
+    width: 89%!important;
+    margin-left: -1px;
+}
+#AppointmentWrapper .appoint-confirm-wrapper.no-bg.confirmation_div {
+    padding: 6% 12%;
+    min-height: inherit;
+    display: inline-block;
+}
+.most-visited-profile .FAQ .container {
+    width: 100%}
+.similar-blog-list .content {
+    width: 60%}
+.blogs-wraper {
+    width: 30.61%;
+    margin: 0 24px 0 0;
+    padding: 40px 15px;
+}
+.ppt-video-image iframe {
+    width: 100%;
+    height: 100%}
+.bmi-wrapper form .form-group.wrapper {
+    width: 36%}
+.bmi-wrapper .row {
+    margin: 0!important;
+}
+body .pageHeader {
+    width: 60%}
+.navbaar-bottom-box input {
+    white-space: nowrap;
+    overflow: hidden!important;
+    text-overflow: ellipsis;
+}
+.SendAppLink .Get_company_content h5 {
+    padding-top: 0;
+}
+.Get_company_content h5 {
+    font-size: 16px;
+    padding: 0 0 12px 0;
+}
+.navbar-header {
+    width: 12%!important;
+}
+.navbar-default .navbar-nav.navbar-right li a {
+    padding: 10px 3px;
+}
+.doctor-co2 {
+    padding: 20px 0!important;
+}
+.list-bottom {
+    width: 100%;
+    float: left;
+    padding-left: 0;
+}
+.health_experts_img img {
+    width: auto;
+}
+.health_experts {
+    position: relative;
+}
+.health_experts_content {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 90px 0 125px 20px;
+    height: 100%}
+.better_health_section .col-md-3 {
+    width: 25%;
+    float: left;
+}
+.better_health_section .col-md-3 img {
+    width: 100%}
+.better_health_top h2 {
+    font-size: 17px;
+}
+.health_experts_section {
+    padding-bottom: 0!important;
+}
+.banner-content-section h2 {
+    font-size: 45px;
+}
+.doc-img {
+    width: 15%}
+.profile-detail.auto {
+    width: 80%!important;
+}
+.example.profile-detil div.card-tabs-bar a {
+    padding: 12px 15px!important;
+    font-size: 15px;
+    width: auto;
+}
+.doctor-co2, .doctor-co3, .doctor-col {
+    width: 100%;
+    margin: 0;
+}
+}
+@media only screen and (min-width:1201px) and (max-width:1365px) {
+    .HG-details .details-blog img {
+    width: 35px;
+}
+.HG-details .details-blog:nth-child(3) img {
+    width: 35px;
+}
+.sidebar-menu::before {
+    position: absolute;
+    height: 100%;
+    bottom: 0;
+    background: #fff;
+    top: 0;
+    left: 0;
+    content: "";
+    width: 209px;
+    z-index: 0;
+    transition: all .4s ease 0s;
+}
+body #userProfileInfoData .registration-wrap .form-fields.email-wrapper input.verifyPatData {
+    width: 100%!important;
+}
+body #userProfileInfoData .registration-wrap .form-fields input.verifyPatData.NumericFeild {
+    width: 82%!important;
+}
+body #userProfileInfoData .appointment-popup-block .input-age-group input {
+    width: 75%}
+body .page-container.sidebar-collapsed-back .sidebar-menu {
+    width: 209px;
+    transition: all .4s ease 0s;
+}
+.bmi-wrapper form .form-group.wrapper {
+    width: 36%}
+.contnet-sec h2 {
+    font-size: 25px;
+}
+.bmi-wrapper .row {
+    margin: 0!important;
+}
+}

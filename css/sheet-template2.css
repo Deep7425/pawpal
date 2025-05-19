@@ -1,0 +1,4217 @@
+body{font-family:inter !important;}
+.Healthy-Practices {
+    width: 96%;
+    float: left;
+    padding: 0px 2%;
+}
+.Healthy-Practices table {
+    border: 1px solid #222;
+    border-left: 0px;
+    width: 96%;
+    margin: auto;
+    margin-top: 15px;
+}
+.Healthy-Practices table tbody tr td textarea {
+    width: 111px;
+    resize: none;
+    border: 0px solid #222;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+.Healthy-Practices table tbody tr td:first-child {
+    width: 85px;
+}
+.Healthy-Practices .top {
+    width: 91%;
+    border: 1px solid #222;
+    padding: 2%;
+    font-size: 14px;
+    margin: 10px 0;
+    margin: auto;
+    float: none;
+    margin-top: 15px;
+}
+.Healthy-Practices h1 { display: none;}
+.smart-goal h1  { display: none;}
+.smart-goal .meditation-mindfulness h2 {
+    width: 100%;
+    float: left;
+    padding: 0px 0px 0px 0px;
+    margin: 0px;
+    font-size: 20px;
+    font-weight: 800;
+    text-align: center;
+}
+.smart-goal .SMARTGOALS textarea {
+    width: 96%;
+    padding: 21px 2%;
+    margin: 0px;
+    background: transparent;
+    border: 1px solid #000;
+    height: 100px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    margin: auto;
+    z-index: 999999;
+    float: left;
+}
+.smart-goal .bannerMiddil123 {
+    width: 96%;
+    display: table;
+    background: #edf7ff;
+    padding: 10px 2%;
+    margin: 0px;
+}
+.Setting.Life.Goals .bannerMiddil123 {
+    width: 96%;
+    display: table;
+    background: #edf7ff;
+    padding: 10px 2%;
+    margin: 0px;
+}
+.Daily-Gratitude .ThingsGREATFUL123 label {
+    margin: -7px 0px 0px;
+}
+.Setting.Life.Goals h1 { display: none;}
+.Setting.Life.Goals .meditation-mindfulness h2 {
+    width: 100%;
+    float: left;
+    padding: 9px 0px 0px 0px;
+    margin: 0px;
+    font-size: 22px;
+    font-weight: 800;
+    text-align: center;
+    line-height: 20px;
+}
+.Setting.Life.Goals .SETTINGLIFEGOALSleft input {
+    height: 30px;
+}
+.Setting.Life.Goals .SETTINGLIFEGOALSleft label {
+    padding: 6px 0px 0px 0px;
+}
+.Setting.Life.Goals .SETTINGLIFEGOALSright label {
+    padding: 6px 0px 0px 0px;
+}
+.Improve.Self-compassion h1 { display: none;}
+.Improve.Self-compassion .meditation-mindfulness h2 {
+    font-size: 20px;
+    text-align: center;
+}
+.Improve.Self-compassion .bannerMiddil123 {
+    width: 96%;
+}
+.Improve.Self-compassion .Self-Compassion-buildingleft {
+    width: 49%;
+}
+.Improve.Self-compassion .Self-Compassion-building1 {
+    width: 96%;
+    padding: 4px 2%;
+}
+.Improve.Self-compassion .Self-Compassion-building2 {
+    width: 96%;
+    padding: 4px 2%;
+}
+.Improve.Self-compassion .Self-Compassion-buildingleft label {
+    line-height: 18px;
+    min-height: 55px;
+    font-size: 14px;
+}
+.Notice.Name-Normalize .NoticeNameNormalizecontent {
+    width: 78%;
+    padding: 0px 0px 0px 2%;
+}
+.Notice.Name-Normalize .bannerMiddil123 {
+    width: 96%;
+    padding: 10px 2%;
+}
+.Notice.Name-Normalize .NoticeTextArea textarea {
+    width: 96%;
+    padding: 5px 2%;
+}
+.Notice.Name-Normalize h1 { display: none;}
+.Notice.Name-Normalize .motivation-building-skills07Heading h2 {
+    font-size: 20px;
+}
+.Self.Care .bannerMiddil123 {
+    width: 96%;
+    display: table;
+    background: #edf7ff;
+    padding: 10px 2%;
+    margin: 0px;
+}
+.Self.Care .SelfCare123 textarea {
+    width: 96%;
+    padding: 5px 2%;
+}
+.Self.Care .SelfCare123 label {
+    width: 100%;
+    float: left;
+    padding: 0px 0px 5px 0px;
+    margin: 0px;
+    font-size: 14px;
+    line-height: 18px;
+}
+.Self.Care .SelfCare12 h2:after {
+    content: "";
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    background: url(/assets/imgs/borderLine.png) no-repeat 0px 0px;
+    background-size: 200px;
+    height: 30px;
+    width: 200px;
+}
+.Self.Care h1 { display: none;}
+.Making.A.Change .bannerMiddil123 {
+    width: 96%;
+    display: table;
+    background: #edf7ff;
+    padding: 10px 2%;
+    margin: 0px;
+}
+.Making.A.Change h1 { display: none;}
+.Emotional.Self-Validation.Journal h1 { display: none;}
+.Emotional.Self-Validation.Journal .SelfCare02Section {
+    width: 94%;
+    float: left;
+    padding: 0px 3%;
+}
+.Emotional.Self-Validation.Journal .SelfCare02Content {
+    width: 96%;
+    float: left;
+    padding: 10px 2%;
+    background: #fff;
+    margin: 15px 0px;
+}
+.Emotional.Self-Validation.Journal .SelfCare02contentBlock textarea {
+    width: 96%;
+    padding: 5px 2%;
+    margin: 0px;
+    background: transparent;
+    border: 0px solid #000;
+    height: 60px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    margin: auto;
+    z-index: 999999;
+    float: left;
+}
+.Emotional.Self-Validation.Journal .SelfCare02Heading.SelfCare02Heading12 h2 {
+    padding: 10px 2% 10px 2%;
+    font-size: 11px;
+    width: 96%;
+}
+.Self.Care.Plan .SelfCare03Middle {
+    width: 96%;
+    float: left;
+    padding: 0px 2%;
+    position: relative;
+}
+.Self.Care.Plan .SelfCare03Section {
+    width: 96%;
+    float: left;
+    padding: 0px 2%;
+}
+.Self.Care.Plan .SelfCare03Textarea {
+    width: 96%;
+    padding: 8px 2%;
+}
+.Daily.Self-care .SelfCare04block {
+    width: 96%;
+    float: left;
+    padding: 0px 2%;
+}
+.Daily.Self-care h1 { display: none;}
+.Daily.Self-care .SelfCare04block {
+    width: 96%;
+    float: left;
+    padding: 0px 2%;
+}
+.Daily.Self-care .SelfCare04Left {
+    width: 96%;
+    float: left;
+    padding: 10px 2%;
+    margin: 15px 0px 0px 0px;
+    border-radius: 6px;
+}
+.Daily.Self-care .SelfCare04Physicalinput1 input[type="checkbox"]  {
+    width: auto;
+    height: auto;
+    float: left;
+    margin-top: 13px;
+}
+.Daily.Self-care .SelfCare04Physicalinput .form-check-label {
+    font-size: 15px;
+}
+.Daily.Self-care .SelfCare04PhysicalLeft {
+    width: 45%;
+    float: left;
+    padding: 8px 2%;
+    margin-right: 2%;
+    min-height: 216px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+.Daily.Self-care .SelfCare04PhysicalLeft:nth-child(2n+0) { margin-right: 0%;}
+.Daily.Self-care .SelfCare04Physical {
+    width: 96%;
+    padding: 15px 2% 0px;
+}
+.Daily.Self-care .SelfCare04Left label {
+    font-size: 15px;
+}
+.Mental.Health.Word.Searc .SelfCare04SectionTable {
+    width: 96%;
+    float: left;
+    padding: 0px 2% 15px;
+}
+.Mental.Health.Word.Searc h1 { display: none;}
+.Mental.Health.Word.Searc .SelfCare04SectionTable table tbody { float:none;}
+.Mental.Health.Word.Searc .SelfCare04SectionTable table tbody tr { float:none;}
+.Mental.Health.Word.Searc .SelfCare04SectionTable table tbody tr td {
+    float: none;
+    height: 13px;
+    border: 1px solid #000;
+}
+.Mental.Health.Word.Searc .SelfCare04Ul ul {
+    width: 27%;
+    float: left;
+    padding: 0px 0px 0px 6%;
+    margin: 0px;
+}
+.Mental.Health.Word.Searc .SelfCare04Ul ul li {
+    width: 100%;
+    float: left;
+   padding: 0px 0px 4px 0px
+    margin: 0px;
+    font-size: 13px;
+    list-style: disc;
+}
+.Self-CareChecklist h1 { display: none;}
+.Self-CareChecklist .SelfCare06SectionTop {
+    width: 96%;
+    float: left;
+    padding: 0px 2%;
+}
+.Self-CareChecklist .SelfCare06Section ul li {
+    width: 94%;
+    float: left;
+    padding: 12px 4% 0px;
+    margin: 0px;
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+.Self-CareChecklist .SelfCare06SectionTable table thead { float: none;}
+.Self-CareChecklist .SelfCare06SectionTable table thead tr { float: none;}
+.Self-CareChecklist .SelfCare06SectionTable table thead tr th { float: none;}
+.Self-CareChecklist .SelfCare06SectionTable table tbody{ float: none;}
+.Self-CareChecklist .SelfCare06SectionTable table tbody tr { float: none;}
+.Self-CareChecklist .SelfCare06SectionTable table tbody tr td { float: none; width:auto;vertical-align: middle;}
+.Self-CareChecklist .SelfCare06SectionTable table tbody tr td:nth-child(2n) { width:50px;}
+.Self-CareChecklist .SelfCare06SectionTable table tbody tr td:nth-child(2) input {
+    width: inherit;
+}
+.SELF.CARE.CHECKLIST .SelfCare07SectionTableLeft {
+    width: 45%;
+    float: left;
+    padding: 10px 2%;
+}
+.SELF.CARE.CHECKLIST  h1 { display: none;}
+.SELF.CARE.CHECKLIST .SelfCare06SectionTop {
+    width: 96%;
+    float: left;
+    padding: 0px 2%;
+}
+.SELF.CARE.CHECKLIST .SelfCare07SectionTableLeft:nth-child(6) {
+    min-height: 153px;
+}
+.Be-MindfulNow h1 { display: none;}
+.Be-MindfulNow .SelfCare08Heading h2 {
+    text-align: center;
+}
+.Be-MindfulNow .SelfCare08TopImg {
+    width: 58%;
+    float: none;
+    padding: 30px 0px 10px 0px;
+    margin: 0px auto;
+    text-align: center;
+}
+.Be-MindfulNow .SelfCare08SectionTableNew {
+    background: url(/assets/imgs/noc-1.png) no-repeat 5px 0px;
+}
+.Be-MindfulNow .SelfCare08SectionTableNew:hover {
+    background:#dbecff url(/assets/imgs/noc-11.png) no-repeat 5px 0px;
+}
+.Be-MindfulNow .SelfCare08SectionTableNew:nth-child(2) {
+    background: url(/assets/imgs/eye-1.png) no-repeat 5px 0px;
+    background-size: 34px;
+}
+.Be-MindfulNow .SelfCare08SectionTableNew:nth-child(2):hover {
+    background:#dbecff url(/assets/imgs/eye-11.png) no-repeat 5px 0px;
+    background-size: 34px;
+}
+.Be-MindfulNow .SelfCare08SectionTableNew:nth-child(3) {
+    background: url(/assets/imgs/lip-1.png) no-repeat 5px 0px;
+    background-size: 34px;
+}
+.Be-MindfulNow .SelfCare08SectionTableNew:nth-child(3):hover {
+    background:#dbecff url(/assets/imgs/lip-11.png) no-repeat 5px 0px;
+    background-size: 34px;
+}
+.Be-MindfulNow .SelfCare08SectionTableNew:nth-child(4) {
+    background: url(/assets/imgs/per-1.png) no-repeat 5px 0px;
+    background-size: 34px;
+}
+.Be-MindfulNow .SelfCare08SectionTableNew:nth-child(4):hover {
+    background:#dbecff url(/assets/imgs/per-11.png) no-repeat 5px 0px;
+    background-size: 34px;
+}
+.Be-MindfulNow .SelfCare08SectionTableNew:nth-child(5) {
+    background: url(/assets/imgs/ser-1.png) no-repeat 5px 0px;
+    background-size: 34px;
+}
+.Be-MindfulNow .SelfCare08SectionTableNew:nth-child(5):hover {
+    background:#dbecff url(/assets/imgs/ser-11.png) no-repeat 5px 0px;
+    background-size: 34px;
+}
+.Be-MindfulNow .SelfCare08SectionTableNew:nth-child(6) {
+    background: url(/assets/imgs/smile-1.png) no-repeat 5px 0px;
+    background-size: 34px;
+}
+.Be-MindfulNow .SelfCare08SectionTableNew:nth-child(6):hover {
+    background:#dbecff url(/assets/imgs/smile-11.png) no-repeat 5px 0px;
+    background-size: 34px;
+}
+.Be-MindfulNow .SelfCare08SectionTableNew:nth-child(7) {
+    background: url(/assets/imgs/sleep-1.png) no-repeat 5px 0px;
+    background-size: 34px;
+}
+.Be-MindfulNow .SelfCare08SectionTableNew:nth-child(7):hover {
+    background:#dbecff url(/assets/imgs/sleep-11.png) no-repeat 5px 0px;
+    background-size: 34px;
+}
+.Be-MindfulNow .SelfCare08SectionTableNew:nth-child(8) {
+    background: url(/assets/imgs/namaskar-1.png) no-repeat 5px 0px;
+    background-size: 34px;
+}
+.Be-MindfulNow .SelfCare08SectionTableNew:nth-child(8):hover {
+    background:#dbecff url(/assets/imgs/namaskar-11.png) no-repeat 5px 0px;
+    background-size: 34px;
+}
+.Be-MindfulNow .SelfCare08SectionTableNew:nth-child(9) {
+    background: url(/assets/imgs/ear-1.png) no-repeat 5px 0px;
+    background-size: 34px;
+}
+.Be-MindfulNow .SelfCare08SectionTableNew:nth-child(9):hover {
+    background:#dbecff url(/assets/imgs/ear-11.png) no-repeat 5px 0px;
+    background-size: 34px;
+}
+.Be-MindfulNow .SelfCare08SectionTableNew:nth-child(10) {
+    background: url(/assets/imgs/okay-1.png) no-repeat 5px 0px;
+    background-size: 34px;
+}
+.Be-MindfulNow .SelfCare08SectionTableNew:nth-child(10):hover {
+    background:#dbecff url(/assets/imgs/okay-11.png) no-repeat 5px 0px;
+    background-size: 34px;
+}
+.Be-MindfulNow .SelfCare08SectionTableNew {
+    width: 33%;
+    float: left;
+    padding: 8px 8px 8px 40px;
+    background-size: 34px;
+    box-shadow: 0px 2px 3px #c3c3c3;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    margin-right: 2%;
+    min-height: 94px;
+}
+.sleepdiary .bannerMiddil123 {
+    width: 100%;
+    display: inherit;
+    background: #edf7ff;
+    padding: 10px 2%;
+    margin: 0px;
+    float: left;
+}
+.sleepdiary .addiction-severe-02 {
+    width: 96%;
+    float: left;
+    padding: 0px 2%;
+}
+.sleepdiary .addiction-severe-02Heading p {
+    font-size: 15px;
+}
+.Personal-Interests h1 { display: none;}
+.Personal-Interests .addiction-normal-01Section textarea {
+    width: 96%;
+    padding: 5px 2%;
+    margin: 5px 0px 0px 0px;
+    background: transparent;
+    border: 1px solid #000;
+    height: 80px !important;
+    border-radius: 6px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: left;
+}
+.Personal-Interests .addiction-normal-01 {
+    width: 96%;
+    padding: 0px 2%;
+}
+.Personal-Interests .addiction-normal-01Box {
+    width: 100%;
+    float: left;
+    padding: 4px 0px 0px 0px;
+    margin: 0px;
+    border-bottom: 1px solid #000;
+}
+.Personal-Interests .addiction-normal-01Box label {
+    width: auto;
+    float: left;
+    padding: 10px 0px 0px 8px;
+    margin: 0px;
+}
+.Personal-Interests .addiction-normal-01Block {
+    padding: 0px 0px 15px 0px;
+}
+.Personal-Interests .addiction-normal-01Section label {
+    width: 100%;
+    float: left;
+    padding: 0px 0px 0px 0px;
+    margin: 0px;
+    font-size: 16px;
+}
+.addiction-moderate-01 {
+    width: 96%;
+    float: left;
+    padding: 0px 2%;
+    border-bottom: 1px solid #000;
+    margin-bottom: 10px;
+}
+.peer-pressure-worksheet .addiction-moderate-01Middle {
+    width: 100%;
+    float: left;
+    padding: 8px 0px 8px 0px;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+.peer-pressure-worksheet .addiction-moderate-01Tecbnique h2 {
+    font-size: 22px;
+}
+.peer-pressure-worksheet .addiction-moderate-01Input label {
+    width:auto;
+    padding: 6px 8px 0px 0px;
+}
+.peer-pressure-worksheet .addiction-moderate-01Input input {
+    width: 69%;
+    float: left;
+    padding: 0px 5px 0px 5px;
+    background: transparent;
+    height: 27px;
+}
+.peer-pressure-worksheet .addiction-moderate-01TextArea textarea {
+    width: 96%;
+    padding: 5px 2%;
+    margin: 5px 0px 0px 0px;
+    background: transparent;
+    border: 1px solid #000;
+    height: 60px !important;
+    border-radius: 6px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: left;
+}
+.peer-pressure-worksheet .addiction-moderate-01TextArea textarea:focus {
+    border-radius: 6px;
+    box-shadow: 0px 0px 0px 0px;
+    border: 1px solid #000;
+}
+.peer-pressure-worksheet .addiction-moderate-01Bottom {
+    width: 96%;
+    float: left;
+    padding: 0px 2%;
+}
+.My.Sleep .worksheet-container {
+    width: 90%;
+    background-color: white;
+    padding: 40px 2%;
+    border: 2px solid #000;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: 8px auto;
+    display: table;
+    float: none;
+}
+.My.Sleep .options {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    font-size: 16px;
+    margin-top: 10px;
+}
+.My.Sleep .options div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 10px 8px;
+    border-radius: 6px;
+}
+.Sleep .options label {
+    cursor: pointer;
+    text-align: center;
+}
+.sleepdiary .addiction-severe-02Content1 {
+    width: 100%;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+.WeeklyScreenTimeTrackerNew {
+    width: 100%;
+    float: left;
+    overflow: auto;
+    padding: 0px 0px 0px 0px;
+}
+.Screen-Time h1 { display: none;}
+.Screen-Time .header p { width: 100%; float:left; text-align: center; padding: 0px 0px 0px 0px; font-size: 16px;}
+.Screen-Time .header {
+    width: 100%;
+    padding-bottom: 0px;
+    float: left;
+    padding-top: 0px;
+    margin-bottom: 0;
+    display: table;
+}
+.Screen-Time .container {
+    width: 93%;
+    float: left;
+    padding: 0px 2%;
+}
+.Be-MindfulNow .SelfCare08SectionTableNew:nth-child(2n+0) { margin-right: 0%;}
+.Be-MindfulNow .SelfCare08SectionTableNew p {
+    font-size: 12.5px;
+}
+.Coping-Skill h1 { display: none;}
+.Coping-Skill .SelfCare09GroundingTecbnique h2 {
+    font-size: 19px;
+    line-height:23px;
+    text-align: center;
+}
+.Coping-Skill .GroundingTecbniqueTop1 {
+    width: 96%;
+    padding: 8px 2%;
+}
+.Coping-Skill .GroundingTecbniqueTop {
+    width: 96%;
+    padding: 8px 2%;
+}
+.Coping-Skill .GroundingTecbnique {
+    width: 94%;
+    padding: 3%;
+    margin: 20px 0px 10px;
+}
+.Coping-Skill .GroundingTecbniqueMiddle textarea {
+    width: 95%;
+    padding: 2%;
+}
+.AboutMe .ThingsLike {
+    width:117px;
+    float:left;
+    padding:0px 0px 0px 0px;
+    position:absolute;
+    bottom:21px;
+    right:-4px;
+}
+.Add-02 { width: 100%; float:left; padding: 0px 0px 0px 0px; margin: 0px;}
+.Add-02Heading { width: 100%; float:left; padding: 0px 0px 0px 0px;}
+.Add-02Heading h2 { width:100%; float:left; padding: 0px 0px 0px 0px; margin:0px; font-size: 18px; text-align: center;}
+.Add-02Input { width: 100%; float:left; padding: 0px 0px 0px 0px;margin: 0px;}
+.Add-02Input label { width:auto; float:left; padding: 0px 0px 0px 0px;}
+.Add-02Input input {
+    width: 70%;
+    padding: 0px 2px 0px 2px;
+    margin: 0px 0px 0px 0px;
+    background: transparent;
+    border-bottom: 1px solid #000 !important;
+    height: 23px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+}
+.Add-02Input input:focus{border-radius: 0px;box-shadow: 0px 0px 0px 0px;border-bottom: 1px solid #000 !important;}
+.Add-02Section { width: 100%; float:left; padding: 0px 0px 0px 0px;}
+.Add-02Img {
+    width: 22%;
+    float: left;
+    padding: 10px 10px 0px 0px;
+}
+.Advice.Corner .bannerMiddil123 {
+    width: 96%;
+    display: table;
+    background: #edf7ff;
+    padding: 10px 2%;
+    margin: 0px;
+}
+.Add-02Img img { width: 100%;}
+.Add-02Section p {
+    width: 70%;
+    float: left;
+    padding: 8px;
+    background: #f9cb9c;
+    font-size: 12px;
+    margin: 16px 0px 0px;
+}
+.Add-02Top { width: 100%; float:left; padding: 20px 0px 0px 0px;}
+.Add-02Block {
+    width: 49%;
+    float: left;
+    padding: 0px 0px 15px 0px;
+    text-align: center;
+    margin-right: 2%;
+}
+.Add-02Block:nth-child(2n+0) { margin-right: 0%;}
+.Add-02Box {
+    width: 96%;
+    float: left;
+    padding: 8px 2%;
+    background: #cfe2f3;
+    border-radius: 6px;
+}
+.Add-02Box input {
+    width:100%;
+    padding: 0px 2px 0px 2px;
+    margin: 0px 0px 0px 0px;
+    background: transparent;
+    border-bottom: 1px solid #000 !important;
+    height: 20px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+}
+.Add-02Box input:focus{border-radius: 0px;box-shadow: 0px 0px 0px 0px;border-bottom: 1px solid #000 !important;} 
+.Add-02Block img { width: 120px;}
+.Add-02Block:nth-child(2n+0) .Add-02Box { background: #fce5cd;}
+.Add-02Bottom { width: 100%; float:left; padding: 0px 0px 0px 0px; background: #f9cb9c;}
+.Add-02Bottom h2 {
+    width: 100%;
+    float: left;
+    padding: 8px 0px 5px 0px;
+    font-size: 13px;
+    text-align: center;
+    margin: 0px;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+.Add-02Box p {
+    width: 100%;
+    float: left;
+    padding: 0px 0px 0px 0px;
+    margin: 0px;
+    font-size: 11px;
+    font-weight: 600;
+    min-height: 79px;
+}
+.AddictionSevereWeek21 .Add-02Box {
+    background: #6fa8dc;
+    min-height: 184px;
+}
+.AddictionSevereWeek21 .Add-02Block:nth-child(2n+0) .Add-02Box {
+    background: #f9cb9c;
+}
+.AddictionSevereWeek2 { width: 100%; float:left; padding: 5px; background: #fff; border-radius: 8px;}
+
+.Self-Care-Action .Self-Care-Action .header {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: 100%;
+    float: left;
+    display: inline-block;
+}
+.Self-Care-Action h1 { display: none;}
+.Self-Care-Action .header h1 { display:block;}
+.Self-Care-Action .header .details span {
+    font-size: 16px;
+    width: 56%;
+    float: left;
+    margin-right: 2%;
+}
+.Self-Care-Action .header .details span label {
+    text-align: left;
+    float: left;
+    font-weight: 600;
+    font-size: 15px;
+    width: auto;
+}
+.Self-Care-Action .header input {
+    border: 0px;
+    border-bottom: 1px solid #000;
+    background: none;
+    outline: none;
+    width: 68%;
+    height: 17px;
+    border-radius: 0px;
+    padding: 0px;
+}
+.Self-Care-Action .header .details span:nth-child(2n) { width: 40%; float:left;}
+.Self-Care-Action .header {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: 100%;
+    float: left;
+    display: inline-block;
+}
+.Self-Care-Action {
+    width: 96%;
+    float: left;
+    padding: 0px 2%;
+}
+.Self-Care-Action .box {
+    width: 100%;
+    margin: 0%;
+    float: left;
+}
+.Self-Care-Action .grid textarea {
+    background-color: #fff;
+    padding: 10px 2%;
+    border: 2px solid #000;
+    border-radius: 5px;
+    height: 200px;
+    width: 95%;
+    font-size: 14px;
+    font-family: arial;
+    font-weight: 500;
+}
+.What-I-Do-Before-Bed .left-sect {
+    width: 40%;
+    text-align: left;
+    height: 971px;
+    overflow: hidden;
+    overflow-y: auto;
+}
+.What-I-Do-Before-Bed h1 { display: none;}
+.What-I-Do-Before-Bed header h1 { display: block;}
+.What-I-Do-Before-Bed {
+    width: 96%;
+    margin: auto;
+    margin-top: 15px;
+    bottom: 15px;
+}
+.What-I-Do-Before-Bed .content {
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px;
+}
+.What-I-Do-Before-Bed p {
+    margin: auto;
+}
+.checklist-weekdata .checklist-container {
+    width: 96%;
+    padding: 10px 2%;
+    float: left;
+}
+.checklist-weekdata h1 { display: none;}
+.checklist-weekdata .checklist-container h1 { display: block;}
+.checklist-weekdata .checklist-item input[type="text"] {
+    width: 89%;
+    padding: 5px 5px 5px 30px;
+    border-bottom: 1px solid #ccc !important;
+    background: none;
+    height: 30px;
+    border-radius: 0px;
+    border: 0px;
+    padding-bottom: 0px;
+}
+.EISENHOWER-MATRIX-TEMPLATE .quadrant.urgent h3 {
+    padding: 8px 2%;
+    width: 96%;
+}
+.EISENHOWER-MATRIX-TEMPLATE .quadrant.significant h3 {
+    padding: 8px 2%;
+    width: 96%;
+}
+.EISENHOWER-MATRIX-TEMPLATE .quadrant.not-urgent h3 {
+    padding: 8px 2%;
+    width: 96%;
+}
+.EISENHOWER-MATRIX-TEMPLATE .quadrant.insignificant h3 {
+    padding: 8px 2%;
+    width: 96%;
+}
+.EISENHOWER-MATRIX-TEMPLATE h1 {  display: none;}
+.EISENHOWER-MATRIX-TEMPLATE .title {
+    margin-top: 25px;
+}
+.TODO-LIST-ACCORDING .todo-container {
+    width: 96%;
+    max-width: 600px;
+    background-color: #fff;
+    padding: 10px 2%;
+    margin: 0 auto;
+}
+.TODO-LIST-ACCORDING .date {
+    width: 98%;
+}
+.TODO-LIST-ACCORDING .todo-container .row { padding: 0px;}
+.TODO-LIST-ACCORDING .row td input {
+    border-bottom: 1px solid #222 !important;
+    border: 0px;
+    padding: 0 2%;
+    width: 96%;
+    outline: none;
+    float: left;
+    background: none;
+    height: 28px;
+}
+.TODO-LIST-ACCORDING .row table tbody tr:last-child td {
+    border-right: 1px solid;
+}
+.TODO-LIST-ACCORDING h1 { display: none;}
+.TODO-LIST-ACCORDING .todo-container h1 { display: block;padding: 20px 0px 0px;}
+.Say-This .content {
+    width: 89%;
+    padding: 10px;
+    border: 1px solid #CCC;
+    border-radius: 5px;
+    background-color: #FFF;
+    font-size: 14px;
+    color: #333;
+    margin-top: 10px;
+    margin: auto;
+}
+.Say-This h1{ display: none;}
+.Say-This .title {
+    margin-top: 20px;
+}
+.Refarming-Negative .container textarea {
+    width: 100%;
+    float: left;
+    background: none;
+    height: 106px;
+    outline: none;
+    padding: 0px;
+    border-radius: 0px;
+    margin-bottom: 0px;
+    border: 0px;
+    color: #000;
+    margin-top: 0px;
+    margin: 0%;
+}
+.Refarming-Negative .over table tbody tr td  {
+    width: 48%;
+    background-size: 96%;
+    padding: 2%;
+}
+.Refarming-Negative h1 { display: none;}
+.Refarming-Negative .header {
+    width: 100%;
+    padding-bottom: 0px;
+    float: left;
+    padding-top: 0px;
+    margin-bottom: 0;
+    display: table;
+}
+.Refarming-Negative .container h1 { display: block;}
+.Refarming-Negative .date.top-h {
+    width:40%;
+    float: left;
+    padding: 0px 0px 20px 0px;
+}
+.Refarming-Negative .name.top-h {
+    width:60%;
+    float: left;
+    padding: 0px 0px 20px 0px;
+}
+.checklist-weekdata.checklist-weekdataCheckNew .checklist-container .row-in h3 {
+    font-size: 15px;
+    padding: 8px 0px;
+    width: 100%;
+    float: left;
+    margin: 0px 0% 0px 0%;
+    text-align: center;
+}
+.Refarming-Negative {
+    width: 96%;
+    float: left;
+    padding: 0px 2%;
+}
+.Refarming-Negative .name input {
+    border: 0px;
+    border-bottom: 1px solid #222;
+    width: 75%;
+    padding: 0px;
+    height: 22px;
+    outline: none;
+    border-radius: 0px;
+}
+.Refarming-Negative .date input[type="text"] {
+    width: 69%;
+    border: 0px;
+    border-bottom: 1px solid #e6eba9;
+}
+.Refarming-Negative .date label {
+    padding: 5px 0px 0px 0px;
+}
+.THE-THINGS .step {
+    flex: 1;
+    background-color: #939ba0;
+    color: #ffffff;
+    margin: 0 0px;
+    padding: 10px 2%;
+    border-radius: 8px;
+    position: relative;
+    margin-bottom: 20px;
+    text-align: center;
+    width: 45%;
+    float: left;
+    margin-right: 2%;
+}
+.THE-THINGS .step:nth-child(2n+0) {margin-right: 0%;}
+.THE-THINGS .step p {
+    background-color: #6ce0f4;
+    padding: 10px 2%;
+    border-radius: 4px;
+    color: #222;
+    font-weight: bold;
+    margin: 10px 0 0;
+    width: 96%;
+    float: left;
+    font-size: 16px;
+    color: #252525;
+}
+.THE-THINGS .step h2 {
+    margin: 0 0 10px;
+    color: #fff;
+    font-size: 21px;
+    font-weight: 800;
+}
+.THE-THINGS .step img {
+    margin-bottom: 10px;
+    width: 100px;
+    margin: auto;
+    display: table;
+    float: none;
+}
+.THE-THINGS .steps {
+    width: 96%;
+    float: left;
+    padding: 0px 2%;
+}
+.THE-THINGS .step:nth-child(5) {
+    flex: 1;
+    background-color: #939ba0;
+    color: #ffffff;
+    margin: 0 0px;
+    padding: 10px 2%;
+    border-radius: 8px;
+    position: relative;
+    margin-bottom: 20px;
+    text-align: center;
+    width: 45%;
+    float:none;
+    margin-right: 2%;
+    display: table;
+    margin:auto !important;
+}
+.THE-THINGS h1 { display: none;}
+.THE-THINGS .title {
+    margin-top: 20px;
+}
+.bannerMiddil123.decision-making-week3-6 { background: #fff;}
+.decision-making-week3-6Top { width: 100%; float: left; padding: 0px 0px 0px 0px;}
+.decision-making-week3-6TopHeading { width: 100%; float:left; padding: 0px 0px 0px 0px;}
+.decision-making-week3-6TopHeading h2 { width: 100%; float:left; padding: 0px 0px 5px 0px; margin: 0px; font-size: 18px; font-weight:800; text-align: left;}
+.decision-making-week3-6TopHeading span { width: 100%; float: left; padding: 0px 0px 0px 0px; font-size: 13px;font-weight:800;}
+.decision-making-week3-6TopHeading p { width: 100%; float:left; padding: 10px 0px 20px 0px; margin: 0px; font-size: 13px;}
+.decision-making-week3-6Section { width: 100%; float:left; padding: 0px 0px 0px 0px;}
+.decision-making-week3-6Block { width: 100%; float: left; padding: 0px 0px 0px 0px;}
+.decision-making-week3-6Block label {
+    width: 55%;
+    float: left;
+    padding: 0px 0px 0px 0px;
+    margin: 0px;
+    font-size: 13px;
+}
+.decision-making-week3-6Block label span { font-weight: 400;}
+.decision-making-week3-6Block input {
+    width: 42%;
+    padding: 0px 2px 0px 2px;
+    margin: 0px 0px 0px 0px;
+    background: transparent;
+    border-bottom: 1px dashed #000 !important;
+    height: 25px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+}
+.decision-making-week3-6Block input:focus{border-radius: 0px;box-shadow: 0px 0px 0px 0px;border-bottom:1px dashed #000 !important;}
+.decision-making-week3-6Box { width: 100%; float:left; padding: 0px 0px 0px 0px; margin: 0px;}
+.decision-making-week3-6Box input {
+    width:100%;
+    padding: 0px 2px 0px 2px;
+    margin: 0px 0px 0px 0px;
+    background: transparent;
+    border-bottom:1px dashed #000 !important;
+    height: 25px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+}
+.decision-making-week3-6Box input:focus{border-radius: 0px;box-shadow: 0px 0px 0px 0px;border-bottom:1px dashed #000 !important;}
+.decision-making-week3-6Table {
+    width: 96%;
+    float: left;
+    padding: 5px 2%;
+    border: 1px solid #000;
+    margin-top: 5px;
+}
+.decision-making-week3-6Section h2 { width: 100%; float:left; padding: 20px 0px 0px 0px; font-size: 14px; font-weight: 800; margin: 0px;}
+.decision-making-week3-6Table table { width: 100%; float:left; padding: 0px; margin: 0px;}
+.decision-making-week3-6Table table tbody { width: 100%; padding: 0px;}
+.decision-making-week3-6Table table tbody tr { width: 100%; padding: 0px;}
+.decision-making-week3-6Table table tbody tr td {
+    padding: 0px 0px 0px 0px;
+    font-size: 13px;
+    position: relative;
+    border-bottom: 0px;
+    border-right: 0px;
+    border: 0px;
+}
+.decision-making-week3-6Table table tbody tr td label { width: auto; float:left; padding: 8px 0px 0px 0px; margin:0px; position: absolute; top: 0px; left: 0px;}
+.decision-making-week3-6Table table tbody tr td input {
+    width: 91%;
+    padding: 0px 2px 0px 2px;
+    margin: 0px 0px 0px 0px;
+    background: transparent;
+    border-bottom: 0px solid #000 !important;
+    height: 25px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+}
+.decision-making-week3-6Table table tbody tr td input:focus{border-radius: 0px;box-shadow: 0px 0px 0px 0px;border-bottom: 0px solid #000 !important;}
+.decision-making-week3-6Bottom { width: 100%; float:left; padding:10px 0px 0px 0px;}
+.decision-making-week3-6Bottom label { width: 100%; float:left; padding: 0px 0px 0px 0px; font-size: 14px; font-weight: 800; margin: 0px;}
+.decision-making-week3-6Bottom textarea {
+    width: 96%;
+    padding: 5px 2%;
+    margin: 0px;
+    background: transparent;
+    border: 1px solid #000;
+    height: 100px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    margin: auto;
+    z-index: 999999;
+    float: left;
+}
+.decision-making-13Block textarea:focus {border-radius:0px;box-shadow: 0px 0px 0px 0px;border: 1px solid #000;}
+.decision-making-week3-6BottomInput { width: 100%; float:left; padding: 15px 0px 0px 0px;}
+.decision-making-week3-6BottomInput label { width: 100%; float:left; padding: 0px 0px 0px 0px; font-size: 14px; font-weight: 400; margin: 0px;}
+.decision-making-week3-6BottomInput input {
+    width:100%;
+    padding: 0px 2px 0px 2px;
+    margin: 0px 0px 0px 0px;
+    background: transparent;
+    border-bottom:1px solid #000 !important;
+    height: 25px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+}
+.decision-making-week3-6Table table tbody tr td input:focus{border-radius: 0px;box-shadow: 0px 0px 0px 0px;border-bottom: 1px solid #000 !important;}
+.bannerMiddil123.decision-making-week3-6 {
+    width: 96%;
+    display: table;
+    background: #edf7ff;
+    padding: 10px 2%;
+    margin: 0px;
+}
+.decision-making-week3-14Top { width: 100%; float:left; padding: 0px 0px 0px 0px;}
+.decision-making-week3-14Section { width: 100%; float:left; padding: 0px 0px 20px 0px;}
+.decision-making-week3-14Border {
+    width: 57%;
+    float: left;
+    padding: 0px 10px 0px 0px;
+}
+.decision-making-week3-14Border img { width: 100%;}
+.decision-making-week3-14Date { width:40%; float:left; padding: 0px 0px 0px 0px;}
+.decision-making-week3-14Date label { width: auto; float:left; padding: 0px 0px 0px 0px; margin: 0px; font-size: 13px;}
+.decision-making-week3-14Date input {
+    width: 70%;
+    padding: 0px 2px 0px 2px;
+    margin: 0px 0px 0px 0px;
+    background: transparent;
+    border-bottom: 1px solid #000 !important;
+    height: 22px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+}
+.bannerMiddil123.decision-making-week3-14 {
+    width: 96%;
+    display: table;
+    background: #edf7ff;
+    padding: 10px 2%;
+    margin: 0px;
+}
+.decision-making-week3-14Date input:focus {border-radius:0px;box-shadow: 0px 0px 0px 0px;border-bottom: 1px solid #000;}
+.decision-making-week3-14Block { width: 100%; float:left; padding: 0px 0px 0px 0px;}
+.decision-making-week3-14Block label {
+    width: 100%;
+    float: left;
+    padding: 10px 0px 0px 0px;
+    margin: 0px;
+    font-size: 15px;
+}
+.decision-making-week3-14Block input {
+    width: 96%;
+    padding: 0px 2%;
+    margin: 0px 0px 0px 0px;
+    background: transparent;
+    border-bottom: 1px solid #000 !important;
+    height: 26px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+}
+.decision-making-week3-14Block input:focus {border-radius:0px;box-shadow: 0px 0px 0px 0px;border-bottom: 1px solid #000;}
+.decision-making-week3-14BorderDesigned { width: 100%; float:left; padding: 2 0px 0px 0px 0px;margin: 0px; text-align: center;}
+.decision-making-week3-14BorderDesigned img { width:250px;}
+.decision-making-week3-14BorderDesigned1 { width: 100%; float:left; padding: 20px 0px 0px 0px;} 
+.decision-making-week3-14BorderDesigned1 { width: 100%;}
+.WorkSheet-06 { width: 100%; float:left; padding: 0px 0px 0px 0px; margin: 0px;}
+.WorkSheet-06Heading { width: 100%; float:left; padding: 0px 0px 20px 0px; margin: 0px; text-align: center;}
+.WorkSheet-06Heading img { width: 180px;}
+.WorkSheet-06CheckBox { width: 100%; float:left; padding: 5px 0px 5px 0px;}
+.WorkSheet-06CheckBox label { font-weight: 400; font-size: 12px; margin:0px;} 
+
+
+.WorkSheet-07 { width: 100%; float:left; padding: 0px 0px 10px 0px;}
+.WorkSheet-07 label { width: 100%; float:left; padding: 5px 0px 5px 0px; background: #cba495; color: #fff; font-size: 15px; border-radius: 30px; text-align: center;}
+.WorkSheet-07 input {
+    width: 96%;
+    padding: 0px 2%;
+    margin: 0px 0px 0px 0px;
+    background: transparent;
+    border-bottom: 1px solid #cba495 !important;
+    height: 40px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+}
+.WorkSheet-07 input:focus{border-radius: 0px;box-shadow: 0px 0px 0px 0px;border-bottom: 1px solid #000 !important;}
+.WorkSheet-07 .bannerMiddil123 {
+    width: 96%;
+    display: table;
+    background: #edf7ff;
+    padding: 10px 2%;
+    margin: 0px;
+}
+.WorkSheet-07 .WorkSheet-06Heading img { width: 200px; margin:auto; display:table; float:none;}
+.decision-making-week3-13 { background: #fff;}
+.decision-making-week3-13Top { width: 100%; float:left; padding: 0px 0px 0px 0px;}
+.decision-making-week3-13Heading { width: 100%; float:left; padding: 0px 0px 0px 0px;}
+.decision-making-week3-13Heading h2 {
+    width: 100%;
+    float: left;
+    padding: 15px 0px 0px 0px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 800;
+}
+.worksheet-container table.journal-table tr td.bg-gray span {
+    transform: rotate(90deg);
+    vertical-align: middle;
+    display: table;
+    margin: auto;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+}
+.worksheet-container table.journal-table tr td {
+    border-bottom: 1px solid #222;
+    vertical-align: top;
+    font-family: inter;
+    padding: 7px 7px 0 7px;
+    font-size: 12px;
+    position: relative;
+}
+.decision-making-week3-13Mood { width: 100%; float:left; padding: 0px 0px 0px 0px;}
+.decision-making-week3-13MoodLeft { width:40%; float:left; padding: 0px 0px 0px 0px;}
+.decision-making-week3-13MoodLeft label { width: auto; float:left; padding: 0px 0px 0px 0px; margin: 0px; font-size: 13px;}
+.decision-making-week3-13MoodLeft input {
+    width: 50%;
+    padding: 0px 2px 0px 2px;
+    margin: 0px 0px 0px 0px;
+    background: transparent;
+    border-bottom: 1px solid #000 !important;
+    height: 18px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+}
+.decision-making-week3-13MoodLeft input:focus{border-radius: 0px;box-shadow: 0px 0px 0px 0px;border-bottom: 1px solid #000 !important;}
+.decision-making-week3-13MoodRight { width: 55%; float:left; padding: 0px 0px 0px 16px;}
+.decision-making-week3-13MoodRight label { width:auto; float:left; padding: 0px 0px 0px 0px; margin: 0px; font-size: 13px;}
+.decision-making-week3-13MoodRight ul  {
+    width:75%;
+    float: left;
+    padding: 0px 0px 0px 7px;
+    margin: 0px;
+}
+.decision-making-week3-13MoodRight ul li { width:auto; float:left; padding: 0px 4px 0px 4px; margin: 0px 0px 0px 0px; list-style: none;}
+.decision-making-week3-13MoodRight ul li img { width: 20px;}
+.decision-making-week3-13MoodRight ul li a .Mood2 { display: none;}
+.decision-making-week3-13MoodRight ul li a:hover .Mood2{ display:block;}
+.decision-making-week3-13MoodRight ul li a:hover .Mood1{ display:none;}
+.decision-making-week3-13Section { width: 100%; float:left; padding: 0px 0px 0px 0px; margin: 0px;}
+.decision-making-week3-13Block { width: 100%; float:left; padding: 20px 0px 0px 0px;}
+.decision-making-week3-13Block label { width: 100%; float:left; padding: 0px 0px 10px 0px; margin: 0px; font-size: 13px;}
+.decision-making-week3-13Block input {
+    width: 94%;
+    padding: 0px 3%;
+    margin: 0px 0px 10px 0px;
+    background: transparent;
+    border: 1px dashed #000 !important;
+    height: 24px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+}
+.decision-making-week3-13Block input:focus{border-radius: 0px;box-shadow: 0px 0px 0px 0px;border: 1px dashed #000 !important;}
+.decision-making-week3-13Box { width:49%; float:left; padding: 0px 0px 0px 0px; margin-right: 2%;}
+.decision-making-week3-13Box:nth-child(2n+0) { margin-right: 0%;}
+.decision-making-week3-13Box label { width: 100%; float:left; padding: 0px 0px 10px 0px; margin: 0px; font-size: 14px;}
+.decision-making-week3-13Box input {
+    width: 94%;
+    padding: 0px 3%;
+    margin: 0px 0px 10px 0px;
+    background: transparent;
+    border-bottom: 1px dashed #000 !important;
+    height: 18px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+}
+.decision-making-week3-13Box input:focus{border-radius: 0px;box-shadow: 0px 0px 0px 0px;border-bottom: 1px dashed #000 !important;}
+.decision-making-week3-13Box2 { width:100%; float:left; padding: 0px 0px 0px 0px; }
+.decision-making-week3-13Box2 label { width: 100%; float:left; padding: 0px 0px 10px 0px; margin: 0px; font-size: 13px;}
+.decision-making-week3-13Box2 input {
+    width: 94%;
+    padding: 0px 3%;
+    margin: 0px 0px 10px 0px;
+    background: transparent;
+    border-bottom: 1px dashed #000 !important;
+    height: 18px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+}
+.decision-making-week3-13Box2 input:focus{border-radius: 0px;box-shadow: 0px 0px 0px 0px;border-bottom: 1px dashed #000 !important;}
+.decision-making-week3-13Box2 textarea {
+    width: 96%;
+    padding: 5px 2%;
+    border: 1px solid #000;
+    background: transparent;
+    height: 60px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    margin: auto;
+    z-index: 999999;
+    float: left;
+}
+.decision-making-week3-13Box2 textarea:focus {border-radius:0px;box-shadow: 0px 0px 0px 0px;border: 1px solid #000;}
+.bannerMiddil123.decision-making-week3-13 {
+    width: 96%;
+    display: table;
+    background: #edf7ff;
+    padding: 10px 2%;
+    margin: 0px;
+}
+    h1 {
+            font-size: 24px;
+            margin-bottom: 20px;
+            font-weight: 600;
+        }
+
+        .details {
+            margin-bottom: 20px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+
+        .details span {
+            font-weight: normal;
+            color: #888;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(6, 1fr);
+            gap: 10px;
+        }
+
+        .grid div {
+            width: 40px;
+            height: 40px;
+            border: 2px solid #000;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-weight: 600;
+        }
+
+        .result {
+            margin-top: 20px;
+            font-size: 18px;
+            font-weight: 600;
+        }
+
+        .reward {
+            font-size: 14px;
+            color: #888;
+            margin-top: 20px;
+        }
+
+        .goal{
+            width: 100%;
+            float:left;
+            margin-bottom:10px;
+        }
+        .goal input{
+            width: 100%;
+            float: left;
+            border: 0px;
+            border-bottom: 1px solid #ddd;
+            height: 30px;
+            padding: 0px;
+        }
+.Days-Challange .end {
+    text-align: center;
+    width: 48%;
+    float: left;
+    padding-left: 2%;
+}
+.Days-Challange h1 { display: none;}
+.Days-Challange .start {
+    text-align: center;
+    width: 50%;
+    float: left;
+}
+.Days-Challange .end label { font-size: 15px; width: auto; float: left;padding-top: 6px;    padding-right: 2%;}
+.Days-Challange .start label { font-size: 15px; width: auto; float: left;padding-top: 6px;    padding-right: 2%;}
+.Days-Challange .start input { height: 25px; width:57%; float:left;}
+.Days-Challange .end input { height: 25px;  width:58%; float:left;}
+.Days-Challange .details {
+    width: 100%;
+    float: left;
+    text-align: center;
+    padding: 0px 0px 0px 0px;
+}
+.Days-Challange .result {
+    width: 100%;
+    float: left;
+}
+.Days-Challange .reward {
+    width: 100%;
+    float: left;
+}
+.Self-Belief-Flower h1 { display: none;}
+.worksheet-19 .Gratitude .box-liner ul li input {
+    width: 100%;
+    height: 32px;
+    border: 1px solid #222;
+    padding: 0;
+    border-radius: 2px;
+    margin-bottom: 10px;
+}
+.worksheet-19 .header-img {
+    position: absolute;
+    right: 10px;
+    width: 126px;
+    float: right;
+}
+.worksheet-19 .Gratitude h2 {
+    margin-bottom: 0px;
+}
+.Days-Challange .container {
+    width: 96%;
+    padding: 0px 2%;
+}
+.Days-Challange .grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 10px;
+    width: 100%;
+}
+.WORKSHEET-12 h1 { display: none;}
+.WORKSHEET-12 .Nonverbal p {
+    width: 100%;
+    float: left;
+    padding: 0px 0px 0px 0px;
+    margin-top: 6px;
+    font-size: 15px;
+}
+.WORKSHEET-12 .header-img {
+    position: absolute;
+    right: 10px;
+    width: 70px;
+    float: right;
+}
+.WORKSHEET-12 .name {
+    width: 65%;
+    float: left;
+    padding-top: 25px;
+}
+.WORKSHEET-12 .container {
+    width: 96%;
+    float: left;
+    padding: 0px 2%;
+}
+.WORKSHEET-12 .container textarea {
+    width: 100%;
+    float: left;
+    background: url(/assets/imgstextraea-bg.png) no-repeat left top;
+    height: 104px;
+    background-size: 100%;
+    outline: none;
+        padding: 5px;
+    border-radius: 0px;
+    margin-bottom: 0px;
+    border: 0px;
+    margin-top: 0px;
+}
+.WORKSHEET-02 .communication table thead tr th {
+    text-align: center;
+}
+.WORKSHEET-12 .container  .Nonverbal table tbody tr td:first-child {
+    font-size: 13px;
+    
+    padding: 0;
+    height: 30px;
+    text-align: left;
+    width: 60%;
+    padding: 0px 10px 0px 10px;
+}
+.WORKSHEET-12 .container  .Nonverbal table tbody tr td {border: 1px solid #222;}
+.WORKSHEET-05 .rate input {
+    border-bottom: 1px solid #222 !important;
+    border: 0px;
+    outline: none;
+    height: 30px;
+    font-size: 15px;
+    width: auto;
+    display: table;
+}
+.WORKSHEET-05 .rate .row textarea {
+    width: 100%;
+    float: left;
+    outline: none;
+    resize: none;
+    min-height: 45px;
+    height: auto;
+    padding: 5px;
+    border: 1px solid #222;
+}
+.communication{ 
+            width: 94%;
+            margin:0 3% 20px 3%;
+            float:left;
+            border-bottom:4px solid #4a7ebb;
+        }
+
+        .communication table tr td{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 14px;
+            padding: 5px;
+        }
+
+        .communication table thead tr th{
+            font-weight: 600;
+            font-size: 14px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .communication p{    
+            width: 100%;
+            float: left;
+            font-size: 15px;
+        }
+        .name{ width: 65%; float:left}
+        .name label{
+            font-weight: 600;
+    font-size: 14px;
+    height: 28px;
+    float: left;
+    line-height: 32px;
+    margin-right: 5px;
+        }
+        .name input{ 
+            border: 0px;
+            border-bottom: 1px solid #222;
+            width: 75%;
+            padding:0px;
+            height: 28px;
+            outline: none;
+        }
+        .header-img{
+            position: absolute;
+            right: 10px;
+            width: 55px;
+            float: right;
+        }
+        .header-img img{
+            width: 100%;
+        }
+
+        h2{
+            font-size: 22px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 700;
+            text-align: center;
+            width: 100%;
+            float: left;
+            margin-top: 15px;
+        }
+        .text-wrapper{
+            width: 100%;
+            float:left;
+            margin-bottom: 15px;           
+        }
+        .text-wrapper label{
+            width: 100%;
+            float:left;
+            margin-bottom: 5px;
+            font-size: 14px;
+        }
+        .text-wrapper textarea{
+            width: 100%;
+            float:left;
+            padding:0px;
+            border:1px solid #222;
+            border-radius: 4px;
+            height: 70px;
+        }
+.WORKSHEET-16 h1 { display: none;}
+.WORKSHEET-18 .block-inner ul li:first-child {
+    width: 100%;
+    float: left;
+    color: #fff;
+    line-height: 16px;
+    font-weight: 600;
+    text-align: left;
+    padding-top: 10px;
+    display: flex;
+    padding: 10px 2%;
+}
+.WORKSHEET-16 .text-wrapper textarea {
+    width: 100%;
+    float: left;
+    padding: 0px;
+    border: 1px solid #222;
+    border-radius: 4px;
+    height: 70px;
+    margin-top: 0px;
+}
+.WORKSHEET-18 .block .block-inner label {
+    padding: 4px 10px 0px;
+    display: block;
+}
+.WORKSHEET-18 .block-inner textarea {
+    width: 96%;
+    float: left;
+    height: 107px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 0px;
+    margin: 0px;
+    font-weight: 400;
+    color: #000 !important;
+    text-align: left;
+    resize: none;
+    outline: none;
+    padding: 2% 2%;
+    border-radius: 0px;
+}
+.Eisenhower-Matrix .title::after {
+    content: "🛌💤";
+    position: absolute;
+    right: 10px;
+    font-size: 18px;
+    display: none;
+}
+.Eisenhower-Matrix .title::after {
+    content: "🛌💤";
+    position: absolute;
+    right: 10px;
+    font-size: 18px;
+    display: none;
+}
+.Three-Column-Technique .technique ul li  { background: url(/assets/imgs/right-checkbox.png) no-repeat 0px 0px; background-size: 20px; padding-left: 25px;width: 100%;} 
+.WORKSHEET-18 .block.red label { color:red;}
+.WORKSHEET-18 .block-inner label {
+    color: #3366cc;}
+.WORKSHEET-18 .block.green label {color: #135513;}
+.Psych2PointSleep3Diary {
+    width: 100%;
+    float: left;
+    overflow-y: auto;
+}
+.PsychPoint-Sleep-Diary .header {
+    background-color: #6a1b9a;
+    color: white;
+    padding: 20px;
+    border-radius: 0;
+    width: 89%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.PsychPoint-Sleep-Diary td input[type="date"] { height: 32px;}
+.PsychPoint-Sleep-Diary td input[type="time"] { height: 32px;}
+.WORKSHEET-13 .areatext textarea {
+    width: 96%;
+    padding: 0px;
+    font-size: 14px;
+    font-family: inter;
+    resize: none;
+    min-height: 60px;
+    border-radius: 0px;
+    margin: 0px;
+    height: auto;
+    border: 0px;
+}
+.letter-myself .header img { width: 150px;}
+.negative-thoughts .header {
+    width: 100%;
+    padding-bottom: 20px;
+    float: left;
+    display: table;
+}
+.negative-thoughts .header h1 { text-align: center;width: 100%;padding: 20px 0px 0px 0px;}
+.negative-thoughts .row {
+    width: 94%;
+    float: left;
+    margin: 0 0% 2%;
+}
+.negative-thoughts .content-main .row input[type="text"]{
+    border: 0px;
+    padding: 5px;
+    height: 35px;
+    outline: none;
+    width: 96%;
+    border: 1px solid #000;
+    padding: 0px 2%;
+    float: left;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+.negative-thoughts .header p {
+    text-align: center;
+    font-size: 15px;
+    line-height: 21px;
+    margin: 9px 0px 0px;
+    width: 100%;
+    float: left;
+}
+.tab-work.time-table-work h1 { width: 100%; float:left; text-align: center; padding: 25px 0px 0px 0px;}
+.TRACK-YOUR-POMODOROS h2 {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    color: #222;
+    background: #e6f1f3;
+    padding: 8px 2%;
+    width: 96%;
+}
+.bannerMiddil123.anxiety-severe-week1-223 { background: #9ab375;}
+.anxiety-severe-week1-223 .anxiety-severe-week1-2Heading h2 {
+    width: 100%;
+    float: left;
+    padding: 15px 0px 10px 0px;
+    margin: 0px;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 800;
+    color: #fff;
+}
+.bannerMiddil123.decision-making-week3-3 { background: #57a1a4;}
+.decision-making-week3-3 .anxiety-severe-week1-2Heading h2 {
+    width: 100%;
+    float: left;
+    padding: 0px 0px 0px 0px;
+    margin: 0px;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 800;
+    color: #fff;
+}
+.Love.Yourself .box-5 table td {
+    width: 50%;
+    border: 0px;
+    padding: 0px 6px;
+}
+.TRACK-YOUR-POMODOROS .task-cell input {
+    width: 96%;
+    padding: 5px 2%;
+    border: 0px;
+    border-radius: 0px;
+    border-bottom: 1px dashed #cfcfcf;
+    background: #e4f2f2;
+    font-size: 12px;
+}
+.TRACK-YOUR-POMODOROS .task-cell {
+    flex: 1.5;
+    padding-right: 10px;
+}
+.TRACK-YOUR-POMODOROS .pomodoro-cell {
+    flex: 1.3;
+    display: flex;
+    justify-content: space-between;
+}
+.TRACK-YOUR-POMODOROS .done-cell {
+    flex: 0.5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.decision-making-week3-2 { width: 100%; float:left; padding: 0px 0px 0px 0px;} 
+.decision-making-week3-2Section { width: 100%; float:left; padding: 0px 0px 0px 0px;}
+.decision-making-week3-2Block { width: 100%; float:left; padding: 0px 0px 0px 0px; position: relative;}
+.decision-making-week3-2Block label {
+    width: auto;
+    float: left;
+    padding: 0px 0px 0px 0px;
+    position: absolute;
+    top: 1px;
+    left: 0px;
+}
+.decision-making-week3-2Block input {
+    width: 82%;
+    padding: 0px 7%;
+    margin: 0px 0px 0px 0px;
+    background: transparent;
+    border-bottom: 0px solid #000 !important;
+    height: 20px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+}
+.decision-making-week3-2Block input:focus{border-radius: 0px;box-shadow: 0px 0px 0px 0px;border-bottom: 0px solid #000 !important;} 
+.decision-making-week3-2Box {
+    width: 41.5%;
+    float: left;
+    padding: 10px;
+    background: #fff;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    margin-right: 2%;
+    min-height: 133px;
+}
+.decision-making-week3-2Box:nth-child(2n+0) { margin-right: 0%;}
+.decision-making-week3-2Box h2 { width: 100%; float:left; padding: 0px 0px 0px 0px;margin: 0px; font-size: 12px;}
+.decision-making-week3-2Box.NestTop {
+    width: 92%;
+    float: left;
+    padding: 10px 2%;
+    margin-right: 0%;
+}
+.decision-making-week3-3 .decision-making-week3-2Section .decision-making-week3-2Box:nth-child(1) h2 { color: #e06361; text-align: center;}
+.decision-making-week3-3 .decision-making-week3-2Section .decision-making-week3-2Box:nth-child(2) h2 { color: #f1905b; text-align: center;}
+.decision-making-week3-3 .decision-making-week3-2Section .decision-making-week3-2Box:nth-child(3) h2 { color: #62a2c8; text-align: center;}
+.decision-making-week3-3 .decision-making-week3-2Section .decision-making-week3-2Box:nth-child(4) h2 { color: #59937a; text-align: center;}
+.decision-making-week3-3 .decision-making-week3-2Section .decision-making-week3-2Box:nth-child(5) h2 { color: #b276bc; text-align: center;}
+.decision-making-week3-3 .decision-making-week3-2Section .decision-making-week3-2Box:nth-child(6) h2 { color: #dfbb6f; text-align: center;}
+.decision-making-week3-3 .decision-making-week3-2Section .decision-making-week3-2Box:nth-child(7) h2 { color: #dc69a0; text-align: center;}
+.decision-making-week3-3 .decision-making-week3-2Section .decision-making-week3-2Box:nth-child(8) h2 { color: #5f71bd; text-align: center;}
+.decision-making-week3-3 .decision-making-week3-2Block input {
+    width: 91%;
+    padding: 0px 2px 0px 2px;
+    margin: 0px 0px 0px 0px;
+    background: transparent;
+    border-bottom: 1px solid #000 !important;
+    height: 20px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+}
+.decision-making-week3-3 .decision-making-week3-2Block input:focus{border-radius: 0px;box-shadow: 0px 0px 0px 0px;border-bottom: 1px solid #000 !important;}
+.thought-feeling h2{
+            width: 100%;
+            float:left;
+            background: #c9e165;
+            color: #222;
+            font-size: 15px;
+            font-weight: 600;
+            text-align: center;
+            padding: 8px 0px;
+
+        }
+
+        
+
+        .header {
+            width: 100%;
+            padding-bottom:20px;
+            float:left;
+        }
+
+        .header h1{ margin: 0px;
+            padding: 0px;
+            font-size: 23px;
+            width: 45%;
+            float: left;
+        }
+        
+        .header .date{    
+            float: right;
+            margin:10px 0 0 0;
+            width: 48%;}
+        
+        .header label{
+            width: auto;
+            margin:9px 0 0 0;
+            float:left;
+        }
+        
+        .header input{
+            border:0px;
+            border-bottom:1px solid #222 !important;
+            height: 20px !important;
+            width: 60% !important;
+        }
+
+        .tab-weeks table tr th{
+            background: #c9e165;
+            color: #222;
+            font-size: 15px;
+            font-weight: 600;
+            padding: 8px 0px;
+        }
+
+       .tab-weeks  table thead tr th:first-child{
+              width: 140px;  
+        }
+        
+       .tab-weeks  table tbody tr td:first-child{
+              width: 140px;  
+        }
+
+       .tab-weeks  table tbody tr td{
+            width: 10%;
+        }
+       
+        input[type="checkbox"]{
+            margin: 7px 0 0 0;
+            width: 20px;
+            height: 20px;
+        }
+        .thought-feeling{
+            width: 100%;
+            float:left;
+        }
+        .thought-feeling input[type="text"]
+        {
+            border: 0px;
+            border-bottom: 1px solid #222;
+            height: 28px;
+            outline: none;
+            width: 95%;
+        }
+.Self-Care-Checklist .container {
+    max-width: 400px;
+    width: 100%;
+    padding: 0px 0% 0px 0%;
+    text-align: left;
+    margin: 0%;
+}
+.Self-Care-Checklist {
+    width: 96%;
+    float: left;
+    padding: 0px 2%;
+}
+.Self-Care-Checklist .tab-weeks table tr th {
+    border: 0px;
+}
+.Self-Care-Checklist .header {
+    width: 94%;
+    float: left;
+    padding: 25px 3% 20px 3%;
+}
+.Inhale-Exhale .input-form {
+    position: absolute;
+    bottom: -18px;
+    right: 10px;
+    width: 73%;
+}
+.Eisenhower-Matrix {
+    width: 94%;
+    float: left;
+    padding: 3%;
+}
+.Eisenhower-Matrix .quadrant h3 {
+    width: 96%;
+        padding: 8px 2% !important;
+}
+.technique{
+            width: 92%;
+            float: left;
+            margin: 0 4%;
+        }
+
+        h1{
+            color: #a68b5d;
+            font-size: 20px;
+            text-align: left;
+            font-family: arial;
+        }
+
+        .technique p{
+            font-size: 13px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .technique ul{    width: 100%;
+    margin: 0;
+    padding: 0px;}
+        .technique ul li{
+            font-size: 14px;
+    list-style: none;
+    width: 100%;
+    padding-bottom: 10px;
+        }
+        .technique h2{
+            margin:0px 0 10px 0;
+            padding:0px;
+            font-size: 16px;
+            font-weight: 600;
+        }
+        .technique table{ width: 100%;}
+        .technique table tr th{
+            background: #525566;
+            color: #fff;
+            font-size: 14px;
+            padding: 10px 0px;
+        }
+
+        .technique table tr td{
+            padding: 5px;
+        }
+
+        .technique table tr td.bg{
+            font-size: 13px;
+            background: #f3f4f5;
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+        }
+
+        .technique table tr td textarea{
+            background: #edf0fb;
+            min-height: 70px;
+            width: 100%;
+            border: 0px;
+        }
+
+        .tab-in-wrap{
+            width: 100%;
+            overflow: hidden;
+            overflow-x: auto;
+            float:left;
+            margin-bottom:15px;
+        }
+.Three-Column-Technique .technique ul { padding-left: 20px;float: left;}
+.Three-Column-TechniqueThree-Column-Technique .technique ul li {
+    font-size: 14px;
+    list-style: disc;
+    width: 100%;
+    padding-bottom: 10px;
+}
+.Three-Column-Technique .technique ul {
+    padding-left: 0%;
+    width: 93%;
+}
+.Three-Column-Technique .technique table tr td textarea {
+    background: #edf0fb;
+    min-height: 70px;
+    width: 100%;
+    border: 0px;
+    padding: 0px;
+    border-radius: 0px;
+    margin: 0px;
+}
+.Three-Column-Technique .technique table tr td {
+    width: 32%;
+    border: 1px solid #000;
+}
+.Three-Column-Technique .technique table tr th { border: 1px solid #000;}
+.Three-Column-Technique h1 { display: none;}
+.Three-Column-Technique .technique h1 { display: block; padding-top: 20px;}
+
+
+.Being-Realistic-About-Your-Weaknesses .technique ul { padding-left: 20px;float: left;}
+.Being-Realistic-About-Your-Weaknesses .technique ul li {
+    font-size: 14px;
+    list-style: disc;
+    width: 100%;
+    padding-bottom: 10px;
+}
+.Being-Realistic-About-Your-Weaknesses .technique ul {
+    padding-left: 7%;
+    width: 93%;
+}
+.Being-Realistic-About-Your-Weaknesses .technique table tr td textarea {
+    background: #edf0fb;
+    min-height: 70px;
+    width: 100%;
+    border: 0px;
+    padding: 0px;
+    border-radius: 0px;
+    margin: 0px;
+}
+.Being-Realistic-About-Your-Weaknesses .technique table tr td {
+    width:50%;
+    border: 1px solid #000;
+}
+.Being-Realistic-About-Your-Weaknesses .technique table tr th { border: 1px solid #000;}
+.Being-Realistic-About-Your-Weaknesses h1 { display: none;}
+.Being-Realistic-About-Your-Weaknesses .technique h1 { display: block; padding-top: 20px;}
+
+.Goal-Setting-for-Self-Esteem .technique ul { padding-left: 20px;float: left;}
+.Goal-Setting-for-Self-Esteem .technique ul li {
+    font-size: 14px;
+    list-style: disc;
+    width: 100%;
+    padding-bottom: 10px;
+}
+.Goal-Setting-for-Self-Esteem .technique ul {
+    padding-left: 7%;
+    width: 93%;
+}
+.Goal-Setting-for-Self-Esteem .technique table tr td textarea {
+    background: #edf0fb;
+    min-height: 70px;
+    width: 100%;
+    border: 0px;
+    padding: 0px;
+    border-radius: 0px;
+    margin: 0px;
+}
+.Goal-Setting-for-Self-Esteem .technique table tr td {
+    width:50%;
+    border: 1px solid #000;
+}
+.Goal-Setting-for-Self-Esteem .technique table tr th { border: 1px solid #000;}
+.Goal-Setting-for-Self-Esteem h1 { display: none;}
+.Goal-Setting-for-Self-Esteem .technique h1 { display: block; padding-top: 20px;}
+
+.last-para{
+            font-size: 14px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 100%;
+            float:left;
+            
+        }
+
+        .pdf-wrapper{
+            width: 92%;
+            float: left;
+            margin: 0 4%;
+        }
+
+        h1{
+            color: #a68b5d;
+            font-size: 20px;
+            text-align: left;
+            font-family: arial;
+        }
+
+        .pdf-wrapper p{
+            font-size: 13px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .person{
+            width: 100%;
+            float:left;
+        }
+        .person label{
+            font-weight: 600;
+            font-size: 15px;
+            width: 100%;
+            float: left;
+            margin: 0 0% 15px 0%;
+         }
+
+        .row{
+            width: 100%;
+            float: left;
+            margin: 0 0% 15px 0%;
+        }
+
+        .row label{
+            width: 100%;
+            font-weight: 500;
+            font-size: 14px;
+            margin-bottom: 8px;
+            float: left;
+            margin-left: 0px;
+            margin-right: 0px;
+        }
+        
+        .row textarea {
+    background: #e1e6f1;
+    resize: none;
+    border: 0px;
+    padding: 10px 2%;
+    height: 67px;
+    outline: none;
+    width: 96%;
+    border-radius: 5px;
+}
+
+        .references{
+            width: 100%;
+            float:left;
+            padding: 20px 0 0 0;
+        }
+        .references span{
+            font-size: 11px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 100%;
+            float: left;
+            margin: 5px 0 20px 0;
+        }
+        .references label{
+            margin-left: 0px;
+            margin-right: 0px;
+            margin-bottom: 10px;
+        }
+
+        .references ul{margin:0px; padding:0px; width: 100%; float:left;}
+        .references ul li{font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: square;
+    list-style-position: inside;}
+.Typical-Assertiveness-Responses h1 { display: none;}
+.Typical-Assertiveness-Responses .pdf-wrapper h1 { display: block; padding-top: 20px;}
+.Typical-Assertiveness-Responses .pdf-wrapper .row {
+    width: 100%;
+    float: left;
+    margin: 0 0% 15px 0%;
+    padding: 0px;
+}
+.Typical-Assertiveness-Responses .pdf-wrapper .row textarea {
+    background: #e1e6f1;
+    resize: none;
+    border: 0px;
+    padding: 10px 2%;
+    height: 67px;
+    outline: none;
+    width: 100%;
+    border-radius: 5px;
+}
+.Typical-Assertiveness-Responses .pdf-wrapper .row label {
+    width: 100%;
+    font-weight: 500;
+    font-size: 14px;
+    margin-bottom: 0px;
+    float: left;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: left;
+}
+
+.self-esteem{
+            width: 96%;
+            float: left;
+            border: 1px solid #222;
+            padding: 0%;
+            margin: 2%;
+        }
+
+        .self-esteem h3{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 24px;
+            font-weight: 700;
+            text-align: center;
+        }
+        
+        .form-esteem{ width: 100%; float:left; padding:0%}
+        .form-esteem .row{
+            width: 94%;
+            float: left;
+            padding: 0 3% 10px 3%;
+        }
+        .form-esteem .row label{ font-size: 14px; font-family: Arial, Helvetica, sans-serif; font-weight: 600; padding-bottom: 5px; float:left; width: 100%;}
+        .form-esteem .row input{
+            background: #f1f4ff;
+            width: 96%;
+            float: left;
+            padding: 0 2%;
+            outline:none;
+            border: 0px;
+            height: 30px;
+            border-bottom: 1px solid #222;
+            margin-bottom: 2px;
+        }
+        .form-esteem .row textarea{
+            width: 98%;
+            float: left;
+            background: #f1f4ff;
+            outline: none;
+            min-height: 60px;
+            border: 0px;
+            padding: 2%;
+        }
+        .form-esteem .row span{
+            float:left;
+        }
+        .form-esteem .row.count span{
+            float: left;
+            margin: 5px 2px 0 0;
+        }
+        .form-esteem .row.count input{
+            width: 90%;
+        }
+        .TRACK-YOUR-POMODOROS .rows .row {
+    display: flex;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+.self-esteem-worksheets-for-teens .self-esteem .row label {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    padding-bottom: 5px;
+    float: left;
+    width: 100%;
+    text-align: left;
+}
+.self-esteem-worksheets-for-teens .self-esteem {
+    width: 96%;
+    float: left;
+    border: 1px solid #222;
+    padding: 3% 0%;
+    margin: 2%;
+}
+.self-esteem-worksheets-for-teens h1 { display: none;}
+.self-esteem-worksheets-for-teens .self-esteem h1 { display:block;}
+.Improve.Self-compassion .Self-Compassion-building1 .Self-Compassion-building2 input[type="text"] {
+    border: 0px;
+    border-bottom: 1px solid #222;
+    height: 28px;
+    outline: none;
+    width: 100%;
+}
+.decision-making-pdf-01Headding {
+    width: 70%;
+    float: left;
+    padding: 15px 0px 0px 0px;
+    margin: 0px;
+}
+.decision-making-pdf-01Section img {
+    width: 16% !important;
+    float: left;
+    padding: 0px 0px 0px 0px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+.container .decision-making-0014 .bannerMiddil123.bannerMiddil1234 {
+    padding: 0px;
+    width: 100%;
+}
+.MyScore1 label {
+    width: 100%;
+    float: left;
+    font-family: inter;
+    padding: 0px 0px 5px 0px;
+    margin: 0px;
+    font-size: 13px;
+    font-weight: 700;
+}
+.decision-making .MyScore1 table tbody tr td {
+    width: 49.2%;
+    float: left;
+    padding: 0px;
+    border: 1px solid #000;
+    font-size: 13px;
+    height: inherit;
+}
+.decision-making-what-will-do .MyScore4 input {
+    width: 96%;
+    padding: 0px 2%;
+    margin: 0px 0px 0px 0px;
+    background: transparent;
+    border-bottom: 1px solid #000 !important;
+    height: 32px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: left;
+    border: 0px;
+}
+.decision-making-pdf-think .MyScore1 label {
+    width: auto;
+    float: left;
+    font-family: inter;
+    padding: 0px 0px 5px 0px;
+    margin: 0px;
+    font-size: 13px;
+    font-weight: 700;
+}
+.decision-making-pdf-think .MyScore6 .MyScoreOption input {
+    width: 96%;
+    height: 32px;
+}
+.decision-making-pdf-think .MyScore1 table thead tr th {
+    width: 49%;
+    float: left;
+    padding: 6px 0px;
+    font-size: 13px;
+    border-bottom: 0;
+    background: none;
+    border: 1px solid #000;
+}
+.making-different-decisions  .decision-making-07Section table tbody tr td input {
+    width: 87%;
+    padding: 0px 5px 0px 5px;
+    margin: 0px 0px 0px 0px;
+    background: transparent;
+    border-bottom: 0px solid #000 !important;
+    height: 25px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+}
+.decision-making-0013 .decision-making-10Section input {
+    width: 96%;
+    padding: 0px 5px 0px 5px;
+    margin: 0px 0px 0px 0px;
+    background: transparent;
+    border-bottom: 1px solid #000 !important;
+    height: 32px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+}
+
+
+.Decision.Making .top-sec img{
+                width: 70px;
+               margin-right: 15px;
+            }
+
+       .Decision.Making .content-wrp{
+            margin-right: 15px; 
+        }
+
+        
+
+       .Decision.Making .top-sec {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    width: 90%;
+    padding: 9px 2%;
+    border: 1px solid #000;
+    margin: 18px auto 0px;
+}
+
+       .Decision.Making .content-wrp strong{
+            width: 100%;
+            float: left;
+            margin-bottom: 15px;
+        }
+
+       .Decision.Making ol{margin:0px; padding:0px;}
+       .Decision.Making ol li{     
+            font-size: 13px;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-bottom: 10px;
+            line-height: 18px;
+        }
+
+       .Decision.Making table {
+    width: 693px;
+    float: left;
+    border-top: 1px solid #222;
+}
+.Decision.Making  .tab {
+    width: 94%;
+    float: left;
+    margin: 2% 3%;
+    overflow-y: auto;
+}
+.Decision.Making h1 { display: none;}
+
+       .Decision.Making table thead tr td{
+width: 25%;
+    border-right: 1px solid #222;
+    border-bottom: 1px solid #222;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 600;
+    VERTICAL-ALIGN: middle;
+    padding: 4px;        }
+
+
+
+       .Decision.Making table tbody tr td input{
+            height: 50px;
+            border:0px;
+            outline: none;
+        }
+
+       .Decision.Making table tbody tr td{
+            width: 25%;
+            border-right: 1px solid #222;
+            border-bottom: 1px solid #222;
+            font-size: 12px;
+            text-align: center;
+            font-weight: 400;
+            padding: 0px;
+            height: auto;
+        }
+
+
+       .Decision.Making textarea{
+           resize: none;
+    border: 0px;
+    outline: none;
+    padding: 3px;
+    width: 80%;
+    min-height: auto;
+    height: 70px;
+	width:100PX;
+}
+.Step-By .img-wrap .inputAD {
+    right: 48px;
+}
+.Step-By .img-wrap .inputAF {
+    right: 11px;
+}
+.self-care-xyz .bannerMiddil123 {
+    width: 96%;
+    display: table;
+    background: #edf7ff;
+    padding: 10px 2%;
+    margin: 0px;
+}
+.self-care-xyz .SelfCare123 textarea {
+    width: 96%;
+    padding: 5px 2%;
+    margin: 0px;
+    background: transparent;
+    border: 1px solid #000;
+    height: 80px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    margin: auto;
+    z-index: 999999;
+    float: left;
+}
+.self-care-xyz .SelfCare123 label {
+    width: 100%;
+    float: left;
+    padding: 0px 0px 5px 0px;
+    margin: 0px;
+    font-size: 14px;
+    line-height: 17px;
+    min-height: 40px;
+}
+.self-care-xyz .SelfCare12 h2:after {
+    content: "";
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    background: url(/assets/imgs/borderLine.png) no-repeat 0px 0px;
+    background-size: 200px;
+    height: 30px;
+    width: 200px;
+}
+.positive-experiences .row {
+    width: 94%;
+    float: none;
+    margin: 0 auto 10px auto;
+    padding: 0px;
+    border-bottom: 1px solid #222;
+    display: table;
+}
+.mindfulness-bingo table tbody tr td:nth-child(2) input {
+    width:auto;
+}
+.mindfulness-bingo h1 { display: none;}
+.mindfulness-bingo h2 { width: 100%; text-align: center;}
+.mindfulness-bingo .bannerMiddil123 {
+    width: 96%;
+    display: table;
+    background: #edf7ff;
+    padding: 10px 2%;
+    margin: 0px;
+}
+.smart-goal .SMARTGOALS label span {
+    width: auto;
+    border: 1px solid #000;
+    padding: 0px 5px;
+    margin-top: -4px;
+    margin-right: 2px;
+}
+.Setting.Life.Goals .SETTINGLIFEGOALSright input {
+    width: 70%;
+    float: right;
+    padding: 0px 0px 0px 0px;
+    background: transparent;
+    border: 0px;
+    border-bottom: 0px solid #dd6a3e;
+    border-radius: 0px;
+    height: 31px;
+    box-shadow: 0px 0px 0px 0px;
+}
+
+
+
+
+
+ .My-Smart-Goal table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+       .My-Smart-Goal th, td {
+            border: 1px solid #ccc;
+            padding: 5px;
+            vertical-align: top;
+        }
+
+      .My-Smart-Goal  th {
+            background-color: #f5f5f5;
+            text-align: left;
+            font-size: 14px;
+                font-family: 'Inter';
+            border: 1px solid #000 !important;
+        }
+
+       .My-Smart-Goal td {
+    width: 40%;
+    border: 1px solid #000 !important;
+        padding: 5px;
+    font-family: 'Inter';
+}
+
+       .My-Smart-Goal .questions ul {
+            margin: 0;
+            padding: 0 0 0 20px;
+        }
+       .My-Smart-Goal .questions ul li {
+    font-size: 13px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+       .My-Smart-Goal .answers {
+            background-color: #f9f9f9;
+            padding:0px;
+        }
+
+       .My-Smart-Goal .smart-goal-input {
+            padding: 10px;
+            margin-top: 0px;
+            border: 0px solid #ccc;
+            box-sizing: border-box;
+            min-height: 220px;
+            width: 150px;
+            outline: none;
+            font-family: arial;
+            font-size: 14px;   
+         }
+
+       .My-Smart-Goal .smart-goal-final {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+       .My-Smart-Goal .smart-goal-final p{
+            font-weight: 600;
+            margin-bottom:0px;
+            font-size: 20px;
+        }
+
+       .My-Smart-Goal .smart-goal-final input {
+            width: 100%;
+            padding: 10px;
+            font-size: 13px;
+            border: 0px solid #ccc;
+            box-sizing: border-box;
+            border-bottom: 1px solid #ccc;
+        }
+
+       .My-Smart-Goal .footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 14px;
+        }
+
+       .My-Smart-Goal header{
+            width: 100%;
+            float:left;
+            text-align: center;
+        }
+        
+        .My-Smart-Goal header h1{
+            margin:0px;
+            padding:0px;  
+            text-align: center;          
+        }
+        
+        .My-Smart-Goal header p {
+  padding: 0px;
+    font-size: 13px;
+    width: 95%;
+    float: none;
+    margin: 10px auto 0 auto;
+}
+
+       .My-Smart-Goal  .head{
+            width: 100%;
+            float:left;
+        }
+        .My-Smart-Goal header img {
+    float: none;
+    margin-top: 10px;
+    width: 96px;
+}
+
+      .My-Smart-Goal .tab {
+    overflow-x: auto;
+    width: 94%;
+}
+.My-Smart-Goal h1 { display: none;}
+.My-Smart-Goal .container header .head h1 { display: block;     font-size: 21px;
+    font-family: 'Inter';
+    margin: 10px 0 0 0;}
+.therapistaid .letter {
+    width: 86%;
+    float: left;
+    padding: 3%;
+    border: 4px solid #222;
+    margin: 3%;
+}
+.container-Emotion-weel h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+}
+.container-Emotion-weel table tr th {
+    font-size: 13px;
+    font-family: inter;
+    font-weight: 500;
+    border: 1px solid #000;
+}
+.container-Emotion-weel table tr td {
+    border: 1px solid #000 !important;
+}
+.container-Emotion-weel table tr td textarea {
+    height: auto;
+    margin: 0px;
+    font-family: inter;
+    font-size: 13px;
+    border: 0px;
+    width: 96%;
+    padding: 10px 2%;
+}
+.decision-making-week3-13 { background: #fff;}
+.decision-making-week3-13Top { width: 100%; float:left; padding: 0px 0px 0px 0px;}
+.decision-making-week3-13Heading { width: 100%; float:left; padding: 0px 0px 0px 0px;}
+.decision-making-week3-13Heading h2 {
+    width: 100%;
+    float: left;
+    padding: 0px 0px 0px 0px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 800;
+}
+.decision-making-week3-13Mood { width: 100%; float:left; padding: 0px 0px 0px 0px;}
+.decision-making-week3-13MoodLeft { width:40%; float:left; padding: 0px 0px 0px 0px;}
+.decision-making-week3-13MoodLeft label { width: auto; float:left; padding: 0px 0px 0px 0px; margin: 0px; font-size: 13px;}
+.decision-making-week3-13MoodLeft input {
+    width: 50%;
+    padding: 0px 2px 0px 2px;
+    margin: 0px 0px 0px 0px;
+    background: transparent;
+    border-bottom: 1px solid #000 !important;
+    height: 18px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+}
+.decision-making-week3-13MoodLeft input:focus{border-radius: 0px;box-shadow: 0px 0px 0px 0px;border-bottom: 1px solid #000 !important;}
+.decision-making-week3-13MoodRight {
+    width: 53%;
+    float: left;
+    padding: 0px 0px 0px 16px;
+}
+.decision-making-week3-13MoodRight label { width:auto; float:left; padding: 0px 0px 0px 0px; margin: 0px; font-size: 13px;}
+.decision-making-week3-13MoodRight ul  {
+    width:75%;
+    float: left;
+    padding: 0px 0px 0px 7px;
+    margin: 0px;
+}
+.decision-making-week3-13MoodRight ul li { width:auto; float:left; padding: 0px 4px 0px 4px; margin: 0px 0px 0px 0px; list-style: none;}
+.Self-Reflection-journal .decision-making-week3-13MoodRight ul li img { width: 20px;    padding: 0px;}
+.decision-making-week3-13MoodRight ul li a .Mood2 { display: none;}
+.decision-making-week3-13MoodRight ul li a:hover .Mood2 {
+    display: block;
+    margin-bottom: 0px;
+}
+.decision-making-week3-13MoodRight ul li a:hover .Mood1{ display:none;}
+.decision-making-week3-13Section { width: 100%; float:left; padding: 0px 0px 0px 0px; margin: 0px;}
+.decision-making-week3-13Block { width: 100%; float:left; padding: 20px 0px 0px 0px;}
+.decision-making-week3-13Block label { width: 100%; float:left; padding: 0px 0px 10px 0px; margin: 0px; font-size: 13px;}
+.decision-making-week3-13Block input {
+    width: 95%;
+    padding: 0px 2%;
+    margin: 0px 0px 10px 0px;
+    background: transparent;
+    border: 1px dashed #000 !important;
+    height: 24px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: left;
+    border: 0px;
+}
+.decision-making-week3-13Block input:focus{border-radius: 0px;box-shadow: 0px 0px 0px 0px;border: 1px dashed #000 !important;}
+.decision-making-week3-13Box { width:49%; float:left; padding: 0px 0px 0px 0px; margin-right: 2%;}
+.decision-making-week3-13Box:nth-child(2n+0) { margin-right: 0%;}
+.decision-making-week3-13Box label {
+    width: 100%;
+    float: left;
+    padding: 0px 0px 10px 0px;
+    margin: 0px;
+    font-size: 13px;
+    min-height: 33px;
+}
+.decision-making-week3-13Box input {
+    width: 95%;
+    padding: 0px 2%;
+    margin: 0px 0px 10px 0px;
+    background: transparent;
+    border-bottom: 1px dashed #000 !important;
+    height: 18px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+}
+.decision-making-week3-13Box input:focus{border-radius: 0px;box-shadow: 0px 0px 0px 0px;border-bottom: 1px dashed #000 !important;}
+.decision-making-week3-13Box2 { width:100%; float:left; padding: 0px 0px 0px 0px; }
+.decision-making-week3-13Box2 label { width: 100%; float:left; padding: 0px 0px 10px 0px; margin: 0px; font-size: 13px;}
+.decision-making-week3-13Box2 input {
+    width: 96%;
+    padding: 0px 2%;
+    margin: 0px 0px 10px 0px;
+    background: transparent;
+    border-bottom: 1px dashed #000 !important;
+    height: 18px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+    position: relative;
+}
+.decision-making-week3-13Box2 input:focus{border-radius: 0px;box-shadow: 0px 0px 0px 0px;border-bottom: 1px dashed #000 !important;}
+.decision-making-week3-13Box2 textarea {
+    width: 96%;
+    padding: 5px 2%;
+    border: 1px solid #000;
+    background: transparent;
+    height: 60px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    margin: auto;
+    z-index: 999999;
+    float: left;
+}
+.decision-making-week3-13Box2 textarea:focus {border-radius:0px;box-shadow: 0px 0px 0px 0px;border: 1px solid #000;}
+.decision-making-week3-13Block1 { width: 100%; float:left; padding: 0px 0px 0px 0px; margin: 0px; position: relative;}
+.decision-making-week3-13Block1::after  {
+    width: 8px;
+    height: 8px;
+    background: #000;
+    border-radius: 50%;
+    content: "";
+    position: absolute;
+    left: 7px;
+    top: 8px;
+}
+
+.compassion-worksheet .right-blog {
+    width: 50%;
+    float: right;
+}
+
+      .compassion-worksheet  .right-blog label{
+            background: #e1eaf1;
+            width: 100%;
+            float: left;
+            padding: 9px 0;
+            font-size: 15px;
+            font-family: inter;
+            font-weight: 500;
+        }
+
+        .compassion-worksheet .right-blog input {
+    width: 94%;
+    float: left;
+    height: 30px;
+    outline: none;
+    border: 0px;
+    border-bottom: 1px solid #222;
+}     
+        
+
+        .compassion-worksheet .compassion-wroksheet{
+            width: 86%;
+            margin: 20px auto;
+            padding: 3%;
+            max-width: 800px;
+            position: relative;
+            background:#e2ebf2;
+            border: 1px solid #5b3118;
+            display: flow-root;
+        }
+
+        .compassion-wroksheet h1{
+            width: 100%;
+            text-align: center;
+            float: left;
+            font-family: inter;
+            font-size: 35px;
+        }
+        .compassion-wroksheet h1 span{
+            width: 100%;
+            float: left;
+            font-weight: 400;
+            font-size: 23px;
+        }
+
+        .compassion-worksheet .inside-form {
+    width: 96%;
+    float: left;
+    position: relative;
+    background: #fff;
+    text-align: center;
+    padding: 5% 2%;
+}
+
+        .compassion-worksheet .inside-form img {
+    bottom: -2px;
+    right: 8px;
+    position: absolute;
+    width: 49%;
+}
+.compassion-worksheet h1 { display: none;}
+
+        .compassion-worksheet .inside-form h3{
+            font-family: inter;
+            font-weight: 700;
+            font-size: 25px;
+            margin:0px;
+            padding:0px;
+            text-align: center;
+        }
+
+        .compassion-worksheet .inside-form p {
+    font-family: inter;
+    font-size: 15px;
+    margin: 8px auto 20px;
+    padding: 0px;
+    font-weight: 400;
+    text-align: center;
+    display: table;
+}
+.compassion-worksheet .inside-form .left-box .box  textarea {
+    padding: 0px;
+    border-radius: 0px;
+    width: 96%;
+    margin-top: 0px;
+    padding: 0px 2%;
+}
+
+
+        .compassion-worksheet .left-box{
+            width: 45%;
+            float:left;
+        }
+
+        .compassion-worksheet .box.one{
+            width: 100%;
+            float:left;
+            background: #e1eaf1;
+            margin-bottom:35px;        
+        }
+
+        .compassion-worksheet .box.one textarea{
+            background:#e1eaf1;
+        }
+
+        .compassion-worksheet .box.two textarea{
+            background:#c8dbec;
+        }
+
+        .compassion-worksheet .box.three textarea{
+            background:#a8cae6;
+        }
+ 
+        .compassion-worksheet .box.two{
+            width: 100%;
+            float:left;
+            margin-bottom:15px;
+            background: #c8dbec;
+            
+        }
+
+
+        .compassion-worksheet .box.three{
+            width: 100%;
+            float:left;
+            margin-bottom:15px;
+            background: #a8cae6;
+        }
+        
+       .compassion-worksheet .box h2{
+            font-family: inter;
+            font-weight: 400;
+            font-size: 18px;
+        }
+
+        .compassion-worksheet .box textarea{
+            width: 94%;
+            border: 0px;
+            resize: none;
+            height: 80px;
+            font-family: inter;
+            font-size: 15px;
+            padding: 0 3%;
+            outline: none;
+            margin-bottom: -4px;
+        }
+
+
+
+
+
+
+
+.gratitude-worksheet-other{
+            width: 86%;
+            margin: 20px auto;
+            padding: 3%;
+            max-width: 800px;
+            position: relative;
+            background: #fdf9f0;
+            display: flow-root;
+            border: 1px solid #222
+        }
+
+.gratitude-worksheet-other .header{
+            width: 100%;
+            float: left;
+            text-align: center;
+        }
+        
+       .gratitude-worksheet-other .header h1{ font-size: 37px; font-family: inter; font-weight: 500; margin:0px 0 10px 0;}
+
+.gratitude-worksheet-other .date{
+            float: left;
+            width: 100%;
+            margin-bottom: 20px;
+}
+
+.gratitude-worksheet-other .date label{ font-family: inter; font-weight: 400; font-size: 14px;}
+.gratitude-worksheet-other .date input{ border:0px; border-bottom:1px solid #222; height:30px; font-family: inter; font-weight: 400;     font-family: inter;
+        font-size: 14px;}
+
+.gratitude-worksheet-other .content-main .row label{
+            font-family: inter;
+            font-weight: 500;
+            font-size: 15px;
+            width: 100%;
+            margin-bottom:10px;
+            float:left;
+}        
+
+.gratitude-worksheet-other .content-main .row span{
+            width: 100%;
+    float: left;
+    display: flex;
+    margin-bottom:15px;
+    font-family: inter;
+    font-size: 14px;
+}
+.gratitude-worksheet-other .content-main .row span input{
+            width: 100%;
+            background: none;
+            border: 0px;
+            height:22px;
+            border-bottom: 1px solid #222 !important;
+            outline: none;
+}
+
+.Addiction-severe-week2-2 {
+    width: 100%;
+    float: left;
+    padding: 0px 0px 25px;
+}
+.Addiction-severe-week2-2Input { width: 100%; float:left; padding: 20px 0px 15px 0px;}
+.Addiction-severe-week2-2Contnt {
+    width: 78%;
+    float: left;
+    padding: 0px 0px 0px 0px;
+    margin: 0px;
+    position: relative;
+}
+.Addiction-severe-week2-2Contnt p {
+    width: 96%;
+    float: left;
+    padding: 15px 2% 8px;
+    margin: 0px;
+    font-size: 13px;
+    border: 1px solid #000;
+    background: #fff;
+}
+.Addiction-severe-week2-2Contnt input {
+    width: 83%;
+    float: left;
+    padding: 0px 10px 0px 10px;
+    position: absolute;
+    top: -15px;
+    left: 0px;
+    right: 0px;
+    height: 25px;
+    background: #cfe2f3;
+    border: 2px solid #999999;
+    margin: auto;
+}
+.Addiction-severe-week2-2Contnt input:focus {border: 2px solid #999999; box-shadow: 0px 0px 0px 0px;}
+.Addiction-severe-week2-2Img {
+    width: 18%;
+    float: left;
+    padding: 0px 2%;
+}
+.Addiction-severe-week2-2Img img { width: 100%;}
+.bannerMiddil123 {
+    width: 96%;
+    display: table;
+    background: #edf7ff;
+    padding: 10px 2%;
+    margin: 0px;
+}
+.decision-making-week3-5Top { width: 100%; float: left; padding: 0px 0px 0px 0px;}
+.bannerMiddil123.decision-making-week3-5 { background: #fff;}
+.decision-making-week3-5Heading { width: 100%; float:left; padding: 0px 0px 0px 0px;}
+.decision-making-week3-5Heading h2 { width: 100%; float:left; padding: 0px 0px 15px 0px; margin: 0px; font-size: 18px; text-align: center; font-weight: 800;}
+.decision-making-week3-5Heading p { width: 100%; float:left; padding: 0px 0px 15px 0px; font-size: 13px; margin: 0px;}
+.decision-making-week3-5Content { width: 100%; float:left; padding: 0px 0px 0px 0px;}
+.decision-making-week3-5Content table { width: 100%; float:left; padding: 0px 0px 0px 0px; margin: 0px 0px 15px; border: 1px solid #000; border-top: 0px;}
+.decision-making-week3-5Content table thead { width: 100%; padding:0px 0px 0px 0px;} 
+.decision-making-week3-5Content table thead tr { width: 100%; padding: 0px 0px 0px 0px;}
+.decision-making-week3-5Content table thead tr th  {
+    width: 50%;
+    padding: 4px 5px 4px 5px;
+    border: 1px solid #000;
+    background: #f1f1f1;
+    font-size: 13px;
+    height: 45px;
+}
+.decision-making-week3-5Content table tbody { width: 100%; padding:0px 0px 0px 0px;} 
+.decision-making-week3-5Content table tbody tr { width: 100%; padding: 0px 0px 0px 0px;}
+.decision-making-week3-5Content table tbody tr td { width: 50%; padding: 0px 5px 0px 5px; border: 0px;font-size: 13px; position: relative; border: 1px solid #000; border-top: 0px; border-bottom: 0px;}
+.decision-making-week3-5Content table tbody tr td input {
+    width: 91%;
+    padding: 0px 2px 0px 2px;
+    margin: 0px 0px 0px 0px;
+    background: transparent;
+    border-bottom: 0px solid #000 !important;
+    height: 25px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+}
+.decision-making-week3-5Content table tbody tr td input:focus{border-radius: 0px;box-shadow: 0px 0px 0px 0px;border-bottom: 0px solid #000 !important;}
+.decision-making-week3-5Content table tbody tr td  label { width: auto; float:left; padding: 0px 0px 0px 0px; position: absolute; top: 3px; left: 4px;}
+
+.decision-making-week3-7 { background: #fff;}
+.decision-making-week3-7Top { width: 100%; float:left; padding: 0px 0px 0px 0px; position:relative; z-index: 9999;}
+.decision-making-week3-7Top::before{
+    width: 100%;
+    float: left;
+    content: "";
+    padding: 0px 0px 0px 0px;
+    background: url(/assets/imgs/THETRIGGERTREE.png) no-repeat 0px bottom;
+    background-size: 239%;
+    position: absolute;
+    bottom: 0px;
+    height: 100%;
+    left: 0px;
+    right: 0px;
+    z-index: -1;
+}
+.decision-making-week3-7Heading { width: 100%; float:left; padding: 30px 0px 10px 0px; text-align:center;}
+.decision-making-week3-7Heading h2 { width: 100%; float:left; padding: 0px 0px 0px 0px; margin: 0px; font-size: 18px; font-weight: 800;}
+.decision-making-week3-7Section { width: 100%; float:left; padding: 0px 0px 0px 0px; margin: 0px;}
+.decision-making-week3-7Block { width: 100%; float:left; padding: 0px 0px 0px 0px; border: 1px solid #000; box-shadow: 0px 0px 0px 0px #000; border-radius: 8px; margin-bottom: 10px;    background: rgb(255 255 255 / 76%);}
+.decision-making-week3-7Block label { width: 100%; float:left; padding: 8px 0px 0px 0px; margin: 0px; text-align: center; font-size: 13px; 	}
+.decision-making-week3-7Block textarea {
+    width: 96%;
+    padding: 5px 2%;
+    margin: 0px;
+    background: transparent;
+    border: 0px solid #000;
+    height: 60px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    margin: auto;
+    z-index: 999999;
+    float: left;
+}
+.decision-making-week3-7Block textarea:focus {border-radius:0px;box-shadow: 0px 0px 0px 0px;border: 0px solid #000;}
+.decision-making-week3-9 { background: #fff;}
+.decision-making-week3-9Top { width: 100%; float:left; padding: 0px 0px 0px;}
+.decision-making-week3-9Name { width: 100%; float:left; padding: 0px 0px 0px 0px; margin: 0px;}
+.decision-making-week3-9Name2 { width:58%; float:left; padding: 0px 0px 0px 0px;}
+.decision-making-week3-9Name2:nth-child(2) { width:40%; margin-left: 2%;}
+.decision-making-week3-9Name2 label { width: auto; float:left; padding: 0px; margin: 0px; font-size: 13px;}
+.decision-making-week3-9Name2 input  {
+    width: 76%;
+    padding: 0px 2px 0px 2px;
+    margin: 0px 0px 0px 0px;
+    background: transparent;
+    border-bottom: 1px solid #000 !important;
+    height: 18px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+}
+.decision-making-week3-9Name2 input:focus{border-radius: 0px;box-shadow: 0px 0px 0px 0px;border-bottom: 1px solid #000 !important;}
+.decision-making-week3-9Heading { width: 100%; float:left; padding: 20px 0px 10px 0px; margin: 0px;}
+.decision-making-week3-9Heading h2 { width: 100%; float:left; padding: 0px 0px 0px 0px; margin: 0px; font-size: 18px; text-align: center; font-weight: 800;}
+.decision-making-week3-9Heading p { width: 100%; float:left; padding: 5px 0px 0px 0px; margin: 0px; font-size: 13px; text-align: center; font-weight:400; font-style: italic;}
+.decision-making-week3-9Table { width: 100%; float:left; padding: 0px 0px 0px 0px;}
+.decision-making-week3-9Table table { width: 100%; float:left; padding: 0px 0px 0px 0px;}
+.decision-making-week3-9Table table tbody { width: 100%;  padding: 0px 0px 0px 0px;}
+.decision-making-week3-9Table table tbody tr { width: 100%;  padding: 0px 0px 0px 0px;}
+.decision-making-week3-9Table table tbody tr td {
+    width: 33%;
+    padding: 2px;
+    border: 0px;
+}
+.decision-making-week3-9Table table tbody tr td textarea {
+    width: 96%;
+    padding: 5px 2%;
+    margin: 0px;
+    background: transparent;
+    border: 1px solid #000;
+    height: 100px !important;
+    border-radius: 6px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    margin: auto;
+    z-index: 999999;
+    float: left;
+}
+.decision-making-week3-9Table table tbody tr td textarea:focus {border-radius:6px;box-shadow: 0px 0px 0px 0px;border: 1px solid #000;}
+.decision-making-week3-9Table table tbody tr td img { width: 100%;}
+.decision-making-week3-9Table table tbody tr td textarea.form-control1 { margin-bottom: 4px;}
+.decision-making-week3-10 { background: #fff;}
+.decision-making-week3-10Top { width: 100%; float:left; padding: 0px 0px 0px;}
+.decision-making-week3-10Heading { width: 100%; float:left; padding: 20px 0px 10px 0px; margin: 0px;}
+.decision-making-week3-10Heading h2 { width: 100%; float:left; padding: 0px 0px 0px 0px; margin: 0px; font-size: 18px; text-align: center; font-weight: 800;}
+.decision-making-week3-10Heading p { width: 100%; float:left; padding: 5px 0px 0px 0px; margin: 0px; font-size: 13px; text-align: center; font-weight:400; font-style: italic;}
+.decision-making-week3-10Table { width: 100%; float:left; padding: 0px 0px 0px 0px;}
+.decision-making-week3-10Table table { width: 100%; float:left; padding: 0px 0px 0px 0px; margin: 0px;} 
+.decision-making-week3-10Table table thead { width: 100%;padding: 0px 0px 0px 0px;}
+.decision-making-week3-10Table table thead tr { width: 100%;padding: 0px 0px 0px 0px;}
+.decision-making-week3-10Table table thead tr th { width: 50%; padding: 2px; border: 0px; font-size: 13px; text-align: center; border: 0px;    background: transparent;}
+.decision-making-week3-10Table table tbody { width: 100%; padding: 0px 0px 0px 0px;}
+.decision-making-week3-10Table table tbody tr { width: 100%; padding: 0px 0px 0px 0px;}
+.decision-making-week3-10Table table tbody tr td { width: 50%; padding: 2px; border: 0px; font-size: 13px; border: 0px;} 
+.decision-making-week3-10Table table tbody tr td textarea  {
+    width: 96%;
+    padding: 5px 2%;
+    margin: 0px;
+    background: transparent;
+    border: 1px solid #000;
+    height: 120px !important;
+    border-radius: 6px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    margin: auto;
+    z-index: 999999;
+    float: left;
+}
+.decision-making-week3-10Table table tbody tr td textarea:focus {border-radius:6px;box-shadow: 0px 0px 0px 0px;border: 1px solid #000;}
+.decision-making-week3-12 { background: #fff;}
+.decision-making-week3-12Top { width: 100%; float:left; padding:0px 0px 0px;}
+.decision-making-week3-12Heading { width: 100%; float:left; padding: 30px 0px 15px 0px;}
+.decision-making-week3-12Heading h2 { width: 100%; float:left; padding: 0px 0px 0px 0px; margin: 0px; font-size: 18px; font-weight: 800; text-align: center;} 
+.decision-making-week3-12Input { width: 100%; float:left; padding: 0px 0px 0px 0px;}
+.decision-making-week3-12Input label { width:auto; float:left; padding: 0px 0px 0px 0px; font-size: 15px;}
+.decision-making-week3-12Input input  {
+    width:100%;
+    padding: 0px 2px 0px 2px;
+    margin: 0px 0px 0px 0px;
+    background: transparent;
+    border-bottom: 1px solid #000 !important;
+    height: 18px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+}
+.decision-making-week3-12Input input:focus{border-radius: 0px;box-shadow: 0px 0px 0px 0px;border-bottom: 1px solid #000 !important;}
+.decision-making-week3-12Table { width: 100%; float:left; padding: 20px 0px 0px 0px;}
+.decision-making-week3-12Table table { width: 100%; float:left; padding: 0px 0px 0px 0px; margin: 0px;}
+.decision-making-week3-12Table table tbody { width: 100%;  padding: 0px 0px 0px 0px;}
+.decision-making-week3-12Table table tbody tr { width: 100%;  padding: 0px 0px 0px 0px;}
+.decision-making-week3-12Table table tbody tr td {
+    width: 50%;
+    padding: 5px;
+    border-right: 1px solid #000 !important;
+    border-bottom: 1px solid #000 !important;
+    min-height: 200px;
+    border: 0px;
+}
+.decision-making-week3-12Table table tbody tr td:last-child { border-right: 0px !important;}
+.decision-making-week3-12Table table tbody tr:nth-child(2) td { border-bottom: 0px !important;}
+.decision-making-week3-12Table table tbody tr td label { font-size: 14px; text-align: center; width: 100%; float:left;}
+.decision-making-week3-12Table table tbody tr td textarea {
+    width: 100%;
+    padding:5px 5px 5px 5px;
+    margin: 0px;
+    background: transparent;
+    border:0px solid #000;
+    height:120px !important;
+    border-radius:0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    margin: auto;
+    z-index: 999999;
+    float: left;
+}
+.decision-making-week3-12Table table tbody tr td textarea:focus {border-radius:0px;box-shadow: 0px 0px 0px 0px;border: 0px solid #000;}
+.decision-making-week3-15Top { width: 100%; float:left; padding: 0px 0px 0px 0px;}
+.decision-making-week3-15Heading{ width: 100%; float:left; padding: 20px 0px 10px 0px; text-align: center;}
+.decision-making-week3-15Heading img {
+    width: 250px !important;
+}
+.decision-making-week3-15Block { width: 100%; float:left; padding: 20px 0px 0px 0px;}
+.decision-making-week3-15Block label {
+    width: 94%;
+    float: left;
+    padding: 10px 3%;
+    margin: 0px;
+    font-size: 13px;
+    background: #f1e3d5;
+}
+.decision-making-week3-15Block input {
+    width: 96%;
+    padding: 0px 2%;
+    margin: 0px 0px 0px 0px;
+    background: transparent;
+    border-bottom: 1px solid #000 !important;
+    height: 26px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+}
+.decision-making-week3-15Block input:focus {border-radius:0px;box-shadow: 0px 0px 0px 0px;border-bottom: 1px solid #000;}
+.letter-myself.five-miniute-journal .header input  {
+    border: 0px;
+    border-bottom: 1px solid #222 !important;
+    height: 20px !important;
+    width: 70% !important;
+}
+.letter-myself.five-miniute-journal .header .date {
+    float: right;
+    margin: 10px 0 0 0;
+    width: 78%;
+}
+.WorkSheet-05Section { width: 100%; float:left; padding: 0px 0px 15px 0px; position: relative;}
+.WorkSheet-05Section label { width:auto; float:left; padding: 0px 5px 0px 5px; text-align: center;}
+.WorkSheet-05Section label input { width: auto; display: table; margin:auto;}
+.WorkSheet-05Section label p { width: auto; float:left; margin: 0px 0px 0px 0px; padding: 0px; font-size: 13px;}
+.WorkSheet-05Block { width: 100%; float:left; padding: 0px 0px 0px 0px;}
+.WorkSheet-05 {
+    width: 96%;
+    float: left;
+    padding: 8px 2%;
+    background: #f9fefa;
+    margin-bottom: 15px;
+    border-radius: 6px;
+    margin-bottom: 15px;
+}
+.WorkSheet-05:nth-child(2n+0){ background: #f4f4fe;}
+.WorkSheet-05 label { width: 100%; float:left; padding: 0px 0px 0px 0px; margin: 0px;}
+.WorkSheet-05 input {
+    width: 96%;
+    padding: 0px 3%;
+    margin: 0px 0px 0px 0px;
+    background: transparent;
+    border-bottom: 0px solid #cba495 !important;
+    height: 32px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+}
+.WorkSheet-05 input:focus{border-radius: 0px;box-shadow: 0px 0px 0px 0px;border-bottom: 0px solid #000 !important;}
+.WorkSheet-05Date { width:110px; float:left; padding: 0px 0px 0px 0px;position: absolute;top: 0px;right: 0px;}
+.WorkSheet-05Date label { width:auto; float:left; padding:0px 0px 0px 0px; font-size: 13PX;} 
+.WorkSheet-05Date input {
+    width: 70%;
+    padding: 0px 2px 0px 2px;
+    margin: 0px 0px 0px 0px;
+    background: transparent;
+    border-bottom: 1px solid #000 !important;
+    height: 23px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    z-index: 999999;
+    float: right;
+    border: 0px;
+}
+.WorkSheet-05Date input:focus{border-radius: 0px;box-shadow: 0px 0px 0px 0px;border-bottom: 1px solid #000 !important;}
+.xasass .WorkSheet-06Heading img { float:none;}
+.notyify .container .bannerMiddil .ButterfliesImg .WorkSheet-06 .WorkSheet-06Heading img {
+    width: 73%;
+    margin-bottom: 0px;
+    float: none;
+}
+.notyify .WorkSheet-06CheckBox input[type="checkbox"] {
+    margin: 0px 0 0 0;
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin-right: 10px;
+}	
+.notyify .WorkSheet-06CheckBox label {
+    font-weight: 400;
+    font-size: 15px;
+}
+.notyify .WorkSheet-06CheckBox {
+    width: 100%;
+    float: left;
+    padding: 8px 0px 8px 0px;
+}
+.xasass .WorkSheet-05Date {
+    width: 43%;
+    float: left;
+    padding: 0px 0px 0px 0px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+.HEALTHY-BOUNDARIES .container h1 {
+    text-align: center;
+}
+.nonono .Self-CareBingo table tbody tr td {
+  width: 20% !important;
+    padding: 10px 4px 20px 4px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 9px;
+    border: 1px solid #000;
+    height: 70px;
+    float: none;
+    word-break: break-all;
+    vertical-align: middle;
+    POSITION: RELATIVE;
+    text-transform: capitalize;
+}
+.nonono .Self-CareBingo table tbody tr td.free {
+    font-size: 17px !important;
+}
+.nonono .Self-CareBingo table tbody tr td input {
+        width: 15px;
+    display: table;
+    margin: auto;
+	visibility: hidden;
+    POSITION: absolute;
+    bottom: 6px;
+    left: 0;
+    right: 0;
+}
+.Day-of-the-week h1 { display: none;}
+.Day-of-the-week .checklist-container h1 { display:block;}
+.Day-of-the-week {
+    width: 100%;
+    float: left;
+    padding: 15px 0px;
+}
+.container .poem-container p {
+    font-family: inter;
+    font-size: 11px;
+    line-height: 15px;
+    width: 94%;
+    margin: 14px auto;
+}
+.poem-container header h1 { text-align: center;}
+.container .Emotional.Self-Validation.Journal .bannerMiddil123 {
+    width: 100%;
+}
+.container .Mental.Health.Word.Searc .bannerMiddil123 {
+    width: 100%;
+}
+.container .Daily.Self-care .bannerMiddil123 {
+    width: 100%;
+}
+.Daily.Self-care .SelfCare04Physicalinput .form-check-label input {
+    margin-right: 5px;
+    width: auto;
+    float: left;
+    margin-top: 0px;
+}
+.Self-CareChecklist .bannerMiddil123 {
+    width: 100%;
+}
+.Coping-Skill .bannerMiddil123 {
+    width: 100%;
+}
+.Healthy-Practices table tbody tr td {
+    vertical-align: middle;
+}
+.SMART-GOALS .DAILY-TIMEBOX .header {
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 0px 2%;
+    width: 95%;
+}
+.SMART-GOALS .DAILY-TIMEBOX h1 { display: none;}
+.SMART-GOALS .DAILY-TIMEBOX .container .header h1 {display:block;}
+.DAILY-TIMEBOX .schedule {
+    width: 90%;
+    padding: 5%;
+}
+.DAILY-TIMEBOX .top-tasks, .DAILY-TIMEBOX schedule, .DAILY-TIMEBOX .secondary-tasks {
+    width: 90%;
+    padding: 0 5%;
+}
+.DAILY-TIMEBOX .notes {
+    margin-top: 20px;
+    width: 90%;
+    padding: 0 5%;
+}
+.DAILY-TIMEBOX .brain-dump {
+    margin-top: 20px;
+    width: 90%;
+}
+.DAILY-TIMEBOX .top-tasks ul li input[type="text"], .DAILY-TIMEBOX .schedule ul li input[type="text"], .DAILY-TIMEBOX .secondary-tasks ul li input[type="text"] {
+    width: 83%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    outline: none;
+}
+.DAILY-TIMEBOX .top-tasks ul li input[type="text"] {width: 88%;}
+.SMART-GOALS .DAILY-TIMEBOX .secondary-tasks ul li input[type="text"] {width: 88%;}
+.DAILY-TIMEBOX .notes textarea {
+    width: 96%;
+    height: 100px;
+    padding: 10px 2%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.What-I-Do-Before-Bed header h1 {
+    display: block;
+    text-align: center;
+}
+
+
+
+.worksheet-question-situation .worksheet {
+            width: 92%;
+            padding: 4%;
+           }
+
+        .worksheet-question-situation h1 {
+            text-align: center;
+            color: #fff;
+            margin-bottom: 20px;
+        }
+
+        .worksheet-question-situation .worksheet-title {
+            background-color: #48759f;
+            padding: 10px 0;
+            color: #fff;
+            text-align: center;
+            border-radius: 0;
+            float: left;
+            width: 100%;
+        }
+
+        .worksheet-question-situation .worksheet-title img{
+            width: 100%;
+        }
+
+        .worksheet-question-situation .question {
+    margin-bottom: 20px;
+    width: 94%;
+    margin: auto;
+}
+
+        .worksheet-question-situation .question label {
+            display: block;
+            margin-bottom: 10px;
+            font-weight: 400;
+            font-family: inter;
+            width: 100%;
+            float:left;
+            font-size: 14px;
+            color:#fff;
+        }
+
+        .worksheet-question-situation .question textarea {
+    width: 96%;
+    height: 55px;
+    padding: 10px 2%;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+}
+
+
+        .worksheet-question-situation .footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 12px;
+            color: #555;
+        }
+.worksheet-question-situation {
+    width: 100%;
+    float: left;
+    background: #48759f;
+}
+.decision-making-week3-211 .decision-making-week3-2Box {
+    width: 43.2%;
+    float: left;
+    padding: 10px;
+    background: #fff;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    margin-right: 2%;
+    min-height: 133px;
+}
+.decision-making-week3-211 .decision-making-week3-2Box:nth-child(2n+0) {
+    margin-right: 0%;
+}
+.decision-making-week3-211 .decision-making-week3-2Box.NestTop {
+    width: 96%;
+    float: left;
+    padding: 10px 2%;
+    margin-right: 0%;
+}
+.Make.Your.Goals .container h1 {
+    display: block;
+    margin-top: 30px;
+}
+.Make.Your.Goals  .form-name ul li {
+    list-style: none;
+    margin-right: 10px;
+    flex: 0 0 115px;
+}
+.self-compassion .header h1 {    width: 100%;}
+
+
+
+
+
+
+
+
+
+.IDENTIFY-FOG2341 .container {
+            background-color: #fff4ed;
+    text-align: center;
+    padding: 10px;
+    width: 92%;
+    max-width: 800px;
+    
+        }
+
+       .IDENTIFY-FOG2341 .title {
+            font-size: 32px;
+            margin-bottom: 10px;
+            color: #a35227;
+            position: relative;
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+        }
+
+       .IDENTIFY-FOG2341 .title::before {
+            content: '';
+            background: url('https://upload.wikimedia.org/wikipedia/commons/a/a5/Star.png') no-repeat center;
+            width: 30px;
+            height: 30px;
+            position: absolute;
+            top: -10px;
+            left: -10px;
+        }
+       .IDENTIFY-FOG2341 .frog-image {
+            width: 100%;
+            margin: 5px 0;
+        }
+       .IDENTIFY-FOG2341 .IDENTIFY-FOG2341 .steps {
+            text-align: left;
+            margin-top: 20px;
+            color: #866255;
+        }
+        .IDENTIFY-FOG2341 .steps h2 {
+            font-size: 24px;
+            margin: 10px 0;
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+            text-align: left;
+            color: #866255;
+        }
+        .IDENTIFY-FOG2341 .steps p {
+            font-size: 16px;
+            margin: 10px 0;
+            padding-left: 20px;
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+            text-align: left;
+            color: #866255;
+        }
+.IDENTIFY-FOG2341 h1 { display: none;}
+.IDENTIFY-FOG2341 .container {
+    padding: 0px;
+    width: 100%;
+    float: left;
+}
+.IDENTIFY-FOG2341 .steps {
+    width: 94%;
+    float: left;
+    padding: 0px 3%;
+}
+
+
+
+
+
+.Self-Care-Action.Self-Care-Action23451 .container {
+            width: 94%;
+    padding: 3%;
+   
+    max-width: 800px;
+    margin: 0 auto;
+    display: inherit     }
+            .grid{
+                width: 100%;
+                float:left;
+
+            }
+       .Self-Care-Action.Self-Care-Action23451 .header {
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    width: 100%;
+    float: left;
+}
+
+       .Self-Care-Action.Self-Care-Action23451 .header h1 {
+    font-size: 36px;
+    margin: 0;
+    text-shadow: 2px 2px 0px #FFD700;
+    color: #222;
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+       .Self-Care-Action.Self-Care-Action23451 .header .details {
+            margin-top: 10px;
+            display: inherit;
+            width: 100%;
+            float:left;
+        }
+
+       .Self-Care-Action.Self-Care-Action23451 .header .details span {
+            font-size: 16px;
+            width: 100%;
+            float: left;
+        }
+
+       .Self-Care-Action.Self-Care-Action23451 .header .details span label{
+            text-align: left;
+            float: left;
+            font-weight: 600;
+            font-size: 15px;
+            width: 60px;
+        }
+
+       .Self-Care-Action.Self-Care-Action23451 .grid textarea {
+            background-color: #fff;
+    padding: 10px;
+    border: 2px solid #000;
+    border-radius: 5px;
+    height: 200px;
+    width: 90%;
+    font-size: 14px;
+    font-family: arial;
+    font-weight: 500;
+
+        }
+
+       .Self-Care-Action.Self-Care-Action23451 .grid .box h3 {
+            margin: 0;
+            margin-bottom: 10px;
+            font-size: 20px;
+        }
+
+       .Self-Care-Action.Self-Care-Action23451 .header input{
+            border: 0px;
+            border-bottom:1px solid #000;
+            background:none;
+            outline:none;
+
+            
+       }
+.Self-Care-Action.Self-Care-Action23451 .grid {
+    width: 100%;
+    float: left;
+    display: block;
+}
+.Self-Care-Action.Self-Care-Action23451 .box {
+    width: 100%;
+    margin: 0%;
+    float: left;
+    height: auto;
+    border: 0px;
+}
+.self-esteem-worksheets-for-teens .row.count input[type="text"] {
+    border: 0px;
+    padding: 5px;
+    height: 22px;
+    outline: none;
+    width: 79px !important;
+}
+
+.self-esteem-worksheets-for-teens .row.count label { width: 100% !important;}
+.self-esteem-worksheets-for-teens .self-esteem .row {
+    width: 94%;
+    float: left;
+    margin: 0 0% 15px 0%;
+}	
+.self-esteem-worksheets-for-teens .self-esteem .row label { width: auto;}
+.self-esteem-worksheets-for-teens .self-esteem .row input[type="text"] {
+    border: 0px;
+    padding: 0px 2%;
+    height: 22px;
+    outline: none;
+    width: 80%;
+}
+.self-esteem-worksheets-for-teens .self-esteem .row input[type="date"] {
+    border: 1px solid #000;
+    padding: 0px 2%;
+    height: 22px;
+    outline: none;
+    width: 120px;
+    float: left;
+    margin-left: 6%;
+    margin-top: -3px;
+}
+.SelfEsteemWorksheetTeens {
+    width: 100%;
+    float: left;
+    padding: 7px 0px 7px 0px;
+    background: #e0e5f0;
+    margin-bottom: 6px;
+}
+.self-esteem-worksheets-for-teens .self-esteem .row.count .SelfEsteemWorksheetTeens input[type="text"] {
+    border: 0px;
+    padding: 0px 2%;
+    height: 22px;
+    outline: none;
+    width: 90% !important;
+}
+.SelfEsteemWorksheetTeens input {    background: transparent;}
+.container .decision-making .bannerMiddil123.bannerMiddil1234 {
+    padding: 0px;
+    width: 100%;
+    padding: 0px !important;
+}
+.decision-making .bannerMiddil123.bannerMiddil1234 .bannerMiddil .decision-making-pdf-01 .MyScore1 tbody { float: none;}
+.decision-making .bannerMiddil123.bannerMiddil1234 .bannerMiddil .decision-making-pdf-01 .MyScore1 tbody tr { float: none;}
+.decision-making .bannerMiddil123.bannerMiddil1234 .bannerMiddil .decision-making-pdf-01 .MyScore1 tbody tr td { float: none;}
+.decision-making .bannerMiddil123.bannerMiddil1234 .bannerMiddil .decision-making-pdf-01 .MyScore1 thead { float: none;}
+.decision-making .bannerMiddil123.bannerMiddil1234 .bannerMiddil .decision-making-pdf-01 .MyScore1 thead tr { float: none;}
+.decision-making .bannerMiddil123.bannerMiddil1234 .bannerMiddil .decision-making-pdf-01 .MyScore1 thead tr th{ float: none;}
+.container .decision-making-0012 .bannerMiddil123.bannerMiddil1234 {
+    padding: 0px;
+    width: 100%;
+}
+.decision-making-0012 .decision-making-08Block textarea {
+    width: 95%;
+    padding: 25px 2%;
+    margin: 0px;
+    background: transparent;
+    border: 1px solid #000;
+    height: 100px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    margin: auto;
+    z-index: 999999;
+    float: left;
+}
+.decision-making-0012 .decision-making-08Bottom textarea {
+    width: 95%;
+    padding: 5px 2%;
+    margin: 0px;
+    background: transparent;
+    border: 1px solid #000;
+    height: 100px !important;
+    border-radius: 0px;
+    resize: none;
+    box-shadow: 0px 0px 0px 0px;
+    margin: auto;
+    z-index: 999999;
+    float: left;
+}
+.container .decision-making-0013 .bannerMiddil123.bannerMiddil1234 {
+    padding: 0px;
+    width: 100%;
+}
+.my-morning-routine .meditation-Building-skills-01 table thead tr th:nth-child(2) {
+    width:auto;
+}
+.my-morning-routine h1 { display: none;}
+.SELF.CARE.CHECKLIST .SelfCare07SectionTableLeft input[type="checkbox"] {
+    margin: 7px 0 0 0;
+    width: auto;
+    height: auto;
+}
+.container .SELF.CARE.CHECKLIST .bannerMiddil123.bannerMiddil1234 {
+    padding: 0px;
+    width: 100%;
+}
+.container .Be-MindfulNow .bannerMiddil123.bannerMiddil1234 {
+    padding: 0px;
+    width: 100%;
+}
+.Stressed-out .stressed-out-item {
+    width: 90%;
+    margin-bottom: 20px;
+    float: left;
+    border: 1px solid #222;
+    border-radius: 10px;
+    padding: 10px 5%;
+}
+.ABCD-METHOD .container h1 { text-align: center;}
+.THE-RULE .row {
+    width: 96%;
+    float: left;
+    margin: 0 0% 15px 0%;
+    padding: 0px 2%;
+}
+.THE-RULE .column {
+    width: 96%;
+    margin: 0 0 20px 0;
+    padding: 10px 2%;
+    float: left;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.THE-RULE .row textarea {
+    background: #e1e6f1;
+    resize: none;
+    border: 0px;
+    padding: 10px 2%;
+    height: 50px;
+    outline: none;
+    width: 100%;
+    border-radius: 5px;
+}
+.TIME-LOG .header-info input[type="text"] {
+    height: 34px;
+}
+.TIME-LOG .container  {
+    padding: 0px;
+    width: 94%;
+    margin: 26px auto 0px;
+}
+.MORNING-BRAIN .header h1 {
+    margin: 17px 0px 0px;
+    padding: 10px 0;
+    font-size: 28px;
+    background-color: #fff;
+    color: #000;
+    font-weight: 500;
+    width: 100%;
+    text-align: center;
+}
+.DAYS-CHALLENGE h1 { text-align: center; padding: 20px 0px 0px 0px;}
+.DAYS-CHALLENGE .grid {
+    float: none;
+}
+.DAYS-CHALLENGE .start input {
+    height: 32px;
+    width: 96%;
+    font-family: inter;
+    padding: 0px 2%;
+}
+.DAYS-CHALLENGE .end input {
+    height: 32px;
+    width: 96%;
+    font-family: inter;
+    padding: 0px 2%;
+}
+.DAYS-CHALLENGE .goal input {
+    width: 94%;
+    background: none;
+    float: left;
+    border: 0px;
+    border-bottom: 1px solid #ddd;
+    height: 30px;
+    padding: 0px 3%;
+}
+.Making-Worksheet .row {
+        width: 96%;
+    float: left;
+    margin: 0 0% 15px 0%;
+    padding: 0px 2%;
+}
+.Making-Worksheet .row textarea {
+    width: 100%;
+}
+.share_time_wheelTop {
+    width: 600px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+    margin: 0px;
+}
+.share_time_wheel table tbody tr th { width: 150px;}
+.container-Emotion-weel .share_time_wheel {
+    width: 94%;
+    float: left;
+    overflow-x: auto;
+    padding: 0 3%;
+}
+.container-Emotion-weel .share_time_wheel .share_time_wheelTop table tbody tr td:nth-child(2) input {
+    width: 91%;
+}
+.container.min-rule .title::after {
+    content: "🛌💤";
+    position: absolute;
+    right: 10px;
+    font-size: 18px;
+    display: none;
+}
+.Say-This .content .column p {
+    background: url(../assets/imgs/SayThisRightIcon.png) no-repeat 2px 4px;
+    background-size: 13px;
+    padding-left: 25px;
+    width: 92%;
+    min-height: 50px;
+}
+.Say-This .title::after {
+    content: "🛌💤";
+    position: absolute;
+    right: 10px;
+    font-size: 18px;
+    display: none;
+}
+.Say-This .content .column p.not {
+    background: url(/assets/imgs/NotThatCancel.png) no-repeat 2px 4px;
+    background-size: 11px;
+    padding-left: 25px;
+    width: 92%;
+}
+.Say-This .container .content .column {
+    width: 44%;
+    float: left;
+    margin-right: 6%;
+}
+.Say-This .content {
+    width: 89%;
+    padding: 10px;
+    border: 1px solid #CCC;
+    border-radius: 5px;
+    background-color: #FFF;
+    font-size: 14px;
+    color: #333;
+    margin-top: 10px;
+    margin: 20px auto;
+    display: table;
+    background: #f1f1f1;
+}
+.container-Emotion-weel .share_time_wheel .share_time_wheelTop table tbody tr td input[type="text"] {
+    border: 0px;
+    padding: 5px;
+    height: 22px;
+    outline: none;
+    width: 91%;
+}
+.Making-Strategies .container .checkboxes ul { width: 100%; float:left; padding: 0px 0px 0px 0px;}
+.Making-Strategies .container .checkboxes ul li {
+    width: 48.9%;
+    float: left;
+    padding: 35px 0px 0px 0px;
+    text-align: center;
+    list-style: none;
+    background: #fff;
+    height: 50px;
+    font-size: 14px;
+    margin-right: 1%;
+    margin-bottom: 2%;
+    border-radius: 6px;
+    border: 1px solid #000;
+}
+.Making-Strategies .container .checkboxes ul li:nth-child(2n+0) { margin-right: 0%;} 
+.Graded-Exposure .bannerMiddil123 {
+    width: 100%;
+}
+.Graded-Exposure .adjusment-issue-02 .adjusment-issue-02Image img{
+    width: 87%;
+    margin-bottom: 0px;
+    float: right;
+}
+.Graded-Exposure .adjusment-issue-02Image .adjusmentTextbb textarea {
+    width: 100%;
+    float: left;
+    padding: 0px;
+    border-radius: 0px;
+    height: 33px !important;
+    margin: 0px;
+    min-height: 34px;
+    border: 0px;
+    border-bottom: 1px dashed #afafaf;
+}
+.adjusmentTextbb { position:absolute; bottom: 0px; left: 0px; width: 100%; float:left;}
+.Graded-Exposure .adjusment-issue-02Image {
+    position: relative;
+}
+.adjusmentTextbb.adjusmentTextarea6  {
+    width: 42.5%;
+    bottom: 68px;
+}
+.adjusmentTextbb.adjusmentTextarea5 {
+    width: 52%;
+    bottom: 29%;
+}
+.adjusmentTextbb.adjusmentTextarea4 {
+    width: 61.4%;
+    bottom: 39%;
+}
+.adjusmentTextbb.adjusmentTextarea3 {
+    width: 71%;
+    bottom: 49%;
+}
+.adjusmentTextbb.adjusmentTextarea2 {
+    width: 80%;
+    bottom: 59%;
+}
+.adjusmentTextbb.adjusmentTextarea1 {
+    width: 90%;
+    bottom: 69%;
+}
+.adjusmentTextbb.adjusmentTextarea0 {
+    width: 90%;
+    bottom: 79%;
+}

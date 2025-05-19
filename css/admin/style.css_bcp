@@ -1,0 +1,943 @@
+
+.add-symptom-master .form-group label {width:100%;float:left;}
+.add-symptom-master .form-group select {width:100%;float:left;}
+.add-symptom-master .btn-group {width:100%;float:left;margin-bottom:15px;}
+.add-symptom-master .btn-group .multiselect.dropdown-toggle.btn.btn-default{width:100%;float:left;text-align:left;position:relative;}
+.add-symptom-master .btn-group .multiselect.dropdown-toggle.btn.btn-default .caret{margin-left: 0;position: absolute;right: 12px;top: 14px;}
+.btnbtn-success123{float:right;}
+.timeDiv .input-group.date.billTimeOnTop{width:100%;float:left;padding:0px 0px 0px 0px;display:inherit;} 
+.timeDiv .input-group.date.billTimeOnTop input{width:100%;padding:6px 8px 6px 8px;border-radius:4px;}
+.timeDiv .input-group.date.billTimeOnTop .input-group-addon{position:absolute;top:0px;right: -2px;width: auto;z-index: 999;height: 34px;padding: 9px 7px 7px;}
+select.update_rating {border:1px solid #ccc;height:32px;width:80px;border-radius:4px;}
+.form-group.col-sm-12.PlanInfo123{margin-bottom:0px !important;min-height: auto !important;}
+#addSubscription .form-group{margin-bottom:15px;min-height:81px;}
+.AddDoctorHeading {width:100%;float:left;padding:15px 15px 10px 15px;}
+.AddDoctorHeading h2{width:100%;float:left;padding:0px 0px 0px 0px;margin:0px;font-size: 20px;color:#14bef0;}
+.answerList{width:100%;float:left;}
+.col-sm-8.form-group.colsm8form-group{padding:0px;} 
+.col-sm-8.form-group.colsm8form-group .col-sm-4.form-group{margin-bottom:10px !important;}
+#AddModal.AddOrganization .modal-dialog{width:70%;margin:30px auto;}
+#EditModal .modal-dialog{width:70%;margin:30px auto;}
+.qsec{padding:0px 0px 0px 0px;position:relative;width:48%;float:left;}
+.qsec textarea.form-control{height:34px;}
+.qsec .close-button{position:absolute;top:0px;right:17px;background:#009688;width:21px;height:21px;border-radius:50%;color:#fff;text-align:center;padding-top:3px;z-index:9;}
+.rowCountTop select{padding:0px 6px 0px;}
+.qsec .form-group.col-sm-6 label{width:100%;float:left;}
+.qsec .form-group.col-sm-6 .rowCountTop{width:49%;float:left;padding:0px; margin-right: 1%;} 
+.AddOrganization .form-group.col-sm-6{position:relative;}
+.qsec{padding:10px 0px 10px 0px;position:relative;border:1px solid #dadada;margin-right:2%;margin-bottom:20px;border-radius:7px;box-shadow:0px 2px 4px 0px #d6d6d6;}
+.qsec .close-button{position:absolute;top:-8px;right:-5px;background:#009688;width:21px;height:21px;border-radius:50%;color:#fff;text-align:center;padding-top:3px;}
+.AddOrganization .reset-button{width:100%;float:left;}
+.AddOrganization .form-group.col-sm-6 .help-block{position:absolute;bottom:-31px;left:15px;}
+.AddMoreAnswerText .btn-default.form-control{width:auto;float:left;padding:0px 20px 0px 20px;background-color:#009688;border-color:#009688;color:#fff;}
+.container.listing-right-wrapper.box-errors-404{width:100%;float:left;text-align:center;margin:8% 0px 0%;}
+.DivToogle .sidebar-toggle.sidebar-toggle-action-click{display:none;}
+.main-header.DivToogle .navbar.navbar-static-top .navbar-custom-menu h3{color:#fff !important;margin:16px 0px 0px !important;}
+.wrapper.wrapperNextTop{min-height:93%;position:relative;overflow:hidden;}
+.SidebarMiniqwe12 .main-footer{margin-left:0px;}
+.NewSubscription1238 .form-group111{margin-bottom:15px;min-height:inherit;width:100%;float:left;padding:0px 14px 0px 14px;}
+.NewSubscription1238 #addSubscription .form-group .help-block{margin:0px;position:absolute;bottom:-17px;}
+.NewSubscription1238 .ref-code-screen.save-block.Apply_healthGennie{width:100%;float:left;padding:5px 0px 0px 0px;}
+button#addAddress{background:#009688;color:#fff;width:auto;margin-bottom:13px;}
+.NewSubscription1238 .form-address-details.CouponBox.divForHide{width:100%;float:left;padding:8px 8px 8px 8px;background:#009688;}
+.toggleSwitch .switch{position:relative;display:inline-block;width:60px;height:34px;}
+.toggleSwitch .switch input{opacity:0;width:0;height:0;}
+.toggleSwitch .slider {position:absolute;cursor:pointer;top:0;left:0;right:0;bottom:0;background-color:#ccc;-webkit-transition:.4s;transition:.4s;margin-bottom:0px !important;}
+.toggleSwitch .slider:before{position:absolute;content:"";height:26px;width:26px;left:4px;bottom:4px;background-color:white;-webkit-transition:.4s;transition:.4s;}
+.toggleSwitch input:checked + .slider{background-color:#009688;}
+.toggleSwitch input:focus + .slider{box-shadow:0 0 1px #2196F3;}
+.toggleSwitch input:checked + .slider:before{-webkit-transform:translateX(26px);-ms-transform:translateX(26px);transform:translateX(26px);}
+.col-md-4.form-group{position:relative;}
+.AddressCol{width:100%;float:left;padding:0px 0px 0px 0px;}
+#doctorEditModal .col-md-4.form-group .closeAddress{position:absolute;top:-4px;right:15px;background:#009688;color:#fff;width:23px;text-align:center;height:23px;border-radius:30px;padding-top:4px;}
+.col-sm-12.lobipanel-parent-sortable.ui-sortable .panel.panel-bd.lobidrag.lobipanel.lobipanel-sortable .panel-body .table-responsive .table.table-bordered.table-hover tbody tr td .toggleSwitch span{margin-bottom:4px;display:block;height:23px;}
+.col-sm-12.lobipanel-parent-sortable.ui-sortable .panel.panel-bd.lobidrag.lobipanel.lobipanel-sortable .panel-body .table-responsive .table.table-bordered.table-hover tbody tr td .toggleSwitch .slider:before{position:absolute;content:"";height:15px;width:26px;left:4px;bottom:4px;background-color:white;-webkit-transition:.4s;transition:.4s;} 
+.treatment-section.manufacturerSearchDiv{position:relative;width:100%;float:left;padding:0px 0px 0px 0px;}
+.treatment-section.manufacturerSearchDiv .fa.fa-search{position:absolute;top:0px;right:0px;height:30px;width:30px;text-align:center;line-height:34px;cursor:pointer;}
+.treatment-section.manufacturerSearchDiv .suggesstion-box{width:100%;background:#fff;float:left;position:absolute;box-shadow:0 3px 3px #ddd;top:34px;z-index:999;}
+.treatment-section.manufacturerSearchDiv .suggesstion-box ul li:hover{background:#009688;color:#fff;}
+.AddressCol .col-sm-4.form-group textarea{height:104px;}
+.row.AlternateAddress .col-md-4.form-group{position:relative;}
+.viewSubscription123 span.label-default.label.label-success{text-align:left;font-weight:400;border-bottom:1px solid #fff;padding-bottom:6px;}
+.viewSubscription123 span.label-default.label.label-success i{width: auto;float: left;margin: 0px 7px 0px 0px !important;font-size: 16px;}
+.row.AlternateAddress .col-md-4.form-group .closeAddress{position:absolute;top:0px;right:17px;background:#009688;width:22px;height:22px;text-align:center;color:#fff;border-radius:50%;padding-top:3px;}
+.SelectPlan .form-control{width:100%;float:left;}
+.SelectPlan .btn-group{width:100%;max-width:100%;min-width:100%;float:left;}
+.SelectPlan .btn-group .multiselect.btn.btn-default{width:100%;max-width:100%;min-width:100%;float:left;text-align:left;}
+.SelectPlan .btn .caret{margin-left:0;position:absolute;right:10px;top:15px;}
+.SelectPlan span.multiselect-selected-text{width:100%;float:left;display:inline-block;overflow:hidden;text-overflow: ellipsis;white-space: nowrap;padding:0px 10px 0px 0px;}
+.SelectPlan .btn-group .multiselect-container.dropdown-menu li.multiselect-item.filter{background:#e6e6e6;padding:5px;}
+.SelectPlan .multiselect-container.dropdown-menu li a{display:block;padding:3px 10px;clear:both;font-weight:400;line-height:1.42857143;color:#333;white-space:nowrap;}
+.SelectPlan .multiselect-container.dropdown-menu li.active a{color:#fff;border-top:1px solid #fff;}
+.SelectPlan .btn-group .multiselect-container.dropdown-menu{width:100%;float:left;padding:0px 0px 0px 0px;margin:0px;height:280px;overflow-y:auto;}
+.SelectPlan .multiselect-container.dropdown-menu li a .checkbox, .radio{margin-top:1px;margin-bottom:1px;font-size:10px;white-space:normal;}
+.SelectPlan .btn-group .multiselect-container.dropdown-menu li a label input{opacity:.9999;}
+.SelectPlan .multiselect-container.dropdown-menu li a .checkbox input{margin-top:2px;}
+.SelectPlan .btn-group .multiselect-container.dropdown-menu li.multiselect-item.filter .btn{padding:9px 12px;}
+.SelectPlan .multiselect-container.dropdown-menu li{width:100%;float:left;}
+.SelectPlan .btn-default.active.focus, .SelectPlan .btn-default.active:focus, .SelectPlan .btn-default.active:hover, .SelectPlan .btn-default:active.focus, .SelectPlan .btn-default:active:focus, .SelectPlan .btn-default:active:hover, .SelectPlan .open>.dropdown-toggle.btn-default.focus, .SelectPlan .open>.dropdown-toggle.btn-default:focus, .SelectPlan .open>.dropdown-toggle.btn-default:hover{color:#333;background-color:#ffffff;border-color:#ccc;box-shadow:0px 0px 0px;}
+.NewSubscription1238 .form-address-details.CouponBox.divForHide input{width:100%;float:left;padding:0px 8px 0px 8px;height:35px;}
+.NewSubscription1238 .form-address-details.CouponBox.divForHide button{position:absolute;right:26px;top:16px;background:#009688;border:0px;height:29px;color:#fff;padding:0px 11px;}
+.NewSubscription1238 .coupanApplyedBox{background:#ffffff;border:1px dashed #009688;padding:0px 6px;height:40px;margin-top:16px;}
+.NewSubscription1238 .save-icon{width:100%;float:left;padding:8px 0px 5px 0px;color:#009688;font-size:13px;}
+.NewSubscription1238 .save-icon img{width:22px;height:22px;}
+.NewSubscription1238 .coupanApplyedBox .remove-icon{position:absolute;top:30px;right:21px;}
+.NewSubscription1238 .coupanApplyedBox .remove-icon a{color:#ff6100;}
+.NewSubscription1238 .save-icon .NewSubscription1238 strong.CouponAvailableMsg{position:absolute;left:14px;bottom:-10px;font-size:12px;font-weight:400;}
+.NewSubscription1238 #addSubscription .form-group{margin-bottom:15px;min-height:63px;}
+.NewSubscription1238 .form-group111 h3{padding:0px;margin:0px;width:100%;float:left;font-size:20px;}
+.uploadSection .col-md-12 {padding-left:0px;padding-right:0px;}
+.uploadSection .FileSizeClass.col-md-12{padding-left:0px;padding-right:0px;}
+.dropzone {min-height:136px !important;border:2px dashed #009688 !important;margin-bottom:25px;width:100%;float:left;height:136px !important;z-index:9999;}
+.QR-Code-to123 .btn-danger {background-color:#E5343D;border-color:#BF2D35;padding:4px 10px;height:25px !important;}
+#doctorEditModal #documentViewModel .modal-lg{width:100%;max-width:1024px;margin-top:0px;}
+.dropzone .dz-message{margin:4em 0;text-align:center;color:#009688;}
+.DocumentsSection{width:100%;float:left;text-align:left;font-size:24px;font-weight:600;text-align:left;color:#14bef0;}
+.documets-type123{padding:0px;}
+.documets-type123 .active{list-style:none;background:url(../img/icon-right.png) no-repeat 0px 0px;color:#009688;background-size:16px;background-position:2px 5px;padding-left:24px;}
+.documets-type123 li{list-style:none;background:url(../img/raund.png) no-repeat 0px 0px;color:#333;background-size:6px;background-position:6px 7px;padding-left:24px;width:auto;float:left;margin-right:3%;margin-bottom:15px;}
+.form-group.col-sm-6 label.radio-inline { width: auto;}
+.form-group.col-sm-6 label.form-check-label{width:auto;margin-right:4%;}
+.form-group.col-sm-6 label{width:100%;}
+.form-group.col-sm-6 .input-age-group.fromDateModal{width:60%;float:left;padding:0px 0px 0px 0px;}
+.form-group.col-sm-6 .input-age-group.fromDateModal input{width:70%;float:left;padding:0px 10px 0px 10px;}
+.form-group.col-sm-6 .input-age-group.fromDateModal select{width:28%;float:left;padding:0px 6px 0px 6px;margin-left:2%;}
+.form-group.col-sm-6 .input-group.date{width:38%;float:left;padding:0px 0px 5px 0px;margin-right:2%;}
+.userDocuments{width:100%;float:left;padding:0px 0px 0px 0px;margin:0px;}
+.userDocuments .image-block{width:15%;float:left;padding:10px 10px 10px 10px;margin-right:2%;position:relative;border:1px solid #f1f1f1f1;min-height:169px;margin-top:0%;border-radius:6px;text-align:center;margin-bottom:55px;}
+.image-block.addPrf{width:15%;float:left;padding:10px 10px 10px 10px;margin-right:2%;position:relative;border:1px solid #009688;min-height:169px;border-radius:6px;text-align:center;margin-bottom:32px;}
+.userDocuments  .image-block span.removeImage{position:absolute;right:-9px;background:#009688;top:-9px;color:#fff;width:25px;height:25px;border-radius:50%;text-align:center;padding-top:4px;left:inherit;}
+.userDocuments .image-block img{width:100%;float:left;height:150px;object-fit:cover;} 
+.userDocuments .image-block span{position:absolute;bottom:-33px;left:0px;right:0px;background:#009688;color:#fff;padding:4px 0px;}
+.CommonWidth{width:31% !important;margin-right:2.3% !important;}
+.panel.panel-bd.lobidrag.lobipanel.lobipanel-sortable .panel-body .table-responsive .table.table-bordered.table-hover tbody tr.tr-appointment td .fa.fa-video-camera {font-size:20px; color:#189ad4;}
+@-webkit-keyframes blinker{
+from{opacity:1.0;}
+to{opacity:0.0;}
+}
+.blink{text-decoration:blink;-webkit-animation-name:blinker;-webkit-animation-duration:0.6s;-webkit-animation-iteration-count:infinite;-webkit-animation-timing-function:ease-in-out;-webkit-animation-direction:alternate;}
+.checkbox-div.complete-str .checkbox-divOpd .required_star{color:red;}
+.AddDoctorSectionTop .opd-timings-slot label{width:60%;float:left;padding:6px 0px 0px 0px;margin:0px;font-size:13px;}
+#patApptModal .modal-content .lobipanel-parent-sortable.ui-sortable .lobidrag.lobipanel table{width:100%;padding:0px;}
+#patApptModal .modal-content .lobipanel-parent-sortable.ui-sortable .lobidrag.lobipanel table thead{width:100%;padding:0px;}
+#patApptModal .modal-content .lobipanel-parent-sortable.ui-sortable .lobidrag.lobipanel table thead tr{width:100%;padding:0px;}
+#patApptModal .modal-content .lobipanel-parent-sortable.ui-sortable .lobidrag.lobipanel table thead tr td{padding:6px;color:#fff;background:#009688;font-size:14px;}
+#patApptModal .modal-content .lobipanel-parent-sortable.ui-sortable .lobidrag.lobipanel table tbody{width:100%;padding:0px;}
+#patApptModal .modal-content .lobipanel-parent-sortable.ui-sortable .lobidrag.lobipanel table tbody tr{width:100%;padding:0px;}
+#patApptModal .modal-content .lobipanel-parent-sortable.ui-sortable .lobidrag.lobipanel table tbody tr td{padding:6px;color:#000;font-size:14px;border:1px solid #ccc;}
+.RemainingAppointment{color:#009688;font-size:15px;width:100%;float:left;text-align:right;padding-bottom:5px;} 
+.RemainingAppointment span{font-weight:700;color:#ff7600;}
+.showApptDtls:hover{background:#009688 !important;color:#fff !important;}
+.AddDoctorSectionTop .form-group.form-fields.typeField .radio-wrap{width:auto;float:left;margin-right:8%;}
+.AddDoctorSectionTop .form-group.form-fields.typeField .radio-wrap label{width:auto;}
+.AddDoctorSectionTop i.btn-reset-clinic{position:absolute;top:25px;right:16px;}
+.AddDoctorSectionTop .form-group span.select2.select2-container{width:100% !important;}
+.AddDoctorSectionTop i.btn-reset-clinic button{background:#14c2f2;border:0px;color:#fff;height:34px;border-radius:0px 4px 4px 0px;}
+.form-group.form-fields.typeField label{width:100%;}
+.AddDoctorSectionTop .opd_timing_tab .check-wrapper label input{margin-top:0px;margin-right:4px;margin-left:10px;}
+.AddDoctorSectionTop .select2-container .select2-selection--single{height:34px;}
+.AddDoctorSectionTop .select2-container--default .select2-selection--single .select2-selection__rendered{line-height:32px;}
+.AddDoctorSectionTop .select2-container--default .select2-selection--single .select2-selection__arrow b{margin-top:1px;}
+.AddDoctorSectionTop h3.checkbox-divOpd{width:65%;float:left;text-align:left;font-size:18px;font-weight:600;text-align:left;color:#14bef0;text-transform:uppercase;margin:0px;}
+.AddDoctorSectionTop .opd-timings-slot{width:271px;float:right;padding:0px 0px 8px 0px;}
+.AddDoctorSectionTop textarea.form-control{height:60px;}
+.AddDoctorSectionTop .col-sm-4.form-group{position:relative;min-height:59px;}
+.AddDoctorSectionTop .help-block{bottom:-20px;position:absolute;margin:0px;}
+.AddDoctorSectionTop .ConvenienceFeeTop{width:100%;float:left;padding:20px 0px 0px 0px;}
+.AddDoctorSectionTop .ConsultationType .Consultation11 .inclinic_fees .help-block .error{width:100% !important;}
+.AddDoctorSectionTop .ConsultationType .Consultation11 .oncall_fee.oncall_fee123 .help-block .error{width:100% !important;}
+.AddDoctorSectionTop p.GenderTpo{margin:0px;}
+.AddDoctorSectionTop .error{color:#f00;font-size:11px;font-weight:400;}
+.AddDoctorSectionTop .set_error{width:48%;float:left;margin-right:2%;}
+.lobipanel-parent-sortable .table-responsive .table tbody tr td.tab-status select.form-control.update_status{padding:0px 3px;font-size:13px;text-align:left;height:27px;}
+.lobipanel-parent-sortable .table-responsive .table tbody tr td.tab-status .followUpDate.input-group.date{margin-top: 5px;}
+.lobipanel-parent-sortable .table-responsive .table tbody tr td.tab-status .followUpDate.input-group.date input.followUpDateInput{padding:0px 6px 0px 6px; height:27px;}
+.lobipanel-parent-sortable .table-responsive .table tbody tr td.tab-status .followUpDate.input-group.date  span{margin-bottom:0px;display:block;left:inherit;right:0px;padding:4px 0px 0px;height:27px;border-radius:0px 4px 4px 0px;}
+.btn-group p{margin:6px 0px 0px;}
+#AddModal .modal-content {
+    width: 100%;
+    float: left;
+    padding: 0px;
+}
+form#chnagePagination {
+    margin: 0px;
+}
+#AddModal .modal-body {
+    padding: 15px 15px 0px;
+}
+#editUser .form-group.col-sm-6 .radio-wrap{min-height:34px;}
+.dataTables_length .input-group.custom-search-form{width:100%;}
+.dataTables_length .input-group.custom-search-form input { border-radius: 4px;}
+.SwitchAppointment .form-group{width:30%;float:left;padding:0px 0px 0px 0px;margin-right:2%;}
+.SwitchAppointment .form-group.appDateSection{width:68%;float:left;padding:0px 0px 0px 0px;margin:0px;}
+.appointment-popup-block.appDate{width:48%;float:left;padding:0px 0px 0px 0px;margin-right:3%;} 
+.appointment-popup-block.appDate:nth-child(2n+0){margin-right:0%;}
+.panel-headerTop123 .input-group.custom-search-form {width:100%;}
+.SwitchAppointment .reset-button {width:100%;float:left;padding: 0px 0px 0px 0px;text-align: right;}
+.appointment-popup-block.appDate label {width:100%;float:left;}
+.SwitchAppointment .select2-container .select2-selection--single {height: 34px;border: 1px solid #ccc;}
+.SwitchAppointment .dateDiv .input-group-addon{float:left;width:auto;position:absolute;top:0px;right:0px;height:34px;background:#fff;padding-top:8px;border-left:1px solid #ccc;}
+.timeDiv {width:42%;float:left;padding:0px 0px 0px 0px;margin-left:5px;}
+.timeDiv select {width:100%;float:left;padding:0px 0px 0px 0px;height:34px;border-radius:4px;border:1px solid #ccc;}
+.SwitchAppointment .dateDiv {position:relative;}
+.SwitchAppointment .dateDiv input {background:#fff;padding:0px 8px 0px 8px;}
+.SwitchAppointment .select2-container--default .select2-selection--single .select2-selection__rendered {color:#444;line-height:32px;}
+.SwitchAppointment .select2-container--default .select2-selection--single .select2-selection__arrow{height:33px;}
+.dateDiv{width:56%;float:left;padding:0px 0px 0px 0px;}
+.add-symptom-master #addSubscription .form-group .help-block{margin:0px;}
+.PlanInfo{font-size:26px;margin:10px 0px 8px;}
+#switchDoctorModal .SwitchAppointment span.select2.select2-container.select2-container--default {width:100% !important;}
+.DoctorImage p {border:1px solid #ccc;min-height: 100px;width: 102px;padding: 4px;}
+p.GenderTpo {height:33px;}
+.ConvenienceFeeTop {width:100%;float:left;padding:0px 0px 0px 0px;}
+.radio-inline.ClassTopSection {padding-left: 0px;}
+.radio-inline.ClassTopSection input{float:left;}
+.radio-inline.ClassTopSection span{float:left;width:86%;}
+#doctorEditModal .modal-lg{width:100%;max-width:1180px;}
+.panel-header.panel-headerTop123 .dataTables_length .select2-container .select2-selection--single {height: 34px;border: 1px solid #ccc;}
+.panel-header.panel-headerTop123 .dataTables_length label {width: 100%;}
+.panel-header.panel-headerTop123 .dataTables_length .select2-container {width:100% !important;}
+.panel-header.panel-headerTop123 .dataTables_length .select2-container--default .select2-selection--single .select2-selection__rendered {color: #444;line-height: 32px;}
+.panel-header.panel-headerTop123 .dataTables_length .select2-container--default .select2-selection--single .select2-selection__arrow {height: 34px;position: absolute;top: 1px;right: 1px;width: 20px;}
+.viewSubscription12{width: 80px; font-size: 13px;}
+.viewSubscription123{width:75px;}
+.viewSubscription123 a{width:27px;float:left;font-size: 17px;text-align:center;}
+.form-group select.form-control.error{color:#555;}
+.form-groupTtalNew .form-group{width:100%;float:left;}
+.form-groupTtalNew .reset-button{width:100%;float:left;}
+.form-groupTtalNew .form-group .help-block{margin:0px;}
+.HealthGennieInterestedFeesShow .form-group2{width:60%;float:left;}
+.HealthGennieInterestedFeesShow .form-group3{width:40%;float:left;}
+#doctorEditModal .modal-body .panel-body{padding:15px 0px;}
+#doctorEditModal .modal-body .panel-body form{padding: 15px 0px;}
+.panel-headerTop123 .input-group.custom-search-form .form-control{border:1px solid #aaa;border-radius:4px;}
+.statistic-box{position:absolute;right:26px;}
+.reset-button{margin-top:10px;}
+.statusDiv.tab-status{width:130px;text-align:center;}
+.statusDiv.tab-status .form-control.update_status{width:130px;text-align:center;}
+span.ConsultationType{text-transform:capitalize;color:#ef6323;font-weight: 700;}
+.ConsultationType{width: 100%;float:left;padding: 0px 0px 0px 0px;min-height: 39px;}
+.form-group label i{color: red;}
+.table-responsive.ptTbl.AppointmentptTbl{overflow-y:hidden;padding-bottom:30px;}
+.DoctorImage img{min-height:100px;}
+.error{color:#f00;font-size:12px;font-weight:400;}
+#switchDoctorModal span.select2.select2-container.select2-container--default{width:300px !important;}
+.panel-body label i{color:red;}
+.ConsultationType .Consultation11 label input{margin-right:5px;}
+.Consultation11{width: 49%;float: left;margin-right: 2%;}
+.Consultation11:nth-child(2n+0){margin-right:0%;}
+.ConsultationType .Consultation11 label{width:51% !important;float:left !important;padding:0px 5px 0px 0px !important;}
+.add-doctor-left-box.OncallStatus22 .ConsultationType .Consultation11 .oncall_fee.oncall_fee123{} 
+.Consultation11 p{width:100% !important;float:left;padding:0px 0px 0px 0px;}
+.Consultation11 p input{width:100% !important;padding:0px 5px 0px 5px !important;height:38px !important;text-align:left;}
+.panel-headerTop123 .dataTables_length .input-group.custom-search-form .input-group-btn .btn-primary {height: 34px;padding: 0px 20px;}
+.Block-Specialities .form-group .help-block{margin:0px;}
+.Block-Specialities .form-group.Box-Specialities2 textarea.form-control{height:34px !important;width:100% !important;}
+#doctorEditModal .set_error{width:48%;float:left;margin-right:2%;margin-bottom:8px;}
+#doctorEditModal .set_error.CommonWidth{width:31.3%;} 
+.Box-Specialities3 .select2-container--default .select2-selection--single{background-color:#fff;border:1px solid #aaa;border-radius:4px;height:34px;}
+.sidebar-menu > li > a{padding:2px 5px 2px 15px;}
+.sidebar-menu .treeview-menu > li > a{padding:2px 5px 2px 20px;font-size:13px;}
+.user-panel{padding:4px 10px 0px;}
+.sidebar-menu > li > a{font-size:13px;}
+.sidebar{height:100% !important;overflow: inherit;width:100%;float:left;}
+.content{padding:0 30px 100px;}
+.sidebar-mini.sidebar-collapse .sidebar-menu > li:hover > .treeview-menu{top:42px;margin-left:0;}
+li.treeview:last-child{margin-bottom:200px;}
+.Box-Specialities3 .select2-container--default .select2-selection--single .select2-selection__rendered{line-height:31px;}
+.Box-Specialities3 .select2-container--default .select2-selection--single .select2-selection__arrow{height:32px;}
+.Block-Specialities .form-group.Box-Specialities label{height:36px;}
+#addCoupon .form-group label{width:100%;}
+#addCoupon .form-group input.form-control.coupanDis{width:57%;float:left;border-radius:4px 0px 0px 4px;}
+#addCoupon .form-group select.form-control.coupanDisType{width:41%;float:left;border-left:0px;border-radius:0px 4px 4px 0px;}
+#addCoupon .form-group .help-block{display:block;margin-top:0px;margin-bottom:0px;color:#737373;width:100%;float:left;}
+.dataTables_length select{padding:6px 0px;}
+#editCoupon .form-group label{width:100%;}
+#editCoupon .form-group input.form-control.coupanDis{width:57%;float:left;border-radius:4px 0px 0px 4px;}
+#editCoupon .form-group select.form-control.coupanDisType{width:41%;float:left;margin-left:0;border-left:0px;border-radius:0px 4px 4px 0px;}
+#editCoupon .form-group .help-block{display:block;margin-top:0px;margin-bottom:0px;color:#737373;width:100%;float:left;}
+#blogEditModal .modal-dialog{width: 80%;margin: 30px auto;}
+.btn-danger{background-color:#E5343D;border-color:#BF2D35;padding:4px 10px;}
+#spacialityEditModal .modal-dialog{width:80%;}
+.btn-warning{background-color:#FFB61E;border-color:#E1A21E;padding:4px 12px;}
+.input-group-btn .btn-primary{padding:9px 12px;}
+.panel-body.panel-body_lab .form-group .radio-inline3 .radio-inline{width:auto;}
+button.btn.btn-danger.btn-sm.btn-sm123{padding:5px 10px;}
+.btn-success {background-color: #009688;border-color:#009688;padding: 4px 16px;}
+.HealthGennieOrder .HealthGennieOrder1{margin-top:10px;}
+.panel-heading.PriceDiv .priceBox.section-1 table{width:100%;padding:0px 0px 0px 0px;}
+.panel-heading.PriceDiv .priceBox.section-1 table thead{width:100%;padding:0px 0px 0px 0px;}
+.panel-heading.PriceDiv .priceBox.section-1 table thead tr{width:100%;padding:0px 0px 0px 0px;}
+.panel-heading.PriceDiv .priceBox.section-1 table thead tr th{padding:0px 8px 0px 8px;border:1px solid #ccc;}
+.panel-heading.PriceDiv .priceBox.section-1 table tbody{width:100%;padding:0px 0px 0px 0px;}
+.panel-heading.PriceDiv .priceBox.section-1 table tbody tr{width:100%; padding:0px 0px 0px 0px;}
+.panel-heading.PriceDiv .priceBox.section-1 table tbody tr td{padding:0px 8px 0px 8px;border:1px solid #ccc;}
+.panel-headerTop123 form{margin:0px;}
+.panel-headerTop123 .dataTables_length{width:100%; float:left;padding-bottom:8px;}
+.panel-headerTop123 .dataTables_length label{margin-bottom:1px;}
+.lobipanel-parent-sortable.ui-sortable table.table.table-bordered tr td .review-number span{margin-bottom:4px;display:block;float:left;}
+#editCoupon .form-group{margin-bottom:6px;min-height:87px;}
+.toggle-btn {position: relative;display:inline-block;width: 60px;height:28px;}
+.toggle-btn .toggle-btn-radio {opacity:0;width:0;height:0;}
+.button-slider {position:absolute;cursor:pointer;top:0;left:0;right:0;bottom:0;margin-bottom:0!important;background-color:#ccc;-webkit-transition:.4s;transition: .4s;}
+.panel-bodyBlogs_List .form-group2{float:left;width:100%;}
+.button-slider:before{position:absolute;content:"";height:22px;width:22px;left:9px;bottom:3px;background-color:white;-webkit-transition:.4s;transition:.4s;}
+p.radio-inline2 {padding:8px 0px 0px 0px;margin:0px;min-height: 44px;}
+p.radio-inline2 label{padding:0px;}
+.reset-button23{width:100%;float:left;}
+.toggle-btn-radio:checked + .button-slider{background-color:#2196F3;}
+.toggle-btn-radio:focus + .button-slider{box-shadow:0 0 1px #2196F3;}
+.toggle-btn-radio:checked + .button-slider:before{-webkit-transform: translateX(26px);-ms-transform: translateX(26px);transform: translateX(26px);}
+.wApt{width:100%;float:left;padding:10px 0px 0px 0px;}
+.wApt label input{margin-right:4px;}
+.treatment-section.medicineSearchDiv{position:relative;}
+.treatment-section.medicineSearchDiv .fa.fa-search{position:absolute;right:11px;top:9px;}
+.treatment-section.medicineSearchDiv .suggesstion-box{width:100%;background:#fff;float:left;position:absolute;box-shadow:0 3px 3px #ddd;top:34px;z-index:999;}
+.treatment-section.medicineSearchDiv .suggesstion-box ul{max-height:231px;}
+.panel-body.SwitchAppointment .paidApptBlock{width: 100%;float: left;padding: 10px 0px 10px 0px;border-top: 1px solid #ccc;border-bottom: 1px solid #ccc;margin-top: 6px;}
+.panel-body.SwitchAppointment .paidApptBlock .form-group{width:48%;float:left;padding:0px 0px 0px 0px;border-top:0px solid #ccc;border-bottom:0px solid #ccc;margin-top:6px;margin-bottom: 6px;}
+.table-responsive.ptTbl .table-hover tbody tr .statusDiv.tab-status{width: auto;}
+.table-responsive.ptTbl .table-hover{margin-bottom:181px;}
+.panel-body.SwitchAppointment .paidApptBlock .form-group label{width:auto;float:left;padding:6px 13px 0px 0px;}
+.panel-body.SwitchAppointment .paidApptBlock .form-group span.help-block{width:100%;float:left;padding-left:59px;margin:0px;}
+.panel-body.SwitchAppointment .paidApptBlock .form-group span.help-block label{margin:0px;padding:0px;}
+.viewSubscription123.pptHere ul li ul li span{background:transparent !important;border:0px solid #14bef0 !important;border:0px solid #14bef0 !important;text-align:left;margin:0px !important;padding:0px !important;height:auto;padding:4px 10px 4px 10px !important;line-height:17px;border-bottom:1px solid #fff !important;border-radius:4px;width:100%;}
+td.pen{color:#ff5e00 !important;}
+td.dne{color:#4b941d !important;}
+td.expp{color:red !important;}
+.modal-body.lobipanel-parent-sortable.ui-sortable .panel.panel-bd.lobidrag.lobipanel.lobipanel-sortable .panel-body .upperTr tr td .copyBtn{color:#fff;background:#009688;width:80px;border:2px solid #009688;}
+#patApptModal .modal-lg{width:80%;} 
+.viewSubscription123.pptHere button.SMsBtn{border-bottom:1px solid #fff !important;border-radius:4px;}
+.viewSubscription123.pptHere ul li ul li span i{width:auto;float:left;margin:0px 7px 0px 0px !important;font-size:16px;}
+.tr-appointment .viewSubscription123.pptHere ul li ul li a#addApptNote{float:left;background:#009688;color:#fff;height:27px;font-size:13px;width:100%;border-radius:3px;}
+.panel-body.SwitchAppointment .paidApptBlock .form-group select{width:59%;float:left;}
+.panel-body.SwitchAppointment .paidApptBlock .form-group input{width:59%;float:left;}
+.wApt label{margin-right:3%;}
+#makeOrderModal{position:fixed !important;top:0px !important;}
+.panel.panel-bd.lobidrag .panel-body table tbody tr td .form-group{margin:0px;}
+.panel.panel-bd.lobidrag .panel-body table tbody tr td strong{padding-top:5px;float:right;}
+.addMoreMedicine123{width:100%;float:left;padding:0px 0px 0px 0px;text-align:right;}
+.panel.panel-bd.lobidrag .panel-body table tbody tr td .form-group .help-block{margin:0px;}
+#makeOrderModal .panel-body{padding:0px;}
+#makeOrderModal .panel.panel-bd.lobidrag{cursor:pointer;box-shadow:0 0px 0px rgba(0,0,0,0.12), 0 0px 0px rgba(0,0,0,0.24);}
+#makeOrderModal .panel{border:0px solid transparent;-webkit-box-shadow:0 0px 0px rgba(0,0,0,.05);box-shadow:0 0px 0px rgba(0,0,0,.05);}
+#makeOrderModal .panel-heading{color:#374767;background-color:#f4f9f3;border:0px;position:relative;padding:0px;}
+p.removeRow{background:#009688;color:#fff;border-radius:50px;width:25px;height:25px;text-align:center;padding:4px 0px;margin-top:4px !important;margin: 0px;float:left;}
+.address-wrapper.AddressBox.waitingTime .address-box .coupon-wrapper label input{width:auto;float:left;}
+.address-wrapper.AddressBox.lwaitingTime .address-box .coupon-wrapper label{width:auto;float:left;padding:0px 0px 0px 0px;}
+span.address-area{width:auto;float:left;font-size:15px;font-weight:300;padding:0px 0px 0px 10px;}
+.address-box label{border:1px solid #f1f1f1;padding:8px 10px 8px;box-shadow:0px 0px 4px 0px #ccc;margin-bottom:11px;border-radius:6px;}
+#addAddressModal .col-sm-12.form-group p{width:auto;float:left;padding:0px 0px 0px 20px;}
+#addAddressModal .col-sm-12.form-group p:first-child{padding:0px 0px 0px 0px;}
+.active span.address-area strong{color:#009688;}
+.btn-add-address a{background:#009688;padding:8px 20px 8px 20px;border-radius:30px;color:#fff;float:left;margin-left:0px;margin-top:0px;}
+.OrderTrackingStatus .form-group.col-sm-6{padding:0px;}
+.OrderTrackingStatus .form-group.col-sm-6 label{width:auto;float:left;padding:4px 10px 0px 0px;}
+.viewOrderDetails123 .modal-body .panel-body .SubscriptionSe .SubscriptionSe22 table tbody tr th{font-size:14px;padding:4px 8px;}
+.viewOrderDetails123 .modal-body .panel-body .SubscriptionSe .SubscriptionSe22 table tbody tr td{font-size:14px;padding:4px 8px;}
+.viewOrderDetails123 .panel-heading{color:#374767;background-color:#f4f9f3;border-color:#dedada;position:relative;padding:10px;width:100%;float:left;}
+.OrderTrackingStatus .form-group.col-sm-6{margin:0px;}
+.OrderTrackingStatus .form-group.col-sm-6 .form-control.orderSts{width:54%;float:left;padding:0px 5px;}
+.OrderTrackingStatus .form-group.col-sm-6 .ClassDateTracking{width:54%;float:left;padding:0px 5px;position:relative;}
+.viewOrderDetails123 .panel-body h3{width:100%;float:left;padding:10px 0px 10px 0px;margin:0px;color:#009688;font-size:18px;font-weight:600;}
+.OrderTrackingStatus .form-group.col-sm-6 .ClassDateTracking span.input-group-addon.delivery_date_cal{position:absolute;top:4px;right:13px;height:29px;border:0px;background:transparent;}
+.viewOrderDetails123 .panel-body .SubscriptionSe .SubscriptionSe22 .table-bordered{margin-bottom:10px;}
+.panel-heading.PriceDiv123 .SubscriptionSe1233 .SubscriptionSe2211 table thead tr th{border:0px;padding:0px;}
+.panel-heading.PriceDiv123 .SubscriptionSe1233 .SubscriptionSe2211 table tbody tr td{border:0px;padding:0px;}
+.panel-heading.PriceDiv123{background:transparent;padding:0px 0px 10px;border:0px !important;}
+.panel-heading.PriceDiv123 .SubscriptionSe1233 .SubscriptionSe2211 table tbody tr.PaidTotal td{border-bottom:1px solid #ccc;border-top:1px solid #ccc;padding:6px 0px;}
+.viewOrderDetails123 .panel-body{padding:0px;}
+.panel-heading.PriceDiv123 table{width:100%;float:left;padding:0px;margin:0px;border:0px;}
+.viewOrderDetails123 .panel.panel-bd.lobidrag{cursor:pointer;box-shadow:0 0px 0px rgba(0,0,0,0.12), 0 0px 0px rgba(0,0,0,0.24);border:0px solid transparent;}
+.viewOrderDetails123 .modal-footer{padding:15px;text-align:right;border-top:1px solid #e5e5e5;float:left;width:100%;}
+.viewOrderDetails123 .modal-content{border-radius:0;width:100%;float:left;}
+.OrderTrackingStatus .form-group.col-sm-6 .ClassDateTracking input{background:#fff;}
+.viewOrderDetails123 .modal-header{padding:10px;}
+.viewOrderDetails123 .modal-body{padding:10px;}
+.viewOrderDetails123 .modal-body .panel.panel-bd.lobidrag .panel-heading a.btn.btn-primary{background:transparent;border:0px;color:#000;margin:0px;padding:0px 25px 0px 0px;}
+.toppOrderSection{width:100%;float:left;padding:4px 10px 4px 10px;border:1px solid #009688;border-radius:4px;margin-bottom:10px;}
+.viewOrderDetails123 .btn.btn-primary.stsDone{background-color:#009688 !important;border-color:#009688 !important;color:#fff !important;font-weight:400 !important;font-size:15px !important;padding:4px 10px !important;}
+.viewOrderDetails123 .btn.btn-primary.stsDone strong{padding:0px !important;font-weight:400;}
+.viewOrderDetails123 .modal-body .panel.panel-bd.lobidrag .panel-heading a.btn.btn-primary strong{padding-left:10px;}
+#makeOrderModal .table-bordered{border:1px solid #e4e5e7;margin-bottom:10px;}
+#makeOrderModal .modal-footer{padding:10px;text-align:right;border-top:1px solid #e5e5e5;}
+#makeOrderModal .modal-body{position:relative;padding:15px 15px 0px;height:525px;overflow:auto;}
+.PackageTypeNew select{width:100%;float:left;padding:0px 0px 0px 0px;}
+.PackageTypeNew .btn-group{width:100%;float:left;padding:0px 0px 0px 0px;}
+.PackageTypeNew .btn-group button{width:100%;float:left;padding:0px 10px 0px 10px;text-align:left;height:34px;border-radius:4px;position:relative;background:#fff;}
+.sidebar-menu li.active .treeview-menu{float:left;width:100%;}
+.sidebar-menu{margin-bottom:351px;}
+.sidebar-menu > li{position:relative;margin:0;padding:0;width:100%;float:left;}
+.PackageTypeNew .btn-group button.active{background:#fff;}
+.PackageTypeNew .btn-group button:hover{background:#fff;}
+.PackageTypeNew .btn-group button:focus{background:#fff;}
+.PackageTypeNew .btn-group button .caret{position:absolute;right:10px;top:0px;bottom:0px;height:5px;margin:auto;}
+#editLabModal .modal-dialog111 .modal-body{max-height:initial;min-height:auto;}
+.PackageTypeNew .btn-group ul li a{font-size:14px;}
+.PackageTypeNew .btn-group ul li a label{font-size:15px;}
+.PackageTypeNew .btn-group ul li a label input{opacity:1;}
+.uploadConsultationTop p{width:100%;float:left;padding:5px 10px 5px;text-align:left;margin:13px 0px 0px;background:#ffdcdc;border-left:2px solid #ffadad;}
+.labOrdersList .tr-appointment td span.label-primary{width:100%;float:left;}
+.DownloadReportP{width:auto;float:left;padding:16px 0px 0px 0px;position:absolute;bottom:63px;right:17px;}
+#viewOrder .modal-footer{padding:15px;text-align:right;border-top:1px solid #e5e5e5;width:100%;float:left;}
+#viewOrder .modal-content{border-radius:0;width:100%;float:left;}
+.modal-body{position:relative;padding:15px;width:100%;float:left;}
+#viewOrder .HealthGennieOrder  select.changeSts{width:150px;height:36px;float:left;border-radius:4px;border:1px solid #ccc;margin-right:10px;}
+#viewOrder .panel-heading.HealthGennieOrder .btn.btn-primary{float:left;margin-right:10px;}
+#viewOrder .panel-heading.HealthGennieOrder .btn.btn-primary.status.HealthGennieOrder1{margin:0px;}
+#manageSprtModal .modal-dialog{width:70%;margin:30px auto;}
+#viewOrder .panel-bd > .panel-heading{color:#374767;background-color:#f4f9f3;border-color:#dedada;position:relative;padding:10px;width:100%;float:left;margin-top:6px;}
+.uploadConsultation{width:auto;float:left;}
+.uploadConsultation123{width:auto;float:left;}
+.uploadConsultationTop{width:100%;float:left;padding:10px 0px 0px 0px;}
+.uploadConsultation button{background:#14bef0;border:2px solid #14bef0;margin-right:4px;height:27px;line-height:23px;font-size:15px;float:left;padding:0 20px 0px;font-weight:600;color:#fff;border-radius:4px;}
+#manageSprtModal .modal-body .table.table-bordered.table-hover tbody tr th{background:#009688;color:#fff;position:sticky;top:0px;}
+#manageSprtModal .modal-body .form-group{width:100%;float:left;}
+.form-group.noteSection{width:100% !important;float:left;}
+#manageSprtModal .modal-body .form-group label{width:auto;padding-right:3%;float:left;}
+#manageSprtModal .modal-body .form-group label input{margin-right:4px;}
+button.presBtn{background:#009688;color:#fff;border:0px;padding:6px 30px 6px;}
+#manageSprtModal .form-group.FollowUpDate{width:40% !important;float:left;padding:0px 0px 0px;position:relative;}
+#manageSprtModal .form-group.FollowUpDate .input-group-addon.fromfollowup_cal{position:absolute;right:0px;top:25px;width:auto;height:34px;padding:8px 14px 0px;}
+#manageSprtModal .modal-content{border-radius:0;width:100%;float:left;}
+#manageSprtModal .modal-footer{padding:15px;text-align:right;border-top:1px solid #e5e5e5;width:100%;float:left;}
+#manageSprtModal .reset-button{margin-top:10px;width:100%;float:left;}
+.recordsDiv{width:100%;float:left;padding:10px 0px 0px 0px;}
+.recordsDiv p.notFound{margin:0px 0px 15px;background:#ffdfc9;border-left:3px solid #ff7c00 !important;padding:5px 10px 5px 10px;margin-top:10px;border:0px solid #ccc;width:100%;box-shadow:0px 0px 0px 0px #ccc;height:auto;margin-right:0px;float:left;}
+.recordsDiv p{border:1px solid #ccc;width:130px;float:left;padding:5px;box-shadow:0px 0px 6px 0px #ccc;height:160px;margin-right:10px;}  
+.modal-content .modal-body .panel-body table tbody tr td .form-group select.form-control{padding:0px 6px;}
+.recordsDiv p img{width:100%;object-fit:cover;height:150px;}
+.viewOrderDetails123  #img01{border-radius:5px;cursor:pointer;transition:0.3s;}
+.timing{width:100%;float:left;padding:0px 0px 0px 0px;}
+.timing p{width:100%;float:left;padding:0px 0px 0px 0px;margin:0px;text-align:left;}
+.timing p strong{width:100%;float:left;padding:0px 0px 0px 0px;text-align:left;} 
+.timing p:last-child strong{font-weight:400; font-size:12px;}
+.viewOrderDetails123  #img01:hover{opacity:0.7;}
+/* The Modal (background) */
+.viewOrderDetails123  .modal{display:none;position:fixed;z-index:1;padding-top:100px;left:0;top:0;width:100%;height:100%;overflow:auto;background-color:rgb(0,0,0);background-color:rgba(0,0,0,0.9);}
+/* Modal Content (Image) */
+.viewOrderDetails123  .modal-content12{margin:auto;display:block;width:28%;max-width:700px;}
+@keyframes zoom{
+from{transform:scale(0)}
+to{transform:scale(1)}
+}
+/* The Close Button*/
+.viewOrderDetails123  .close12{position:absolute;top:15px;right:35px;color:#f1f1f1;font-size:40px;font-weight:bold;transition:0.3s;cursor:pointer;}
+.viewOrderDetails123  .close11:hover, .viewOrderDetails123 .close12:focus{color:#bbb;text-decoration:none;cursor:pointer;}
+#makeOrderModal .modal-content .modal-body .panel-body table tbody tr td input{text-align:center;}
+#makeOrderModal .modal-content .modal-body .panel-body table tbody tr td .treatment-section.medicineSearchDiv input{text-align:left;}
+#makeOrderModal .form-group{margin-bottom:0px;}
+#makeOrderModal .modal-header{padding:10px;border-bottom:1px solid #e1e6ef;background-color:#f7f9fa;}
+#makeOrderModal .modal-body .panel.panel-bd.lobidrag .panel-body table thead tr th{padding:4px 8px;line-height:1.42857143;vertical-align:top;border-top:1px solid #ddd;}
+#makeOrderModal .modal-body .panel.panel-bd.lobidrag .panel-body table tbody tr td{padding:4px 8px;line-height:1.42857143;vertical-align:top;border-top:1px solid #ddd;}
+#makeOrderModal .reset-button{margin-top:10px;margin-bottom:0px;text-align:right;}
+a.btn.btn-info.btn-sm.manageSprt{padding:2px 6px !important;}
+a.btn.btn-info.btn-sm.manageSprt img{width:18px !important;}
+.AddLaboratory .select2.select2-container{width:100% !important;}
+.AddLaboratory .select2.select2-container .selection .select2-selection{height:34px;border:1px solid #ccc;}
+.AddLaboratory .select2.select2-container .selection .select2-selection .select2-selection__rendered{line-height:32px;}
+.AddLaboratory .select2-container--default .select2-selection--single .select2-selection__arrow{height:32px;}
+#makeOrderModal form{margin:0px;}
+.form-group { position: relative;}
+.btn-group.Addnewdata123{
+    position: absolute;
+    right: -127px;
+    top: 0px;
+}
+.col-sm-12.AddDataTopclass{
+    padding: 0px;
+}
+.ratingDivTop {
+    width: 160px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+.ratingDivTop select {
+    width: 48%;
+    float: left;
+    padding: 0px 0px 0px 0px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-left: 1%;
+    margin-right: 1%;
+    height: 32px;
+}
+.ratingDivTop p {
+    width: 48%;
+    float: left;
+    padding: 7px 0px 0px 0px;
+    margin: 0px;
+     margin-left: 1%; margin-right: 1%;
+}
+.ratingDivTop span.cancel-btn.label-default.label.label-success{
+    width: 48%;
+    float: left;
+    height: 32px;
+    padding: 7px 0px 6px 0px;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin: 0px;
+}
+.Csrf_FieldClass { width:100%; float:left; padding: 0px 0px 0px 0px;}
+.Csrf_FieldClass .form-group { width:100%; float:left; padding: 0px 0px 0px 0px;}
+.Csrf_FieldClass .form-group input.file-input {
+    width: 196px;
+    float: left;
+    padding: 6px 0px 0px;
+}
+.Csrf_FieldClass12 {
+    width: 50%;
+    float: left;
+}
+.Addnewdata123 {
+    width: auto;
+    float: left;
+    padding-left: 5px;
+}
+.Addnewdata123 .btn {
+    padding: 5px 10px 5px 10px !important;
+    height: 31px;
+}
+.col-sm-12.AddDataTopclass{
+    padding: 0px;
+}
+.panelbodyAddDataTopclass { padding: 0px;}
+.CassAddDataTop { padding: 0px;}
+.AddDataTopclass .form-group.col-sm-6 .input-age-group.fromDateModal {
+    width: 50%;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+.AddDataTopclass .form-group.col-sm-6 .input-group.date {
+    width: 48%;
+    float: left;
+    padding: 0px 0px 5px 0px;
+    margin-right: 2%;
+}
+.AddDataTopclass .form-group.col-sm-6 .input-group.date input { padding: 0px 4px;}
+.AddDataTopclass .form-group {
+    position: relative;
+    width: 100%;
+    float: left;
+    margin: 0px;
+}
+.AddDataTopclass .form-group.col-sm-6 .input-age-group.fromDateModal select {
+    width: 40%;
+}
+.AddDataTopclass .form-group.col-sm-6 .input-age-group.fromDateModal input {
+    width: 58%;
+}
+/* Rounded button-sliders */
+.button-slider.round{border-radius:34px;}
+.button-slider.round:before{border-radius:50%;}
+.form-group.row.payment_mode_cheque{width:100%;float:left;padding:0px 0px 0px;margin:0px;}
+.table-bordered_Table.row{margin:0px;padding:0px 15px;}
+#addCoupon .form-group{margin-bottom:6px;min-height:87px;}
+#spacialityEditModal .select2.select2-container.select2-container--default{width:100% !important;}
+#spacialityEditModal .select2-container .select2-selection--single{height:34px;}
+#spacialityEditModal .select2-container--default .select2-selection--single .select2-selection__rendered{line-height:31px;}
+#spacialityEditModal .select2-container--default .select2-selection--single .select2-selection__arrow b{margin-top:1px;}
+#doctorEditModal .form-group.select_reg_council_div .select2-container{width:100% !important;}
+#doctorEditModal .form-group.select_reg_council_div .select2-container--default .select2-selection--single{border:1px solid #ccc;height:34px;}
+#doctorEditModal .form-group.select_reg_council_div .select2-container--default .select2-selection--single .select2-selection__rendered{line-height:32px;}
+.savepermissions-block table tbody tr td label.lable-tab-section{width:30%;float:left;padding:0px;margin:0px;}
+.savepermissions-block table tbody tr td label.lable-tab-section input{width:auto;height:auto;float:left;margin-right:6px;}
+.permission-title h2 {width:100%;float:left;padding:0px 18px 15px 18px;margin:0px;font-size:20px;}
+.savepermissions-block table tbody tr td label.lable-tab-section span{width:auto;float:left;padding:0px 0px 0px 0px;margin:0px;} 
+#doctorEditModal .form-group.select_reg_council_div .select2-container--default .select2-selection--single .select2-selection__arrow b{top:60%;}
+#doctorEditModal .form-group.university_div .select2-container{width:100% !important;}
+#doctorEditModal .form-group.university_div .select2-container--default .select2-selection--single{border:1px solid #ccc;height:34px;}
+#doctorEditModal .form-group.university_div .select2-container--default .select2-selection--single .select2-selection__rendered{line-height:32px;}
+#doctorEditModal .form-group.university_div .select2-container--default .select2-selection--single .select2-selection__arrow b{top:60%;}
+#doctorEditModal .form-group{margin-bottom:0px;}
+#doctorEditModal .form-group label{margin-bottom:2px;}
+.lobipanel-parent-sortable .table-responsive .table thead tr th{font-size:12px;padding:6px;vertical-align:top;background:#009688;color:#fff;}
+.lobipanel-parent-sortable .table-responsive .table tbody tr td.tab-appointment{width:110px;}
+.lobipanel-parent-sortable .table-responsive .table tbody tr td.tab-status select{padding:6px 3px;font-size:13px;text-align:left;}
+.lobipanel-parent-sortable .table-responsive .table tbody tr td{font-size:12px;color:#000;padding:6px;word-break:normal;}
+.RemoveDati{padding:5px 10px 5px 10px;}
+.UserDataExcelImports {
+    width: 46%;
+    float: left;
+    margin-bottom: 0px;
+}
+
+.update-user-div .regUser {
+    background-color: #009688;
+    border: 0px;
+    padding: 6px 16px;
+    color: #fff;
+    border-radius: 3px;
+}
+.update-user-div .regUser:hover { border: 0px;}
+.UserDataExcelImports #fileselector{width:100%;float:left;margin:0px 0px 0px 0px;}
+.UserDataExcelImports #fileselector .btn-default{color:#fff;background-color:#009688;border-color:#009688;text-transform:uppercase;font-size:16px;width:100%;border:0px;padding:6px 0px;}
+.UserDataExcelImports #upload-file-selector{display:block;position:absolute;z-index:99999;opacity:0;cursor:default;width:82px;}
+.UserDataExcelImports a.btn.btn-success.btn-icon-split{padding:6px 10px;}
+.UserDataExcelImports table tbody tr td .file-input {
+    margin-top: 5px;
+    width: 207px;
+}
+.UserDataExcelImports .form-group{margin-bottom:0px;}
+.UserDataExcelImports table{margin-bottom:0px;}
+.UserDataExcelImports table tbody td {
+    padding: 0px 3px;
+    border: 0px;
+}
+.UserDataExcelImportsBlock{width:12%;float:left;}
+.UserDataExcelImports table tbody td .btn-primary{background-color:#009688;border-color:#009688;margin-left:10px;}
+#doctorEditModal .select2-container--default .select2-selection--single{background-color:#fff;border:1px solid #aaa;border-radius:4px;height:34px;}
+#doctorEditModal .select2-container{box-sizing:border-box;display:inline-block;margin:0;position:relative;vertical-align:middle;width:100% !important;}
+.opd-timings-slot{width:271px;float:right;padding:18px 0px 8px 0px;}
+.main-div-schedule{position:relative;width:100%;float:left;margin-bottom:20px;position:relative;}
+.check-wrapper{width:100%;background:#efefef;float:left;padding:0 2%;margin-bottom:15px;border-radius:4px;}
+.dataTables_length .btn-group{width:100%;float:left;}
+.dataTables_length .btn-group .multiselect.btn.btn-default{
+    width: 100%;
+    float: left;
+    text-align: left;
+    position: relative;
+    border-radius: 4px;
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding: 6px 18px 6px 8px;
+}
+.dataTables_length .btn-group .multiselect.btn.btn-default .caret{position:absolute;right:8px;top:15px;}
+.dataTables_length .btn-group.open>.dropdown-menu{height:200px;overflow-y:auto;}
+.dataTables_length .btn-group.open>.dropdown-menu li label{padding:0px 0px 0px 0px;font-size:13px;}
+.dataTables_length .btn-group.open>.dropdown-menu li a{padding:3px 8px 3px 8px;}
+.opd_timing_tab .check-wrapper label{font-weight:600;margin-bottom:10px !important;margin-top:10px !important;font-size:13px;line-height:11px;float:left;width: auto;margin-right:8px !important;}
+.opd_timing_tab .check-wrapper label input{margin-top:0px;}
+.pop-up-detail {width:100%;margin-right:0%;float:left;}
+.sessions-div {width:48%;float:left;position:relative;padding-bottom:15px;}
+.pop-up-detail .sessions-div:nth-child(2n){float:right;}
+.AddPlan{width:70px; text-align:inherit;padding:2px 0px 2px 0px;color:#fff;background:red;font-size:13px;cursor:pointer;}
+.pop-up-detail label{width:100%;float:left;text-align:left;}
+.schedulingTop {width:100%;float:left;padding:0px 0px 0px 0px;}
+.set_error {width:49%;float:left;margin-right:2%;}
+.set_error:nth-child(3n+0){margin-right:0px;}
+.schedulingTop .set_error select{width:100%;}
+.set_error select{width:100%;float:left;}
+.TOPMENU{width:65px;float:right;padding:0px 0px 0px 0px;}
+.TOPMENU select{padding:0px;height:31px;}
+.radio-wrap .form-check-label input{margin-right:4px;}
+.TOPMENU form{margin-bottom:0px;}
+.pop-up-detail select{float:left;width:100%;text-align:left;border:solid 1px rgba(216,216,216,0.5);background:none;color:#888;border-radius:2px;height:34px;font-size:14px;padding:0;}
+.form-group-Value123.modal-content{border-radius:0;float:left;width:100%;}
+.form-group-Value .InputRow{width:100%;position:relative;float:left;padding:0px 0px 0px 0px;margin-bottom:10px;}
+.form-group-Value .InputRow input{padding-right:20px;}
+.form-group-Value .InputRow span.removeRow{position:absolute;top:0px;right:0px;cursor:pointer;width:30px;height:33px;text-align:center;padding-top:9px;}
+.set_error span.help-block{color:#f00;font-size:13px;text-align:left;width:100%;float:left;margin:0px;padding:0px;}
+.pop-up-detail .sessions-div button.btn{background:none;position:absolute;top:-1px;right:0px;padding:4px 6px;border:0px;}
+.opd-timings-schedule button.btn.btn-default.remove{background:none;position:absolute;top:5px;right:7px;padding:4px 6px;}
+.add-more-session{width:auto;float:left;margin:0px 0 0 0;}
+.dataTables_length.length123 .select2-container .select2-selection--single{box-sizing:border-box;cursor:pointer;display:block;height:34px;user-select:none;-webkit-user-select:none;}
+.dataTables_length.length123 .select2-container--default .select2-selection--single .select2-selection__rendered{color:#444;line-height:31px;}
+.dataTables_length.length123 .select2-container--default .select2-selection--single .select2-selection__arrow{height:34px;position:absolute;top:1px;right:1px;width:20px;}
+.ui-sortable .lobipanel-sortable .panel-body .panel-header{margin-bottom:40px;padding:0px 10px 0px 5px;}
+.add-more-session a{float:left;border:1px solid #14bef0;height:38px;font-family:'Karla', sans-serif;font-size:14px;text-align:center;vertical-align:middle;box-sizing:border-box;border-radius:3px;line-height:37px;padding:0 12px;background:#14bef0;color:#fff;}
+.pop-up-detail .sessions-div button.btn:hover{background:none;}
+.opd-timings-slot label{width:60%;float:left;padding:6px 0px 0px 0px;margin:0px;}
+.alert-danger{color:#fff;background-color:#E5343D;border-color:#BD000A;float:left;width:100%;padding:4px 10px;margin-top:10px !important;margin:0px;}
+.opd-timings-slot select{width:40%;float:left;padding:0px 6px 0px 6px;height:30px;border:solid 1px rgba(216,216,216,0.5);background:none;border-radius:2px;font-size:14px;}
+.opd-timings-slot .help-block{margin:0px;text-align:right;color:#f00;width:100%;float:left;}
+.doc-register {width:100%;position:relative;float:left;margin:0px 0 0px 0;border:0px;}
+h3.checkbox-divOpd{width:65%;float:left;text-align:left;font-size:24px;font-weight:600;text-align:left;color:#14bef0;text-transform:uppercase;}
+.label-success{font-size:13px;}
+.label-default{font-size:13px;}
+.header-title .breadcrumb{max-width:339px;}
+.label-warning{font-size:13px;}
+.label-info{font-size:13px;}
+.label-danger{font-size:13px;}
+.lobipanel-parent-sortable .table-responsive .table tbody tr td .img-circle{border-radius:5%;width:65px !important;height:65px !important;object-fit:cover;}
+#switchDoctorModal .slot-div .nav-tabs{padding:12px 0;}
+#switchDoctorModal .slot-div .nav-tabs{width:100%;float:left;border:0;}
+#switchDoctorModal .slot-div .nav-tabs li{width:33%;text-align:center;}
+#switchDoctorModal .slot-div ul li{position:relative;}
+#switchDoctorModal .slot-div .nav-tabs li{margin-right:1px;}
+#switchDoctorModal .slot-div .nav-tabs li a{width:100%;text-align:center;padding-left:0;padding-right:0;cursor:pointer;}
+#switchDoctorModal .slot-div .nav-tabs li a{border:0 !important;padding:12px 30px;font-size:16px;background:#fff;color:#222;margin:0;cursor:pointer;}
+#switchDoctorModal .slot-div .nav-tabs li a img{width:25px;height:auto;padding-right:10px;}
+#switchDoctorModal .slot-div ul li:after{content:"";height:auto;position:absolute;top:0;left:0;}
+#switchDoctorModal .slot-div .nav-tabs li.active:after{content:"";border-bottom:2px solid #14bef0;width:100%;float:left;position:absolute;z-index: 99;bottom:1px;}
+#switchDoctorModal .slot-div .nav-tabs li.active a{background:#14bef0;color:#fff;}
+#switchDoctorModal .slot-div .nav-tabs li.active a{background:#14bef0;color:#fff;}
+#switchDoctorModal .widget-time-slot table{width:100%;float:left;text-align:center;}
+#switchDoctorModal .widget-time-slot table tr td{border-radius:34px;margin:0 5px 12px 0;padding:0;border:0;width:99px;float:left;}
+#switchDoctorModal .widget-time-slot table tr td a.hidentop{background:#14bef0;color:#fff;}
+#switchDoctorModal .widget-time-slot table tr td a.chooseSlot.selectSlot{background:#ff6a00;color:#fff;}
+#switchDoctorModal .widget-time-slot table tr td a{float:left;width:92px;text-align:center;padding:4px;text-decoration:none;margin-bottom:0;margin-right:8px;color:#14bef0;border:1px solid #ddd;border-radius:34px;}
+#switchDoctorModal .widget-time-slot table tr td a:hover{color:#fff;text-decoration:none;}
+#switchDoctorModal .widget-time-slot table tr td a:hover{background:#14bef0;}
+.form-groupTopMenu{width:100%;float:left;padding:10px;background:#f1f1f1;border:1px solid #ccc;}
+.form-groupTopMenu .form-group{margin-bottom:0px;}
+.main-header .navbar .nav > li > a > .label{right:-6px !important;line-height:14px !important;height:25px !important;width:25px !important;padding:3px !important;}
+.table-responsive table tbody tr td .btn-group{width:220px;}
+.table-responsive table tbody tr td .selectLocalityDiv{width:220px;}
+.statistic-box h2{float:right;margin:0;font-size:34px;font-weight:700;}
+.table-responsive table tbody tr td .btn-group>.btn:first-child{margin-left:0;width:100%;text-align:left;}
+.table-responsive table tbody tr td .btn .caret{margin-left:0;position:absolute;top:0px;right:9px;bottom:0px;margin:auto;}
+.table-responsive table tbody tr td .input-group{width:100%;float:left;padding:0px 0px 0px 0px;margin:0px 0px 0px;position:relative;} 
+.table-responsive table tbody tr td .input-group .input-group-addon{position:absolute;left:0px;top:0px;float:left;z-index: 9999;height: 34px;width: 34px;padding: 8px 0px 0px;}
+.table-responsive table tbody tr td .input-group .input-group-btn{position:absolute;right:4px;top:0px;float:left;z-index: 9999;height: 34px;width: 34px;}
+.table-responsive table tbody tr td .input-group input{padding:0px 38px 0px 36px;}
+.table-responsive table tbody tr td ul.multiselect-container.dropdown-menu{max-height:279px;overflow-y:auto;overflow-x:hidden;}
+.table-responsive table tbody tr td ul.multiselect-container.dropdown-menu li a label{padding:0px;}
+.lobipanel-parent-sortable.ui-sortable table.table.table-bordered tr td span.multiselect-selected-text{margin-bottom:0px;display:block;}
+.help-block .error{color:#f00;font-size:12px;font-weight:400;}
+.table-responsive table tbody tr td .input-group .input-group-btn .btn-default.multiselect-clear-filter{height:34px;}
+footer.main-footers{position:fixed;width:100%;float:left;bottom:0px;}
+.length123 select{padding:0px;}
+.length123 input{padding:0px 6px;}
+.add-symptom-master .btn-group .multiselect-container.dropdown-menu{width:100%;float:left;padding:0px 0px 0px 0px;margin:0px;height:280px;overflow-y:auto;}
+.add-symptom-master .btn-group .multiselect-container.dropdown-menu li.multiselect-item.filter{background:#e6e6e6;padding:5px;}
+.add-symptom-master .btn-group .multiselect-container.dropdown-menu li.multiselect-item.filter .btn{padding:9px 12px;}
+.add-symptom-master .btn-group .multiselect-container.dropdown-menu li a label input{opacity:.9999;}
+.add-symptom-master .btn-group .multiselect-container.dropdown-menu li a{width:100%;float:left;}
+.modal-dialog111 .modal-body{position:relative;padding:15px;overflow-y:auto;max-height:500px;min-height:500px;}
+#symtomsEditModal .modal-dialog111 .panel-body123-2 .btn-group .multiselect.dropdown-toggle.btn.btn-default{width:100%;float:left;text-align:left;position:relative;display:inline-block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+#symtomsEditModal .form-group label{width:100%;float:left;}
+#symtomsEditModal .form-group select{width:100%;float:left;}
+#symtomsEditModal .btn-group{width:100%;float:left;margin-bottom:15px;}
+#symtomsEditModal .btn-group .multiselect.dropdown-toggle.btn.btn-default{width:100%;float:left;text-align:left;position:relative;}
+#symtomsEditModal .btn-group .multiselect.dropdown-toggle.btn.btn-default .caret{margin-left:0;position:absolute;right:12px;top:14px;}
+#symtomsEditModal .btn-group .multiselect-container.dropdown-menu{width:100%;float:left;padding:0px 0px 0px 0px;margin:0px;height:280px;overflow-y: auto;}
+#symtomsEditModal .btn-group .multiselect-container.dropdown-menu li.multiselect-item.filter{background: #e6e6e6;padding: 5px;}
+#symtomsEditModal .btn-group .multiselect-container.dropdown-menu li.multiselect-item.filter .btn{padding:9px 12px;}
+#symtomsEditModal .btn-group .multiselect-container.dropdown-menu li a label input{opacity:.9999;}
+#symtomsEditModal .btn-group .multiselect-container.dropdown-menu li a{width:100%;float:left;}
+.add-symptom-master .panel-heading.ui-sortable-handle .btn-group{width:auto;margin-bottom:0px;}
+#symtomsEditModal .panel-heading .btn-group{width:auto;margin-bottom:0px;}
+#symtomsEditModal .panel-heading{width:100%;float:left;} 
+.slotsMainDiv.tab-content .conFee{width:100%;float:left;padding:10px 15px 10px 15px;background:#f1f1f1;font-size:18px;font-weight:600;color:#14bef0;}
+.slot-div .slotsMainDiv .no-found-slot-app{color:red;font-size:13px;}
+.slotsMainDiv.tab-content .conFee p{width:auto;float:left;padding:0px 5px 0px 0px;margin:0px;color:#000;font-size:16px;}
+.viewSubscription123{position:relative;}
+.viewSubscription123 ul{width:100%;float:left;padding:0px 0px 0px 0px;}
+.viewSubscription123 ul li{width:100%;float:left;padding:0px 0px 0px 0px;margin:0px;list-style:none;}
+.viewSubscription123 ul li a{width:100%;float:left;padding:0px 0px 0px 0px;text-decoration:none;}
+.viewSubscription123 ul li ul{display:none;}
+.viewSubscription123 ul li:hover ul{position:absolute;left:-167px;top:-8px;width:181px;display:block;background:#009688;border-radius:4px;box-shadow:0px 1px 19px 0px #929292;padding:10px 0px 10px 0px;}
+.ptTbl .viewSubscription123{width:40px;}
+.sidebar-mini.sidebar-collapse .sidebar-menu > li:hover > a > span:not(.pull-right), .sidebar-mini.sidebar-collapse .sidebar-menu > li:hover > .treeview-menu{display:block!important;position:absolute;width:219px;left:50px;}
+.sidebar-mini.sidebar-collapse .sidebar-menu > li:hover > a > .pull-right-container{float:right;width:auto!important;left:244px!important;top:10px!important;}
+.ptTbl .viewSubscription123 ul li button{border-bottom:1px solid #fff;border-radius:4px;}
+.viewSubscription123 ul li:hover ul::after{top:9%;right:-10px;margin-top:-5px;content:"";border-width:8px 0 8px 10px;border-left-color:#009688 !important;position:absolute;width:0;height:0;border-color:transparent;border-left-color:transparent;border-style:solid;z-index:9999;}
+.viewSubscription123 ul li:hover ul li{width:100%;float:left;padding:0px 5px 0px 5px;text-align:left;color:#fff;}
+.viewSubscription123 ul li:hover ul li a{width:100%;float:left;padding:4px 10px 4px 10px;margin:0px;color:#fff;font-size:13px;text-align:left;border-bottom:1px solid #fff;}
+.viewSubscription123 ul li:hover ul li a span{width:auto;float:left;margin:0px 7px 0px 0px !important;font-size:16px;}
+.viewSubscription123 ul li:hover ul li button{text-align:left;padding:0px;padding:4px 10px 4px 10px;margin:0px;height:auto;line-height:17px;}
+.viewSubscription123 ul li:hover ul li button i{width:auto;float:left;margin:0px 7px 0px 0px !important;font-size:16px;}
+.viewSubscription123 ul li:hover ul li a i{width:auto;float:left;margin:0px 7px 0px 0px !important;font-size:16px;}
+.panel-header345 .col-sm-3 .dataTables_length .btn-sm{padding:5px 6px;}
+.panel-header345 .col-sm-6 .dataTables_length.dataTables_length2345 .input-group.custom-search-form input{width:49%;float:left;}
+.panel-header345 .col-sm-6 .dataTables_length.dataTables_length2345 .input-group.custom-search-form input:first-child{margin-right:2%;}
+.dataTables_length.dataTables_length2345{width:97%;float:left;}
+.dataTables_length2345 .input-group.custom-search-form .input-group-btn .btn.btn-primary{padding:9px 12px;}
+.panel.panel-bd.lobidrag.lobipanel.lobipanel-sortable.panel-expanded .panel-body{height:530px;overflow-x:auto;}
+.panel-body123-2 .col-md-6 .form-group{width:100%;float:left;margin-bottom:8px;}
+.form-group123 .btn{width:auto;float:left;padding:0px 20px 0px 20px;margin:0px;}
+.panel-body123-2 .col-md-6 .form-group .help-block{margin:0px;}
+.panel-body123-2 .col-md-12 .form-group{width:100%;float:left;margin-bottom:8px;} 
+.panel-body123-2 .col-md-12 .form-group textarea{height:75px;}
+.form-check{width:100%;float:left;padding-bottom:0px;}
+.form-check .radio-inline{width:auto !important;float:left;}
+.panel-body123-2 .col-md-6 .reset-button{margin-bottom:0px;text-align:right;margin-top:10px;}
+.modal-dialog111 .panel{margin-bottom:0px;}
+.panel-body123-2 form{margin-bottom:0px;}
+.panel-body123-2 .form-group.row {margin-bottom:0px;}
+#symtomsEditModal .panel-body123-2 .col-md-6 .form-group .btn-group{width:100%;float:left;margin-bottom:0px;}
+#tagsAddModal .modal-dialog .modal-content .panel-body .form-group{position:relative;width:100%;float:left;}
+#tagsAddModal .modal-dialog .modal-content .panel-body .form-group input{width:100%; float:left;}
+#tagsAddModal .modal-dialog .modal-content .panel-body .form-group a{position:absolute;right:1px;top:1px;width:30px;text-align:center;height:32px;background:#ffff;border-radius:0px 4px 4px 0px;padding-top:7px;}
+#tagsAddModal .modal-dialog .modal-content .panel-body .form-group .btn.btn-default{width:auto;float:left;background:#009688;color:#fff;}
+.symptom-search-box select{width:45% !important;float:left;}
+.panel-body_lab .multiselect-container.dropdown-menu .multiselect-item{width:100%;float:left;}
+.panel-body_lab .multiselect-container.dropdown-menu li{width:20%;float:left;}
+.panel-body_lab .multiselect-container.dropdown-menu .multiselect-all{width:20%;float:left;}
+.panel-body_lab .multiselect-container.dropdown-menu li a{display:block;padding:3px 10px;clear: both;font-weight: 400;line-height: 1.42857143;color: #333;white-space: nowrap;}
+.panel-body_lab .multiselect-container.dropdown-menu li a .checkbox, .radio{margin-top:1px;margin-bottom:1px;font-size:10px;white-space:normal;}
+.panel-body_lab .multiselect-container.dropdown-menu li a .checkbox input{margin-top:2px;}
+#symtomsEditModal .modal-dialog{width:95%;margin:30px auto;}
+#pageEditModal .modal-dialog{width:70%;margin:30px auto;}
+#AddModal.modal-dialog1234 .modal-dialog{width:70%;margin:30px auto;}
+.ClassTop .btn-group{margin-bottom:0px;}
+.ClassTop .form-group{width:100%;float:left;}
+.ClassTop .panel-body_lab .multiselect-container.dropdown-menu li{width:100%;float:left;}
+.ClassTop .panel-body_lab .multiselect-container.dropdown-menu .multiselect-all{width:100%;float:left;}
+.loading-all{position:fixed;margin:0px auto !important;right:0px;left:0px;top:0%;bottom:0px;display:block;vertical-align:middle;z-index:999999;width:100%;height:100%;background: rgba(0, 0, 0, 0.4);}
+.loading-all img{margin:auto;visibility:visible;vertical-align:middle;float:none;position:absolute;left:0px;right:0px;top:0px;bottom:0px;}
+.loading-all span{background:#fff;border-radius:50%;height:150px;width:150px;margin:auto;display:block;position:absolute;left:0px;right:0px;top:0px;bottom:0px;vertical-align:middle;}
+.selection-section{width:100%;float:left;padding:0px 0px 0px 0px;}
+.selection-section ul{width:100%;float:left;padding:4px 4px 4px 4px;margin:0px;border:1px solid #ccc;max-height:130px;overflow-y:auto;}
+.selection-section ul li{width:auto;float:left;padding:3px 5px 3px 5px;list-style: none;border:1px solid #ccc;margin-right:1%;border-radius:4px;margin-bottom:1%;line-height:18px;}
+.selection-section ul li span.stateChoiceRemove{width:16px;float:right;margin-left:4px;font-size:16px;text-align:center;}
+.selection-section ul li span.stateChoiceRemove:hover{background:#009688;color:#fff;}
+li.selectionChoice.noSelection{width:100%;border-left:2px solid #009688 !important;border:0px;border-radius:0px;background:#f1f1f1;margin-bottom:0px;}
+.selection-section ul li span.cityChoiceRemove{width:16px;float:right;margin-left:4px;font-size:16px;text-align:center;}
+span.count{background:#009688;border-radius:30px;padding:2px 11px;color:#fff;}
+.selection-section ul li span.cityChoiceRemove:hover{background:#009688;color:#fff;}
+.lobipanel-parent-sortable.ui-sortable table.table.table-bordered tr td:last-child{text-align:center; width:185px;}
+.lobipanel-parent-sortable.ui-sortable table.table.table-bordered tr td span{margin-bottom:4px;display:block;}
+.suggesstion-box{width:94%;background:#fff;float:left;position:absolute;box-shadow:0 3px 3px #ddd;top:67px;z-index:999;}
+.suggesstion-box ul{max-height:275px;}
+.suggesstion-box ul li{float:left;width:100%;list-style:none;padding:5px 15px;border-bottom:1px solid #efefef;}
+.suggesstion-box ul li i.icon-clinicImage-pic{float:left;width:auto;height:auto;margin:2px 10px 0 0;display:inline-block;}
+.suggesstion-box ul li .detail-clinic{width:72%;float:left;}
+.suggesstion-box ul li i.icon-clinicImage-pic img{height:auto;}
+.suggesstion-box ul li .detail-clinic span{width:100%;float:left;}
+.suggesstion-box ul li .detail-clinic span.spec{color:#989898;font-size:13px;}
+.suggesstion-box ul{margin:0px;padding:0px;overflow-y:auto;max-height:380px;background: #fff;box-shadow:0 2px 0 #ddd;width:100%;float:left;}
+.form-fields i.btn-reset-clinic{position:absolute;right:15px;top:26px;border-left:1px solid #009688;height:32px;line-height:32px;padding-left:0;font-style:normal;width:70px;text-align:center;}
+.form-fields i.btn-reset-clinic button {color: #009688;border: 0;border-radius: 2px;padding: 0;background: none;}
+#doctorEditModal #updateDoctor .add-doctor-left-box.OncallStatus label{width: 100%;float: left;font-size: 14px;font-weight:700;text-align: left;padding-bottom: 5px;}
+#doctorEditModal #updateDoctor .add-doctor-left-box.OncallStatus {width: 48% !important;float: left;margin-right: 2%;}
+#doctorEditModal #updateDoctor .add-doctor-left-box.OncallStatus p{width:100%; float: left;}
+#doctorEditModal #updateDoctor .add-doctor-left-box.OncallStatus p.oncall_fee{margin-top:0px; margin-bottom:0px;  padding-top:0px; width: 100% !important; float: right;}
+#doctorEditModal #updateDoctor .add-doctor-left-box.OncallStatus span.help-block label {color: #f00;font-size: 12px;}
+#doctorEditModal #updateDoctor .form-fields.doctor-img{padding-top:10px;}
+body #doctorEditModal .form-group p label input[type="radio"]{float:left;}
+#doctorEditModal #updateDoctor .add-doctor-left-box.OncallStatus p.oncall_fee input{ border: 1px solid #ddd; border-radius: 0px; -moz-appearance: none;-webkit-appearance: none; width: 100%; float: left; height:34px; font-family: 'Karla', sans-serif; font-size: 14px; padding: 0 8px; color: #222; box-shadow: 0 0 0; text-transform: none;}
+#doctorEditModal #updateDoctor .add-doctor-left-box.OncallStatus p label{ float:left; margin-right:10px; width:auto; font-weight: 700; padding: 0px;}	
+#doctorEditModal #updateDoctor .add-doctor-left-box.OncallStatus p label input{float:left;}
+.container.listing-right-wrapper.live_doctors .container-inner .right-content{ width:100%;}
+.container.listing-right-wrapper.live_doctors .container-inner .right-content .rating_doctor-div {right:233px;} 
+#updateHospitalContent .form-group label{ width:100%; float:left;}
+#updateHospitalContent label.main{width:100%; float:left; margin-bottom:10px; margin-left:15px; }
+#updateHospitalContent .form-group .select2{ width:100% !important;}
+#updateHospitalContent .form-group .select2 .select2-selection--single { height:34px; line-height:34px;}
+#updateHospitalContent .form-group .select2 .select2-selection--single .select2-selection__rendered{ line-height:31px !important;}
+#updateHospitalContent .row{ width:100%; float:left;} 
+#hospitalEditModal .modal-body .panel{ box-shadow: 0 0 0; border: 0; padding: 0;}
+#hospitalEditModal .modal-body .panel .panel-heading{ box-shadow:0 0 0; border:0px;}
+#updateHospitalContent .col-md-6.pad-left0{ padding-left:0px !important;}
+#AddHosPage .row{ width:100%; float:left;} 
+#AddHosPage .form-group label{ width:100%; float:left;}
+#AddHosPage label.main{width:100%; float:left; margin-bottom:10px; margin-left:15px; }
+#AddHosPage .form-group .select2{ width:100% !important;}
+#AddHosPage .form-group .select2 .select2-selection--single { height:34px; line-height:34px;}
+#AddHosPage .form-group .select2 .select2-selection--single .select2-selection__rendered{ line-height:31px !important;}
+#AddHosPage .col-md-6.pad-left0{ padding-left:0px !important;}
+.form-group.SampleDownloadMobile {
+    display: none;
+}
+@media only screen and (max-width: 639px) { 
+.UserDataExcelImportsBlock {
+    width: 100%;
+    float: left;
+}
+.content {
+    padding: 0 10px 100px;
+}
+.Csrf_FieldClass12 {
+    width: 70%;
+    float: left;
+    padding: 7px 0px 0px;
+}
+.form-group.SampleDownloadMobile {
+    display:block;
+}
+tr.SampleDownloadbtn td {
+    padding-top: 10px !important;
+}
+.btn-group.Addnewdata123 {
+    position: absolute;
+    right: -5px;
+    top: -36px;
+}
+.UserDataExcelImports table tbody td {
+    padding: 0px 3px;
+    border: 0px;
+    width:30%;
+    float: left;
+}
+.ForExcelSection .dropdown-toggle {
+    border: none;
+    outline: 0;
+    background-color: transparent;
+    text-align: center;
+    padding: 0;
+    width: 30px;
+    font-size: 14px;
+    -webkit-transition: all .2s;
+    -o-transition: all .2s;
+    transition: all .2s;
+    margin-top: -32px;
+}
+.UserDataExcelImports {
+    width: 100%;
+    float: left;
+    margin-bottom: 0px;
+}
+.form-group.SampleDownloadDeshktop {
+    display: none;
+}
+.modal .modal-dialog.modal-lg .modal-content .modal-body {position: relative;padding: 10px;}
+.viewSubscription12 {width: 132px;font-size: 14px;word-break: break-all;float: left;}
+.SubscriptionSe { width: 100%; float:left; padding: 0px 0px 0px 0px; overflow-y: auto;}
+.SubscriptionSe22 { width: 800px; float:left; padding:0px 0px 0px 0px;}
+.SubscriptionSe223 { width: 1024px;}
+.content-header .header-title h1 {margin: 0;font-size: 18px;}
+#addSubscription.newSubscri { width: 100%; float:left; padding: 0px;}
+#addSubscription .form-group {margin-bottom: 15px;min-height: auto;padding: 0px;width: 100%;float: left;}
+.table-bordered_Table.row {padding: 0px 0px;}
+.modal .modal-dialog.modal-lg .modal-content .modal-body .panel-body { padding: 10px 0px;}
+.modal .modal-dialog.modal-lg .modal-content .modal-body .panel-body form {padding-right:0px;padding-left:0px;}
+.dataTables_length.length123 .select2.select2-container { width:100% !important;}
+.col-sm-12.reset-button {float:left;width:100%;padding-top:10px;}
+#doctorEditModal #updateDoctor .add-doctor-left-box.OncallStatus{width:100% !important;float:left;margin-right:0%;padding:0px 15px;}
+#doctorEditModal #updateDoctor .add-doctor-left-box.OncallStatus p.oncall_fee{margin-top:0px;margin-bottom:12px;padding-top:0px;width:100% !important;float:right;}
+.tooltip.left {z-index:1;}
+}
+@media only screen and (min-width:640px) and (max-width:767px) { 
+.SubscriptionSe{width:100%;float:left;padding:0px 0px 0px 0px; overflow-y:auto;}
+.SubscriptionSe22{width:800px;float:left;padding:0px 0px 0px 0px;}
+.SubscriptionSe223{width:1024px;}
+.content-header .header-title h1{margin:0;font-size:18px;}
+#addSubscription.newSubscri{width:100%;float:left;padding:0px;}
+#addSubscription .form-group{margin-bottom:15px;min-height:auto;padding:0px;width:100%;float:left;}
+.table-bordered_Table.row{padding:0px 0px;}
+}
+.pagination-top{float:left}
+.ui-sortable-handle .left{width:auto;float:left}
+.ui-sortable-handle .right .btnbtn-success123{float:left;margin-right:10px;}
+.ui-sortable-handle .right{width:auto;float:right}
+.ui-sortable-handle .right #chnagePagination .form-control{height:31px !important;padding:0px;}
+.form-groupTopMenu.apooint .appDateSection{width:30%;}
+.form-groupTopMenu.apooint .appDateSection .appointment-popup-block.appDate{width:100%;}
+.form-groupTopMenu.apooint .appDateSection .appointment-popup-block.appDate .dateDiv{width:100%;}
+.appoint .lobipanel.lobipanel-sortable{box-shadow:0 0 0 !important;margin:0px !important;}
+.appoint .modal-footer button:focus{border:0px;outline:none;background:#009688;color:#fff !important;}
+.appoint .modal-footer button{background:#009688;color:#fff !important;border:0px !important;}
+.viewSubscription123 button{background-color:#009688;border-color:#009688;color:#fff;border:0;border-radius:3px;padding:5px 10px 5px 10px;text-transform:uppercase;font-size:12px;width:100%;margin:5px 0 0 0;}
+body .viewSubscription123 a{width:14px;font-size:15px;margin-right:4px;}
+.tr-appointment td .sendPres{font-size:13px !important;height:27px;line-height:23px;padding:0 5px;}
+.tr-appointment td span.label-primary{background:#14bef0;border:2px solid #14bef0;width:45px;margin-right:4px;height:27px;line-height:23px;font-size:12px;float:left;padding:0;font-weight:600;}
+.tr-appointment td a#addApptNote{float:left;background:#009688;color:#fff;height:27px;font-size:13px;width:28px;border-radius:3px;}
+.tr-appointment td a#addApptNote span{margin-top:8px;}	
+.tr-appointment td span.label-info{background:#14bef0 !important;border:2px solid #14bef0;font-size:12px;font-weight:600;height:27px;line-height:23px;padding:0px 10px;}
+.sms-view{background:#009688;color:#fff;border:0px;font-size:13px;font-weight:600;}	
+/*Akash*/	
+.labSearch.itempicker.btn-group{padding:0px !important;}
+.labSearch.itempicker button{background:none !important;box-shadow:0 0 0 !important;border:0 !important;width:100%;}
+.labSearch.itempicker button .caret{position:absolute;top:15px;right:10px;}
+.labSearch.itempicker .dropdown-menu .bs-searchbox input{border-radius:0px;}
+.labSearch.itempicker .dropdown-menu .dropdown-menu{min-width:100%;border:1px solid #ddd;top:31px;width:100%;}
+.labSearch.itempicker .dropdown-menu.open{min-width:100%;width:100%;max-width:100%; border:0px !important; overflow-y: scroll !important;     min-height: 150px !important;}
+.labSearch.itempicker .dropdown-menu .dropdown-menu li a{padding:3px 10px;color:#222;white-space:break-spaces;word-wrap:break-word;width:100%;}
+.labSearch.itempicker .dropdown-menu .dropdown-menu li a span.text{width:95%;float:left;}
+.labDropDown .btn-group{width:100%;float:left;}
+.labDropDown button.multiselect {width: 100%; background: none; box-shadow: 0 0 0; text-align: left;}
+.labDropDown button.multiselect .caret{position:absolute;top:15px;right:10px;}
+.labDropDown .btn-group .multiselect-container.dropdown-menu li.multiselect-item.filter{background:#e6e6e6;padding:5px;}	
+.labDropDown .multiselect-container.dropdown-menu li{width:100%;float:left;}
+.labDropDown .multiselect-container.dropdown-menu li a{width:100%;float:left;color:#222;}
+.labDropDown .multiselect-container.dropdown-menu li a label{margin-top:1px;margin-bottom:1px;font-size:10px;line-height:19px;white-space:normal;font-weight:600;}
+.labDropDown select{width:100%;float:left;}
+.labDropDown .multiselect-container.dropdown-menu li a label input{opacity:.9999;}
+.labDropDown .multiselect-container.dropdown-menu li.multiselect-item.filter .btn{padding:9px 12px;}
+.labDropDown .btn-group .multiselect-container.dropdown-menu{width:100%;float:left;padding:0px 0px 0px 0px;margin:0px;height:280px;overflow-y:auto;}
+#editLab .col-md-6:nth-child(2n){margin-bottom:15px !important;}
+/*Akash*/

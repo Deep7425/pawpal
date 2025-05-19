@@ -126,6 +126,7 @@ class HomeController extends Controller
 				$userdata = array(
 					'email' => Input::get('email'),
 				);
+		
 				// attempt to do the login
 				if ($user = DB::table("admins")->where($userdata)->first()) {
 					if ($user->status == '1') {
@@ -141,6 +142,7 @@ class HomeController extends Controller
 									'device_tokens' => json_encode($device_tokens)
 								]);
 							}
+
 							return redirect("admin/home")->with('success_msg', "Successfully Login")->send();
 						} else {
 
@@ -238,63 +240,8 @@ class HomeController extends Controller
 			return view('admin.index', $dashboardData);
 		}
 
-		$filteryear = Filteryear::first();
-		$year = $filteryear->year;
 
-		$currentMonth = date("m");
-		$currentYear = $year;
-
-		// Prepare date ranges for queries
-		$startDate = Carbon::create($currentYear, 1, 1)->startOfMonth();
-		$endDate = Carbon::create($currentYear, 12, 31)->endOfMonth();
-
-		// Arrays to store data
-		$labels = [];
-		for ($i = 1; $i <= 12; $i++) {
-			$labels[] = date('F', mktime(0, 0, 0, $i, 1, $currentYear));
-		}
-		
-		// Use query builders with proper indexing
-		$subscriptionsByMonth = $this->getMonthlyCountData(new UsersSubscriptions(), $startDate, $endDate);
-		$appointmentsByMonth = $this->getMonthlyCountData(new Appointments(), $startDate, $endDate);
-		$labOrdersByMonth = $this->getMonthlyCountData(new LabOrders(), $startDate, $endDate);
-		$usersByMonth = $this->getMonthlyCountData(new User(), $startDate, $endDate);
-		
-		// This query is complex, so optimize it separately
-		$doctorsByMonth = $this->getMonthlyDoctorData($startDate, $endDate);
-
-		// Create data arrays for view
-		$data = [
-			'labels' => $labels,
-			'data' => $this->formatDataByMonth($subscriptionsByMonth, $currentYear),
-		];
-		
-		$dataAppt = [
-			'labels' => $labels,
-			'data' => $this->formatDataByMonth($appointmentsByMonth, $currentYear),
-		];
-		
-		$dataLabOrder = [
-			'labels' => $labels,
-			'data' => $this->formatDataByMonth($labOrdersByMonth, $currentYear),
-		];
-		
-		$dataUser = [
-			'labels' => $labels,
-			'data' => $this->formatDataByMonth($usersByMonth, $currentYear),
-		];
-		
-		$dataDoctor = [
-			'labels' => $labels,
-			'data' => $this->formatDataByMonth($doctorsByMonth, $currentYear),
-		];
-
-		$dashboardData = compact('admin', 'data', 'dataAppt', 'dataLabOrder', 'dataUser', 'dataDoctor', 'year');
-		
-		// Cache the result
-		Cache::put($cacheKey, $dashboardData, $cacheDuration);
-
-		return view('admin.index', $dashboardData);
+		return view('admin.index');
 	}
 
 	/**

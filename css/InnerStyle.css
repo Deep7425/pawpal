@@ -1,0 +1,553 @@
+.searching-keyword {
+    background: #fff;
+    border-bottom: 1px solid #efefef;
+    display: none;
+    font-size: 19px;
+    color: #222;
+    width: 100%;
+    float: left;
+    text-align: left;
+    height: 45px;
+    vertical-align: middle;
+    line-height: 45px;
+    text-transform: uppercase;
+}
+.searching-keyword .searhc-result {
+    display: none;
+}
+.searhc-result {
+    float: left;
+    font-size: 13px;
+    text-transform: capitalize;
+}
+.searhc-result strong {
+    color: #222;
+    padding-left: 8px;
+}
+.topHeadingSecion {
+    width: 100%;
+    float: left;
+    padding: 15px 0px 0px 0px;
+}
+.container-inner {
+    width: 100%;
+    max-width: 1180px;
+    margin: 0 auto;
+}
+.topHeadingBlock {
+    width: 100%;
+    float: left;
+    padding: 25px 0px 25px 0px;
+    text-align: center;
+    background: #fff;
+    border-radius: 0px;
+}
+.topHeadingBlock h1 {
+    width: 100%;
+    float: left;
+    padding: 0px 0px 0px 0px;
+    margin: 0px;
+    font-size: 26px;
+    color: #14bef0;
+    font-weight: 600;
+}
+.topHeadingBlock small {
+    width: 100%;
+    float: left;
+    padding: 5px 0px 0px 0px;
+    margin: 0px;
+    font-size: 14px;
+    color: #222;
+}
+.container-inner {
+    width: 100%;
+    max-width: 1180px;
+    margin: 0 auto;
+}
+.filer-bar {
+    width: 100%;
+    position: relative;
+    float: left;
+    padding: 15px 0 15px 0;
+}
+.breadcrume {
+    float: left;
+    padding: 8px 0 0 0;
+}
+.breadcrume ul {
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+.breadcrume ul li {
+    margin: 0;
+    padding: 0;
+    float: left;
+    list-style: none;
+    font-size: 13px;
+    text-transform: capitalize;
+    color: #222;
+    padding: 0 3px;
+}
+.breadcrume ul li a {
+    color: #222;
+    font-size: 13px;
+    text-decoration: none;
+}
+.sorting {
+    float: right;
+}
+.sorting label.resultFoundLabel {
+    width: 100%;
+    float: left;
+}
+.sorting label {
+    float: left;
+    font-size: 14px;
+    color: #1b1b1b;
+    margin: 0;
+    font-weight: 100;
+}
+.left-content.desktop {
+    display: block;
+}
+.left-content {
+    width: 22%;
+    float: left;
+    background: #fff;
+    margin: 0 0 60px 0;
+}
+.left-content h2 {
+    margin: 0;
+    margin-bottom: 0;
+    padding: 0 0 0 5%;
+    font-size: 16px;
+    color: #222;
+    background: #f4f4f4;
+    text-transform: uppercase;
+    height: 45px;
+    line-height: 45px;
+}
+.ConsultationFilter.waitingTime {
+    width: 100%;
+    float: left;
+    padding: 13px 6px;
+}
+.waitingTime [type=radio]:checked, .waitingTime [type=radio]:not(:checked) {
+    position: absolute;
+    left: -9999px;
+}
+.waitingTime [type=radio]:checked+label, .waitingTime [type=radio]:not(:checked)+label {
+    padding-left: 28px;
+    cursor: pointer;
+    line-height: 20px;
+    width: 100%;
+    float: left;
+    display: inline-block;
+    color: #666;
+}
+.waitingTime [type=radio]:checked+label:before, .waitingTime [type=radio]:not(:checked)+label:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 18px;
+    height: 18px;
+    border: 1px solid #ddd;
+    border-radius: 100%;
+    background: #fff;
+}
+.waitingTime [type=radio]:checked+label:after, .waitingTime [type=radio]:not(:checked)+label:after {
+    content: '';
+    width: 12px;
+    height: 12px;
+    background: #14bef0;
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    border-radius: 100%;
+    -webkit-transition: all .2s ease;
+    transition: all .2s ease;
+}
+.waitingTime [type=radio]:checked+label:after {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+.block-filter {
+    width: 100%;
+    float: left;
+    padding: 0;
+}
+.search-list {
+    width: 100%;
+    display: block;
+    background: #fff;
+    border-bottom: 1px solid #efefef;
+    margin-bottom: 15px;
+}
+.searchLocalityFromList {
+    border: 1px solid #efefef;
+    width: 94%;
+    margin: 10px 3%;
+    padding: 0 10px;
+    height: 32px;
+    border-radius: 4px;
+    font-size: 13px;
+    font-family: Karla, sans-serif !important;
+}
+.content-wrapper {
+    min-height: 380px;
+    max-height: 380px;
+    position: relative;
+    overflow-y: scroll;
+}
+.left-content .chck-container {
+    font-weight: 100;
+    font-size: 14px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.chck-container {
+    display: block;
+    position: relative;
+    padding-left: 18px;
+    margin-bottom: 8px;
+    margin-top: 0;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    cursor: pointer;
+    font-size: 15px;
+    user-select: none;
+    line-height: 17px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+.chck-container input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+.checkmark {
+    position: absolute;
+    top: 6px;
+    left: 0;
+    height: 12px;
+    width: 12px;
+    background-color: #fff;
+    border: 1px solid #d5d5d5;
+}
+.left-content .chck-container {
+    font-weight: 100;
+    font-size: 14px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.left-content .block-filter:nth-child(2n+0) h2 {
+    margin-bottom: 8px;
+}
+.chck-container:hover input~.checkmark {
+    background-color: #fff;
+}
+.price-range-block {
+    margin: 20% 10%;
+}
+span.ui-slider-handle.ui-corner-all.ui-state-default {
+    border: 1px solid #d6d6d6 !important;
+}
+.filter-wrapConsultation {
+    width: 100%;
+    float: left;
+    padding: 0px 0px 0px;
+}
+.filter-wrapConsultation ul {
+    width: 100%;
+    float: left;
+    padding: 0px 0px 15px;
+    margin: 0px;
+}
+.filter-wrapConsultation ul li {
+    width: 100%;
+    float: left;
+    padding: 0px;
+    margin: 0px;
+    line-height: normal;
+}
+.left-content ul li {
+    margin: 0;
+    padding: 10px 0;
+    list-style: none;
+    font-size: 16px;
+    color: #222;
+}
+.filter-wrapConsultation ul li a {
+    width: 100%;
+    float: left;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-size: 14px;
+}
+.left-wrapper {
+    display: none;
+}
+.left-wrapper {
+    width: 22%;
+    float: left;
+    background: #fff;
+}
+.left-wrapper h2 {
+    width: 100%;
+    float: left;
+    margin: 0;
+    background: #fff;
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #222;
+}
+.accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: 0;
+    font-size: 15px;
+    transition: .4s;
+}
+.left-content {
+    width: 22%;
+    float: left;
+    background: #fff;
+    margin: 0 0 60px 0;
+}
+.ConsultationFilter.waitingTime {
+    width: 100%;
+    float: left;
+    padding: 13px 6px;
+}
+.right-content {
+    width: 75%;
+    float: right;
+}
+.listing {
+    width: 100%;
+    box-shadow: 0 1px 2px 1px hsla(0, 0%, 42.7%, .14);
+    float: left;
+    background: #fff;
+    padding: 2%;
+    margin-bottom: 15px;
+    position: relative;
+    border-radius: 2px;
+}
+.doc-img {
+    float: left;
+    width: 10%;
+}
+.doc-img img {
+    max-width: 100%;
+    height: 107px;
+    border-radius: 2px;
+    border: 1px solid #f5f5f5;
+    padding: 2px;
+    border-radius: 4px;
+    width: 100%;
+    object-fit: cover;
+}
+body .right-con-wrapper {
+    width: 88%;
+    position: relative;
+    float: right;
+}
+.profile-detail {
+    width: 40%;
+    float: left;
+    margin: 0;
+}
+.profile-detail a {
+    cursor: pointer;
+}
+.profile-detail h3 {
+    font-size: 18px;
+    color: #222;
+    margin: 0;
+    display: inline-block;
+    padding: 0 0 10px 0;
+    font-weight: 600;
+    text-transform: capitalize;
+    text-decoration: none !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+.profile-detail ul {
+    margin: 0;
+    padding: 0;
+    float: left;
+    width: 100%;
+    padding: 5px 0;
+}
+.profile-detail ul.dgree-top li {
+    width: 100%;
+    text-transform: capitalize;
+}
+.profile-detail ul li {
+    float: left;
+    text-transform: capitalize;
+    font-size: 14px;
+    margin-right: 10px;
+    list-style: none;
+    color: #222;
+    width: 100%;
+}
+.profile-detail ul li img {
+    float: left;
+    padding: 0;
+    margin: 2px 3px 0 0;
+    width: 13px;
+}
+.profile-detail ul.dgree-top li {
+    width: 100%;
+    text-transform: capitalize;
+}
+.profile-detail p {
+    font-size: 15px;
+}
+.profile-detail ul.dgree-top li p strong {
+    width: 15px;
+    float: left;
+}
+.profile-detail ul li:last-child img {
+    width: 13px;
+    margin-top: 5px;
+    margin-right: 6px;
+}
+.profile-detail ul.dgree-top li p span {
+    background: 0 0;
+    padding: 0;
+    width: 90%;
+    float: left;
+    word-break: break-all;
+}
+.profile-detail span {
+    color: #222;
+    font-size: 13px;
+    background: #f0f0f5;
+    padding: 3px 7px;
+    text-transform: capitalize;
+    border-radius: 2px;
+}
+.profile-detail h4 {
+    margin: 5px 0 0 0;
+    padding: 0;
+    font-size: 14px;
+    color: #222;
+    font-weight: 100;
+    float: left;
+    width: 100%;
+}
+.profile-detail span {
+    color: #222;
+    font-size: 13px;
+    background: #f0f0f5;
+    padding: 3px 7px;
+    text-transform: capitalize;
+    border-radius: 2px;
+}
+.doc_available {
+    width: 100%;
+    float: left;
+}
+.doc_available p.now {
+    color: #1e982e;
+    margin: 0;
+    padding: 3px 10px 3px;
+    border: 1px solid;
+    width: auto;
+    float: left;
+    margin-top: 8px;
+    font-size: 14px;
+}
+.doctor-address {
+    float: right;
+    width: 35%;
+    padding: 26px 0 0 0;
+}
+.rating_doctor-div {
+    position: absolute;
+    right: 147px;
+    top: 0;
+    width: auto;
+}
+
+.rating_doctor-div span.checked {
+    color: #14bef0;
+}
+.rating_doctor-div span {
+    padding: 0 8px 0 0;
+}
+.rating_doctor-div span {
+    color: #ddd;
+}
+.listing-right-wrapper .listing .fees {
+    font-weight: 300;
+    border-top: 1px solid #f1f1f1;
+    border-bottom: 1px solid #f1f1f1;
+}
+.fees {
+    margin: 5px 0 0 0;
+    padding: 0;
+    font-size: 15px;
+    color: #222;
+    float: left;
+    text-transform: capitalize;
+    width: 100%;
+}
+.list-bottom {
+    width: 100%;
+    float: left;
+    margin-top: 15px;
+}
+.cal-doctor {
+    width: auto;
+    float: left;
+}
+.cal-doctor a {
+    background: #14bef0;
+    color: #fff;
+    font-size: 14px;
+    padding: 4px 8px;
+    float: left;
+    text-decoration: none;
+    margin: 0;
+    border-radius: 2px;
+    font-weight: 400;
+    text-shadow: 0 0 0;
+    box-shadow: 0 0 0;
+}
+.cal-doctor img {
+    float: left;
+    margin: 5px 4px 0 0;
+    width: 15px;
+}
+.pagination {
+    margin: 5px 0 20px !important;
+}
+.pagination li {
+    width: auto !important;
+    margin: 0 0 !important;
+}
+.pagination li {
+    width: auto !important;
+    margin: 0 0 !important;
+}
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+    background-color: #14bef0;
+    border-color: #14bef0;
+}
+.pagination>li>a, .pagination>li>span {
+    color: #14bef0;
+    padding: 6px 15px;
+}

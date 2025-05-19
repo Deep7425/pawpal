@@ -287,6 +287,7 @@ Route::any('/member', 'HomeController@generateCode')->name('generateCode');
 Route::any('/generateCouponCode', 'HomeController@generateCouponCode')->name('generateCouponCode');
 Route::any('/about-us', 'HomeController@aboutUs')->name('aboutUs');
 Route::any('/contact-us', 'HomeController@contactUs')->name('contactUs');
+Route::any('/mission', 'HomeController@Mission')->name('Mission');
 Route::any('/career', 'HomeController@carrerUs')->name('carrerUs');
 Route::any('/career-detail/{id?}', 'HomeController@carrerDetail')->name('carrerDetail');
 Route::any('/job-apply/{id?}', 'HomeController@jobApply')->name('jobApply');

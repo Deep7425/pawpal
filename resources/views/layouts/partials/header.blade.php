@@ -1,4 +1,4 @@
-<head>
+
 	
     <head>
         <meta charset="utf-8">
@@ -29,4 +29,3 @@
         <!-- Template Stylesheet -->
         <link href="{{url('css/style.css')}}" rel="stylesheet">
     </head>
-</head>

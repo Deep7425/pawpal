@@ -3497,12 +3497,7 @@ if (!function_exists('getAdmins')) {
 		return $admins;
     }
 }
-if (!function_exists('paytmAuthToken')) {
-    function paytmAuthToken() {
-		$token = "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI4NTVmOWJkOC1hZjQ4LTRmYjItYjM5Yy04NGJiMzQ0NTg1MmUiLCJ1bmlxdWVfbmFtZSI6InN1ZGhhbnNodS5nQGhlYWx0aGdlbm5pZS5jb20iLCJuYW1laWQiOiJzdWRoYW5zaHUuZ0BoZWFsdGhnZW5uaWUuY29tIiwiZW1haWwiOiJzdWRoYW5zaHUuZ0BoZWFsdGhnZW5uaWUuY29tIiwiYXV0aF90aW1lIjoiMDgvMTcvMjAyMSAxMTozMTo0MCIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6IkFETUlOSVNUUkFUT1IiLCJleHAiOjI1MzQwMjMwMDgwMCwiaXNzIjoiQ2xhcmVfQUkiLCJhdWQiOiJDbGFyZV9BSSJ9.fo9BcUf-qWedDHa10iQxQi4PHM8sR4gvMTsISpIlWeo";
-		return $token;
-    }
-}
+
 if (!function_exists('sendWhatAppMsg')) {
 	function sendWhatAppMsg($post_data,$mobile_no){
 		  $curl = curl_init();

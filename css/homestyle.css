@@ -1,0 +1,1528 @@
+::-webkit-input-placeholder {
+ color: #888!important;
+ font-family: 'Inter', sans-serif;
+}
+::-moz-placeholder {
+ color: #888!important;
+ font-family: 'Inter', sans-serif;
+}
+:-ms-input-placeholder {
+ color: #888!important;
+  font-family: 'Inter', sans-serif;
+}
+:-moz-placeholder {
+ color: #888!important;
+  font-family: 'Inter', sans-serif;
+}
+.covidHelp {
+	width: 100%;
+	float: left;
+	padding: 20px 20px 10px;
+	margin: 0px;
+	background: #ffe2d1;
+	border-radius: 30px;
+	margin-bottom: 32px;
+	border: 2px solid #fcd2ba;
+	margin-top: 35px;
+}
+.covidHelpSection {
+	width: 100%;
+	float: left;
+	padding: 0px 0px 0px 0px;
+}
+.covidHelpBlock {
+	width: 100%;
+	float: left;
+	padding: 0px 0px 20px;
+	text-align: center;
+}
+li.login.covid-info {
+	display: none;
+}
+.covidHelpBlock h6 span {
+	color: #ff5a00;
+}
+.covidHelpBlock h6 {
+	width: 100%;
+	float: left;
+	padding: 0px 0px 0px 0px;
+	margin: 0px;
+	font-size: 43px;
+	color: #ff4200;
+	font-weight: 700;
+}
+.slide.homePageDoctors {
+	outline: none;
+}
+.slide.homePageDoctors img {
+	border-radius: 0px !important;
+}
+.slick-slide {
+	margin: 0px !important;
+}
+.home-slider-ss .slick-prev {
+	position: absolute;
+	left: 2%;
+	top: 40%;
+	background: url(../img/left.png) no-repeat;
+	z-index: 999999;
+	border: 0px;
+	width: 40px;
+	background-size: cover;
+	height: 40px;
+	text-indent: -99999999px;
+}
+.home-slider-ss .slick-next {
+	position: absolute;
+	right: 2%;
+	top: 40%;
+	background: url(../img/right.png) no-repeat;
+	z-index: 999999;
+	border: 0px;
+	width: 40px;
+	background-size: cover;
+	height: 40px;
+	text-indent: -99999999px;
+}
+.covidHelpBlock p {
+	width: 100%;
+	float: left;
+	padding: 0px 0px 0px 0px;
+	margin: 0px;
+	color: #000;
+	font-size: 20px;
+}
+.covidHelpBox {
+	width: 100%;
+	float: left;
+	padding: 0px 0px 0px 0px;
+}
+.covidHelpText {
+	width: 32%;
+	float: left;
+	padding: 0px;
+}
+.covidHelpText1 {
+	width: 50%;
+	float: left;
+	padding: 0px;
+	position: relative;
+}
+.covidHelpText1 label {
+	width: 100%;
+	float: left;
+	padding: 5px 10px 0px 0px;
+	margin: 0px;
+	color: #000;
+	font-size: 16px;
+	text-align: right;
+}
+.covidHelpText1 .Families {
+	width: auto;
+	float: left;
+	padding: 6px 20px;
+	border-radius: 30px;
+	background: #ff5a00;
+	color: #fff;
+}
+.covidHelpText1 span {
+	width: auto;
+	float: left;
+	padding: 6px 0px 0px 7px;
+	font-size: 15px;
+	color: #000;
+}
+.covidHelpBox .covidHelpText:nth-child(3n+0) .covidHelpText1:last-child span {
+	position: absolute;
+	right: 0px;
+}
+.CovidHelpBtn {
+	width: 100%;
+	float: left;
+	padding: 10px 0px 0px 0px;
+	text-align: center;
+	border-top: 1px solid #fff;
+	margin-top: 20px;
+}
+.CovidHelpBtn span {
+	font-size: 15px;
+	color: #000;
+}
+a.btn.CovidHelpBtn1 {
+	background: #03a0d5;
+	color: #fff;
+	border-radius: 30px;
+	padding: 4px 20px 4px;
+}
+.blog-crasuseal .blog-list:last-child {
+	margin-right: 0;
+}
+.well.text-center.calculate_bmi_report_data .well.text-center .cat_class_change {
+	width: 100%;
+	float: left;
+	padding: 0;
+	margin: 6px 0 15px;
+	text-align: center;
+}
+.bmi-wrapper h2 {
+	margin: 0;
+	padding: 0 0 10px 0;
+	width: 100%;
+	float: left;
+	background: 0 0;
+	font-size: 35px;
+	font-weight: 800;
+	 font-family: 'Inter', sans-serif;
+	color: #fff;
+	text-transform: uppercase;
+}
+.blink_me {
+	animation: blinker 1s linear infinite;
+}
+ @keyframes blinker {
+ 50% {
+ opacity: 0;
+}
+}
+.cta-section {
+	margin-bottom: -30px;
+}
+h2.jumbotron.text-center.JumbotronTextCenter {
+	padding: 0px;
+	background: #fff;
+	color: #0b316d;
+	font-size: 35px;
+	font-family: 'Inter', sans-serif;
+	font-weight: 800;
+} 
+.cta {
+	position: relative;
+}
+.position-relative {
+	position: relative!important;
+}
+.cta:before {
+	position: absolute;
+	content: "";
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.counter-stat {
+	text-align: center;
+	padding: 55px 0px 40px 0px;
+	position: relative;
+	color: #6F8BA4;
+}
+.counter-stat i {
+	display: block;
+	color: rgba(255, 255, 255, 0.16);
+	font-size: 90px;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: -12px;
+	-webkit-transform: translateY(25px);
+	transform: translateY(25px);
+}
+.counter-stat span {
+	font-size: 50px;
+	color: #fff;
+	font-weight: 900;
+}
+.counter-stat p {
+	margin-bottom: 0px;
+	color: #fff;
+	font-size: 18px;
+}
+.counter-stat {
+	text-align: center;
+	padding: 25px 0px 15px 0px;
+	position: relative;
+}
+p {
+	margin-bottom: 0px;
+	color: rgba(255,255,255,.7);
+}
+.mb--80 {
+	margin-bottom: -80px;
+}
+.btn1InstallApp {
+	margin-top: 30px;
+}
+.bmi-wrapper .row {
+	width: 100%;
+	float: left;
+}
+.bmi-wrapper form .form-group.wrapper {
+	width: 32%;
+	float: left;
+	border: 0;
+	padding: 1%;
+	border-top-left-radius: 4px;
+	border-right: 0;
+	border-bottom-left-radius: 4px;
+}
+.BMICalculatorSection {
+	width: 100%;
+	float: left;
+	background: #fff;
+}
+.well.text-center.calculate_bmi_report_data .well h3 {
+	font-weight: 600;
+	font-size: 24px;
+	color: #14bef0;
+}
+.banner-section {
+	width: 100%;
+	float: left;
+	padding: 0;
+	position: relative;
+}
+.banner-content {
+	width: 100%;
+	float: left;
+	padding: 0;
+}
+.banner-section img {
+	width: 100%;
+	height: auto;
+}
+.banner-service-section {
+	background: #fff;
+}
+body .bmi-wrapper form .form-group.wrapper .radioTab.active span.label {
+	background: #14bef0!important;
+	color: #fff;
+	font-size: 14px;
+}
+.product-section {
+	width: 100%;
+	float: left;
+	padding: 0 0 25px 0;
+	margin-top: 40px;
+	position: relative;
+	z-index: 999;
+	display: none;
+}
+.product-section .dd {
+	padding: 0;
+}
+.product-block {
+	width: 100%;
+	float: left;
+	padding: 0;
+	background: #fff;
+	position: relative;
+}
+.product-image {
+	width: 100%;
+	text-align: center;
+	float: left;
+	padding: 0;
+}
+.most-visited-profile {
+	background: #fff!important;
+	padding: 0 0 25px;
+}
+.Top-Specialities123 {
+	width: 100%;
+	float: left;
+	padding: 0;
+}
+.Top-Specialities123 h1 {
+	width: 100%;
+	padding: 0 0 20px 0;
+	margin: 0;
+	font-size: 26px;
+	font-weight: 600;
+}
+.tcb-product-slider.Top-Specialities123 h2 {
+	font-weight: 800;
+	font-size: 35px;
+	text-align: center;
+	font-family: 'Inter', sans-serif;
+	color: #014a7f;
+	margin: 40px 0px 20px 0px;
+}
+.desktop_topSpeciality .tcb-product-item {
+	/*background: #dcf4ff;
+		    min-height: 220px;
+    border-radius: 20px;
+
+	*/
+	cursor: pointer;
+	text-align: center;
+	margin-left: 2px;
+	margin-top: 2px;
+	margin-bottom: 3px;
+	box-shadow: 0 0 0;
+}
+.tcb-product-photo {
+	text-align: center;
+	height: auto;
+}
+.tcb-product-item .tcb-product-photo a {
+	background: 0 0;
+}
+.most-visited-profile a {
+	color: #0b3a7e;
+	border-radius: 0;
+	display: inline-block;
+	padding: 0;
+	font-size: 18px;
+	margin: 0;
+	font-weight: 700;
+}
+.tcb-product-photo img {
+	display: inline-block;
+	width: 351px;
+	margin: 18px 0 0 0;
+	border: 0px;
+	border-radius: 5px;
+}
+.tcb-product-info {
+	padding: 15px 0;
+}
+.tcb-product-title h4 {
+    margin: 0;
+    white-space: nowrap;
+    text-align: left;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    color: #014a7f;
+    font-weight: 600;
+    font-size: 18px;
+ }
+.tcb-product-item .tcb-hline {
+	margin: 10px 0;
+	height: 1px;
+	display: none;
+	background: #ccc;
+}
+.tcb-product-price {
+	color: #222;
+    font-weight: 400;
+	margin:5px 0 0 0;
+    font-size: 15px;
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+.tcb-product-slider #carousel-example-generic .carousel-control.left {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.tcb-product-slider #carousel-example-generic .carousel-control {
+	width: 40px;
+	height: 40px;
+	background: 0 0;
+	box-shadow: 0 0 4px 0 rgba(0, 0, 0, .5215686274509804);
+	border: 0 solid #222;
+	border-radius: 34px;
+	color: #222;
+	text-shadow: 0 0 0;
+	font-weight: 300;
+	line-height: 40px;
+	text-align: center;
+	background: #fff;
+}
+.tcb-product-slider .carousel-control {
+	width: 5%;
+	height: 34px;
+	margin: auto;
+}
+.tcb-product-item {
+	background: #fff;
+	cursor: pointer;
+	min-height: 220px;
+	border-radius: 4px;
+	text-align: center;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .31);
+	margin-left: 2px;
+}
+.tcb-product-photo {
+	text-align: center;
+	height: auto;
+}
+.bmi-wrapper {
+	display: block;
+	margin: 0;
+	width: 100%
+}
+.bmi-wrapper .row {
+	width: 100%;
+	float: left;
+}
+.bmi-wrapper h2 {
+	margin: 0;
+	padding: 0 0 10px 0;
+	width: 100%;
+	float: left;
+	background: 0 0;
+	font-size: 37px;
+	font-weight: 700;
+	 font-family: 'Inter', sans-serif;
+	text-align: center;
+	color: #0b316d;
+}
+.BMICalculatorSection {
+	width: 60%;
+	margin: 0 auto;
+	background: #fff;
+	float: none;
+	display: flex;
+}
+.bmi-wrapper form .form-group.wrapper {
+	width: 32%;
+	float: left;
+	border: 0;
+	padding: 1%;
+	border-top-left-radius: 4px;
+	border-right: 0;
+	border-bottom-left-radius: 4px;
+}
+.bmi-wrapper form .form-group.wrapper .radio:first-child {
+	padding-top: 19px;
+}
+.bmi-wrapper form .form-group.wrapper .radio {
+	width: 70%;
+	margin: 15px auto;
+	text-align: center;
+}
+body .bmi-wrapper form .form-group.wrapper .radioTab.active span.label {
+	background: #14bef0!important;
+	color: #fff;
+	font-size: 14px;
+}
+body .bmi-wrapper form .form-group.wrapper .radioTab label span.label {
+	background: #ddd!important;
+	color: #222;
+	font-size: 14px;
+}
+.bmi-wrapper form .form-group.wrapper span {
+	margin-top: 0;
+	margin-left: 20px;
+	padding: 12px 9px;
+	width: 120px;
+	display: block;
+	font-size: 14px;
+	font-weight: 400;
+}
+.bmi-wrapper form .form-group.wrapper input {
+	margin: 10px 0 0 0;
+	display: none;
+}
+.label-success {
+	background-color: #14bef0!important;
+}
+.label-danger {
+	background-color: #02547f!important;
+}
+.bmi-wrapper form #metric {
+	float: left;
+	width: 48%;
+	background: 0 0;
+	border: 0;
+	padding: 20px;
+	border-left: 1px solid #fff;
+}
+.form-field-bmi {
+	width: 100%;
+	float: left;
+	padding-bottom: 0;
+	margin: 0;
+}
+.form-field-bmi input {
+	box-shadow: 0 0 0;
+	border: 1px solid #ddd;
+	text-transform: capitalize;
+	box-shadow: 0 0 0;
+	-moz-appearance: none;
+	-webkit-appearance: none;
+}
+.ng-pristine #metric:last-child {
+	float: right;
+	width: 100%
+}
+.well.text-center.calculate_bmi_report_data {
+	float: left;
+	width: 100%;
+	border: 0;
+	margin: 0;
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+	padding: 0;
+	border-top: 0;
+	box-shadow: 0 0 0;
+	border-radius: 0 4px 4px 0;
+	background: 0 0;
+}
+.well.text-center.calculate_bmi_report_data .well {
+	background: 0 0;
+	border: 0;
+	box-shadow: 0 0 0;
+	padding: 0;
+	margin: 0;
+}
+.well.text-center.calculate_bmi_report_data .well h3 {
+	font-weight: 600;
+	font-size: 24px;
+	color: #14bef0;
+	margin: 0;
+	padding: 0;
+}
+.text-muted {
+	color: #14bef0;
+	padding-top: 10px;
+}
+.well.text-center.calculate_bmi_report_data .well.text-center .cat_class_change {
+	width: 100%;
+	float: left;
+	padding: 0;
+	margin: 6px 0 15px;
+	text-align: center;
+}
+.well.text-center.calculate_bmi_report_data h4.text-muted.text-muted-change {
+	color: #222;
+	font-size: 17px;
+	font-weight: 500;
+	background: #fff;
+	display: inline-block;
+	margin: 0;
+}
+.well.text-center.calculate_bmi_report_data .well .label-default {
+	background-color: #14bef0!important;
+	color: #fff;
+	font-size: 24px;
+}
+.text-muted {
+	color: #14bef0;
+	padding-top: 10px;
+}
+.blog-wrapper {
+	background: #fff;
+	padding: 6% 0;
+}
+.blog-content {
+	width: 100%;
+	float: left;
+	margin-right: 0;
+	text-align: center;
+	padding-bottom: 25px;
+}
+.blog-content h3 {
+	width: 100%;
+ 	font-family: 'Inter', sans-serif;
+	float: left;
+	padding: 0 0 5px 0;
+	margin: 0;
+	color: #0b316d;
+	font-size: 35px;
+	font-weight: 800;
+	text-transform: capitalize;
+}
+.blog-content h3 .subtitle {
+	width: 100%;
+	text-transform: uppercase;
+	float: left;
+	font-family: 'Inter', sans-serif;
+	margin:0 0 5px 0;
+	font-size: 14px;
+	font-weight:400;
+	letter-spacing: 3px;
+	color: #222;
+}
+.counter-stat strong {
+	font-size: 30px;
+	color: #fff;
+}
+.jumbotron span.subtitle {
+	width: 100%;
+	float: left;
+	font-size: 14px;
+	letter-spacing: 3px;
+	color: #222;
+}
+.most-visited-profile span.subtitle {
+	width: 100%;
+    float: left;
+    font-size: 15px;
+    letter-spacing: 0px;
+    color: #222;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    margin: 10px 0 20px 0;
+}
+.blog-content p {
+	padding: 12px 0 12px 0;
+	color:#222;
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+}
+body .blog-wrapper .blog-content a button:hover{
+	background:#ddd;
+	color:#222;
+	text-decoration:none;
+}
+body .blog-wrapper .blog-content p{
+	color: #222;
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;	
+}
+body .blog-content a button:hover{
+	background:#ddd !important;
+	color:#222 !important;
+	text-decoration:none;
+}
+.blog-content a button {
+	background: #ff6100;
+	font-family: 'Inter', sans-serif;
+	transition: background-color 0.5s ease;
+    padding: 10px 20px;
+    color: #fff;
+    border-radius: 50px;
+    border: 0px;
+    font-size: 15px;
+    color: #fff;
+    font-weight: 400;
+}
+.blog-content a button:hover {
+	background: #14bef0;
+	color: #fff;
+}
+.blog-crasuseal {
+	width: 100%;
+	float: left;
+}
+.blog-crasuseal .blog-list {
+    width: 32%;
+    float: left;
+    margin-right: 2%;
+    background: #fff;
+    padding: 1%;
+    box-shadow: 0 5px 9px #ddd;
+    border: 1px solid #efefef;
+    border-radius: 15px;
+    min-height: 335px;
+}
+.blog-crasuseal .blog-list a {
+	color: #222;
+	padding-bottom: 8px;
+	padding-top: 8px;
+	text-decoration: none;
+}
+.blog-crasuseal .blog-list img {
+	width: 100%;
+	max-width: 100%;
+	border-radius: 4px;
+}
+.blog-wrapper .blog-wrapper-section .blog-crasuseal .blog-list h6 {
+	float: left;
+	width: auto;
+	margin: 10px 0;
+	font-size: 13px;
+}
+.blog-crasuseal .blog-list h6 {
+	color: #ff6100;
+	font-size: 13px;
+}
+.blog-wrapper .blog-wrapper-section .blog-crasuseal .blog-list .date-post {
+	float: right;
+	width: auto;
+	margin: 8px 0!important;
+	font-size: 13px;
+}
+.container.blog-wrapper-section .blog-crasuseal .date-post {
+	margin: 0!important;
+	float: left;
+	width: 100%
+}
+.container.blog-wrapper-section .date-post {
+	margin: 14px 0 0 0;
+}
+.date-post {
+	float: right;
+	margin: 0;
+	font-size: 13px;
+	color: #888;
+}
+.blog-wrapper .blog-wrapper-section .blog-crasuseal .blog-list h4 {
+	width: 100%;
+    float: left;
+    text-transform: capitalize;
+    font-weight: 600;
+    letter-spacing: 0px;
+    font-size: 17px;
+    font-family: 'Inter', sans-serif;
+    margin: 4px 0 6px;
+    line-height: 22px;
+}
+.tcb-product-slider.Top-Specialities123.desktop_topSpeciality.is_website .carousel.slide .carousel-inner .item .row {
+	margin-left: 0;
+	margin-right: 0;
+}
+.form-field-bmi {
+	width: 100%;
+	float: left;
+	padding-bottom: 10px;
+	margin: 0;
+}
+.BMICalculatorSection input {
+	box-shadow: 0 0 0;
+	font-size: 16px;
+	color: #222;
+	border: 1px solid #ddd;
+	text-transform: capitalize;
+	box-shadow: 0 0 0;
+	-moz-appearance: none;
+	-webkit-appearance: none;
+	margin-bottom: 8px;
+}
+.form-field-bmi {
+	width: 100%;
+	text-align: center;
+	float: left;
+	padding-bottom: 10px;
+	margin: 0;
+}
+.bmi-field {
+	width: 50%;
+	float: left;
+	text-align: left;
+}
+.bmi-wrapper #metric .form-field-bmi p {
+	display: inline-block;
+	max-width: 100%;
+	margin-bottom: 5px;
+	font-size: 17px;
+	font-weight: 500;
+	color: #222;
+}
+.bmi-field:first-child {
+	padding-right: 3%;
+}
+body .bmi-wrapper button#bmiBtn {
+	background: #14bef0!important;
+	color: #fff;
+	transition: .35s ease-in-out;
+	font-size: 18px;
+	padding: 7px 10px;
+	width: 120px;
+	outline: none;
+	font-weight: 400;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: baseline;
+	border-radius: 25em;
+	border: 1px solid #14bef0;
+	margin: 20px auto 0 auto;
+}
+body .well.text-center.calculate_bmi_report_data .cat_class_change span.cal_bmi.label {
+	color: #222;
+	font-size: 20px;
+}
+.bmi-wrapper #metric {
+	float: none;
+	width: 60%;
+	background: 0 0;
+	border: 0;
+	padding: 20px;
+	margin: 0 auto;
+}
+.blog-wrapper .blog-content a button:hover {
+	background: none;
+	color: #0b316d;
+	text-decoration: underline;
+	outline: none;
+}
+.blog-wrapper .blog-content a button:focus {
+	background: none;
+	box-shadow: 0 0 0;
+}
+
+.top-order-list li a button:active{
+	box-shadow:0 0 0;
+	
+}
+.intro-text-block {
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin: 6px 0 0 0;
+	color: #222;
+    font-family: 'Inter', sans-serif;
+    font-size: 13px;
+}
+.cartHomePage li li:hover ul{
+	display:block;
+}
+
+ @media only screen and (max-width:639px) {
+body .counter-stat span {
+	font-size: 45px;
+}
+body .section.cta-section {
+	padding-bottom: 25px;
+}
+body .counter-stat {
+	padding: 12px 0px 12px 0px;
+}
+.tcb-product-slider.Top-Specialities123 .mobile-speciality-box h2 {
+	padding: 0px !important;
+}
+body .nav.navbar-nav.navbar-right {
+	margin-right: 0px;
+}
+body .tcb-product-item {
+	background: none;
+	cursor: pointer;
+	min-height: 220px;
+	border-radius: 20px;
+	text-align: center;
+	margin-left: 2px;
+	margin-top: 2px;
+	margin-bottom: 3px;
+	box-shadow: 0 0 0;
+}
+li.login.covid-info {
+	display: none;
+	width: auto;
+}
+.home-slider-ss .slick-prev {
+	display: none !important;
+}
+.home-slider-ss .slick-next {
+	display: none !important;
+}
+li.NewRightSideMenudesk {
+	position: absolute;
+	right: 0px;
+	top: -11px;
+	width: 40px !important;
+	float: right !important;
+}
+.blog-content a button {
+	position: inherit !important;
+}
+h2.jumbotron.text-center.JumbotronTextCenter {
+	padding: 0px;
+	background: #fff;
+	color: #0b316d;
+	font-size: 24px;
+	font-weight: 600;
+}
+.slick-slide {
+	margin: 0px 5px;
+}
+.covidHelpBlock h6 {
+	font-size: 32px;
+	font-weight: 700;
+	color: #0b316d;
+}
+.covidHelpBox .covidHelpText:nth-child(3n+0) .covidHelpText1:last-child span {
+	position: inherit;
+	right: 0px;
+}
+.covidHelpBlock p {
+	font-size: 16px;
+	color: #222
+}
+.covidHelpText {
+	width: 31%;
+	float: left;
+	padding: 0;
+	text-align: center;
+}
+.covidHelpBox .covidHelpText:nth-child(2n) {
+	margin: 0 2%;
+}
+.covidHelpText1 span {
+	padding: 3px 0px 0px 7px;
+	width: 100%;
+	float: left;
+}
+.covidHelpText .covidHelpText1:first-child {
+	width: 100%;
+	text-align: center;
+}
+.covidHelpText1 .Families {
+	font-size: 13px;
+	padding: 3px 5px;
+	text-align: center;
+	width: 100%;
+	letter-spacing: -0.6px;
+}
+.covidHelp {
+	padding: 10px 10px 10px;
+	margin-bottom: 10px;
+	margin-top: 0px;
+	background: none;
+	border-radius: 15px;
+}
+.covidHelpText1 label {
+	padding: 2px 3px 0px 0px;
+	text-align: center;
+	letter-spacing: 0;
+	font-size: 16px;
+}
+.covidHelpText1 {
+	width: 100%;
+}
+.CovidHelpBtn {
+	padding: 0px 0px 0px 0px;
+	margin-top: 7px;
+}
+.covidHelpBlock {
+	padding: 0px 0px 8px;
+}
+body .bmi-wrapper #metric {
+	width: 100%
+}
+body .well.text-center.calculate_bmi_report_data {
+	width: 100%;
+	padding-top: 0;
+}
+.BMICalculatorSection {
+	width: 95%;
+	float: none;
+	display: table;
+	margin: auto;
+}
+.bmi-wrapper form .form-group.wrapper .radio {
+	width: auto;
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+.bmi-wrapper form .form-group.wrapper .radio:first-child {
+	padding-top: 0;
+	margin-right: 16px;
+	margin-bottom: 0;
+}
+.bmi-wrapper .checkbox label, .radio label {
+	padding-left: 0;
+}
+.bmi-wrapper form .form-group.wrapper span {
+	margin-left: 0;
+}
+.bmi-wrapper form .form-group.wrapper span {
+	border-radius: 0;
+}
+.bmi-wrapper form .form-group.wrapper {
+	background: 0 0;
+	padding: 0;
+}
+.bmi-wrapper form .form-group.wrapper {
+	width: 100%;
+	margin-bottom: 0;
+	min-height: auto!important;
+}
+.bmi-wrapper form #metric {
+	padding: 20px 20px 0;
+}
+.bmi-wrapper form #metric {
+	width: 100%;
+	min-height: auto!important;
+}
+.blog-wrapper {
+	position: relative;
+	padding-bottom: 70px;
+}
+.blog-content {
+	width: 100%;
+	text-align: center;
+}
+.blog-content h3 {
+	font-size: 18px;
+}
+.blog-content h3 {
+	text-align: center;
+}
+.blog-content p {
+	text-align: center;
+	font-size: 16px;
+}
+.blog-content a button {
+	background: #14bef0;
+	border: 0;
+	border-radius: 3px;
+	color: #fff;
+	position: absolute;
+	padding: 10px 20px;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	z-index: 9999999;
+	margin-bottom: 20px;
+	width: 150px;
+}
+.blog-crasuseal {
+	width: 100%;
+	float: left;
+}
+.blog-crasuseal .blog-list {
+	width: 100%;
+	float: left;
+	margin-bottom: 15px;
+	margin-right: 0;
+}
+.blog-crasuseal .blog-list img {
+	height: auto;
+}
+.tcb-product-photo img {
+	width: 55px;
+	height: 55px;
+	float: left;
+}
+.most-visited-profile a {
+	font-size: 15px;
+	margin: -5px 0 0 0;
+}
+.tcb-product-title h4 {
+	margin: 0 0 6px;
+}
+.mobile-speciality-Block .tcb-product-info {
+	padding: 15px 15px 0 70px;
+	text-align: left;
+	min-height: 90px;
+}
+.tcb-product-price {
+	font-size: 16px;
+	line-height: 16px;
+}
+.banner-mob {
+	width: 100%;
+	padding: 0 0;
+	float: left;
+	margin-top: 0;
+}
+.banner-mob img {
+	max-width: 100%;
+	height: auto;
+	width: 100%
+}
+.mobile-speciality-Block .tcb-product-item .tcb-product-photo a {
+	background: 0 0;
+	float: left;
+	width: auto;
+	padding: 12px 0 0 8px;
+}
+.mobile-speciality-Block .tcb-product-info {
+	padding: 10px 15px 0 70px;
+	text-align: left;
+	min-height: 75px;
+}
+.mobile-speciality-Block .tcb-product-item {
+	background: #fff;
+	cursor: pointer;
+	min-height: auto;
+	border-radius: 4px;
+	text-align: center;
+	box-shadow: 0 0 0;
+	border-bottom: 1px solid #ddd;
+	margin-left: 2px;
+	margin-bottom: 10px!important;
+}
+.mobile-speciality-Block .tcb-product-photo img {
+	margin: 10px 0 0 8px;
+}
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+	position: relative;
+	min-height: 0;
+	padding-right: 0;
+	padding-left: 0;
+}
+.bmi-wrapper .container {
+	margin: 0;
+	padding: 0;
+}
+.bmi-wrapper .row {
+	margin: 0;
+	padding: 0;
+}
+.bmi-wrapper form .form-group.wrapper {
+	background: 0 0;
+	padding: 15px 0 0;
+}
+.bmi-wrapper form .form-group.wrapper {
+	width: 100%;
+	margin-bottom: 0;
+	min-height: auto!important;
+}
+.mobile-speciality-box {
+	padding: 20px 0 15px;
+}
+.BMICalculatorSection .form-group.wrapper {
+	padding-left: 20px!important;
+}
+.tcb-product-slider.Top-Specialities123 h2 {
+	font-size: 24px;
+	text-align: left;
+	padding: 0 15px;
+	margin: 0 0 5px 0;
+	width: 100%;
+	float: left;
+}
+.well.text-center.calculate_bmi_report_data .well h3 {
+	margin: 0 0 10px;
+}
+.tcb-product-title h4 {
+	font-size: 20px;
+	color: #0b316d;
+}
+.horizontal-scroll-wrapper .view_information .tcb-product-item .tcb-product-photo {
+	width: 100%;
+	float: left;
+}
+.horizontal-scroll-wrapper .view_information .tcb-product-item .tcb-product-photo img {
+	float: none;
+	width: 100%;
+	height: auto;
+	margin: 0px;
+}
+.horizontal-scroll-wrapper .view_information .tcb-product-item .tcb-product-info {
+	padding: 15px 0;
+	width: 100%;
+	float: left;
+}
+}
+@media only screen and (min-width:640px) and (max-width:767px) {
+.covidHelpBlock h6 {
+	font-size: 30px;
+	font-weight: 900;
+}
+.home-slider-ss .slick-prev {
+	display: none !important;
+}
+.home-slider-ss .slick-next {
+	display: none !important;
+}
+.banner-mob.is_mobile {
+	padding: 15px 15px 0 15px !important;
+}
+li.NewRightSideMenudesk {
+	position: absolute;
+	right: 0px;
+	top: -11px;
+	width: 40px !important;
+	float: right !important;
+}
+.slick-slide {
+	margin: 0px 8px;
+}
+.counter-stat span {
+	font-size: 50px;
+}
+.counter-stat i {
+	font-size: 75px;
+}
+li.login.covid-info {
+	display: initial;
+	width: auto;
+}
+.covidHelpBox .covidHelpText:nth-child(3n+0) .covidHelpText1:last-child span {
+	position: inherit;
+	right: 0px;
+}
+.covidHelpBlock p {
+	font-size: 16px;
+}
+.covidHelpText {
+	width: 100%;
+	float: left;
+	padding: 0px 0px 4px;
+}
+.covidHelpText1 span {
+	padding: 3px 0px 0px 7px;
+	width: 21%;
+	float: left;
+}
+.covidHelpText .covidHelpText1:first-child {
+	width: 40%;
+}
+.covidHelpText1 .Families {
+	padding: 3px 12px;
+	text-align: center;
+	width: 79%;
+}
+.covidHelp {
+	padding: 10px 10px 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.covidHelpText1 label {
+	padding: 2px 10px 0px 0px;
+	text-align: left;
+}
+.CovidHelpBtn {
+	padding: 8px 0px 0px 0px;
+	margin-top: 7px;
+}
+.covidHelpBlock {
+	padding: 0px 0px 8px;
+}
+.banner-section img {
+	width: 100%
+}
+.banner-mob .homePageDoctors.hideforPaytm img {
+	width: 100%;
+	height: auto;
+}
+.Top-Specialities123.desktop_topSpeciality .col-sm-3 {
+	width: 24.6%;
+	padding: 3px;
+}
+#carousel-example-generic {
+	position: relative;
+	height: 275px;
+	overflow: hidden;
+}
+.most-visited-profile a {
+	color: #0b3a7e;
+	border-radius: 0;
+	display: inline-block;
+	padding: 0;
+	font-size: 15px;
+	margin: 0;
+	font-weight: 700;
+}
+.tcb-product-title h4 {
+	margin-bottom: 5px;
+}
+.tcb-product-price {
+	color: #222;
+	font-size: 12px;
+	line-height: normal;
+}
+.tcb-product-slider #carousel-example-generic .carousel-control.left {
+	position: absolute;
+	top: inherit;
+	left: -50px;
+	bottom: 0;
+	right: 0;
+}
+.tcb-product-slider #carousel-example-generic .carousel-control.left {
+	position: absolute;
+	top: inherit;
+	left: -50px;
+	bottom: 0;
+	right: 0;
+}
+.blog-crasuseal .blog-list img {
+	height: auto;
+}
+.bmi-wrapper .row {
+	width: 100%;
+	float: left;
+	margin: auto;
+}
+.bmi-wrapper .checkbox label, .radio label {
+	padding-left: 0;
+}
+.bmi-wrapper form .form-group.wrapper span {
+	margin-left: 0;
+}
+.mobile-speciality-Block .tcb-product-item .tcb-product-photo a {
+	background: 0 0;
+	float: left;
+	width: auto;
+	padding: 12px 0 0 8px;
+}
+.mobile-speciality-Block .tcb-product-info {
+	padding: 15px 15px 0 70px;
+	text-align: left;
+	min-height: 75px;
+}
+.tcb-product-photo img {
+	width: 55px;
+	height: 55px;
+	float: left;
+}
+.mobile-speciality-Block .tcb-product-photo img {
+	margin: 10px 0 0 8px;
+}
+.mobile-speciality-Block .tcb-product-item {
+	background: #fff;
+	cursor: pointer;
+	min-height: auto;
+	border-radius: 4px;
+	text-align: center;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .16);
+	margin-left: 2px;
+	margin-bottom: 10px!important;
+}
+.tcb-product-title h4 {
+	font-size: 16px;
+}
+.horizontal-scroll-wrapper .view_information .tcb-product-item .tcb-product-photo {
+	width: 100%;
+	float: left;
+}
+.horizontal-scroll-wrapper .view_information .tcb-product-item .tcb-product-photo img {
+	float: none;
+	width: 75px;
+	height: 75px;
+}
+.horizontal-scroll-wrapper .view_information .tcb-product-item .tcb-product-info {
+	padding: 15px;
+	width: 100%;
+	float: left;
+}
+.horizontal-scroll-wrapper>div {
+	width: 33%
+}
+}
+ @media only screen and (min-width:768px) and (max-width:1024px) {
+.covidHelpBlock h6 {
+	font-size: 30px;
+	font-weight: 900;
+}
+.counter-stat span {
+	font-size: 50px;
+}
+.counter-stat i {
+	font-size: 75px;
+}
+.slick-slide {
+	margin: 0px 8px;
+}
+.covidHelpBox .covidHelpText:nth-child(3n+0) .covidHelpText1:last-child span {
+	position: inherit;
+	right: 0px;
+}
+.covidHelpBlock p {
+	font-size: 16px;
+}
+.covidHelpText {
+	width: 100%;
+	float: left;
+	padding: 0px 0px 4px;
+}
+.covidHelpText1 span {
+	padding: 3px 0px 0px 7px;
+}
+.covidHelpText1 .Families {
+	padding: 3px 10px;
+	width: 160px;
+	text-align: center;
+}
+.covidHelp {
+	padding: 10px 10px 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.covidHelpText1 label {
+	padding: 2px 10px 0px 0px;
+	text-align: left;
+}
+.CovidHelpBtn {
+	padding: 8px 0px 0px 0px;
+	margin-top: 7px;
+}
+.covidHelpBlock {
+	padding: 0px 0px 8px;
+}
+body .BMICalculatorSection {
+	width: 70%
+}
+#bs-example-navbar-collapse-1 {
+	width: 86%;
+	float: left;
+}
+.banner-section img {
+	width: 100%;
+	height: auto;
+}
+.Top-Specialities123.desktop_topSpeciality .col-sm-3 {
+	width: 24.6%;
+	padding: 3px;
+}
+.tcb-product-slider #carousel-example-generic .carousel-control.left {
+	position: absolute;
+	top: inherit;
+	left: -50px;
+	bottom: 0;
+	right: 0;
+}
+.tcb-product-slider #carousel-example-generic .carousel-control.right {
+	position: absolute;
+	top: inherit;
+	right: -50px;
+	bottom: 0;
+	left: 0;
+}
+.blog-crasuseal .blog-list img {
+	height: auto;
+}
+.bmi-wrapper .row {
+	margin: 0;
+}
+.tcb-product-title h4 {
+	font-size: 15px;
+}
+.tcb-product-price {
+	font-size: 13px;
+	line-height: 17px;
+}
+}
+@media only screen and (min-width:1025px) and (max-width:1200px) {
+.covidHelpText1 label {
+	font-size: 14px;
+}
+.covidHelpBlock h6 {
+	font-size: 30px;
+	font-weight: 900;
+}
+.covidHelpBox .covidHelpText:nth-child(3n+0) .covidHelpText1:last-child span {
+	position: inherit;
+	right: 0px;
+}
+.covidHelpBlock p {
+	font-size: 16px;
+}
+.covidHelpText {
+	width: 100%;
+	float: left;
+	padding: 0px 0px 4px;
+}
+.covidHelpText1 span {
+	padding: 3px 0px 0px 7px;
+}
+.covidHelpText1 .Families {
+	padding: 3px 10px;
+	width: 160px;
+	text-align: center;
+}
+.covidHelp {
+	padding: 10px 10px 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.covidHelpText1 label {
+	padding: 2px 10px 0px 0px;
+	text-align: left;
+}
+.CovidHelpBtn {
+	padding: 8px 0px 0px 0px;
+	margin-top: 7px;
+}
+.covidHelpBlock {
+	padding: 0px 0px 8px;
+}
+.covidHelp {
+	margin-top: 37px;
+}
+.banner-section img {
+	height: auto;
+}
+.blog-crasuseal .blog-list img {
+	height: auto;
+}
+}
